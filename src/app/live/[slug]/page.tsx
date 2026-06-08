@@ -1,4 +1,3 @@
-
 'use client';
 
 import { 
@@ -17,6 +16,25 @@ import { use } from 'react';
 
 export default function LiveMatchPage({ params }: { params: Promise<{ slug: string }> }) {
   const resolvedParams = use(params);
+  const slug = resolvedParams.slug;
+
+  /**
+   * قائمة روابط البث (iFrames)
+   * يمكنك تعديل الرابط المقابل لكل مباراة من هنا بسهولة
+   */
+  const iframeMapping: Record<string, string> = {
+    // المباراة الأولى (وادي دجلة ضد زد)
+    "dejla-vs-zid": "https://spoort.yala--shoot.online/albaplayer/on-time1/?serv=5",
+    
+    // مباريات أخرى (قم بتغيير الروابط أدناه عند توفرها)
+    "berkane-vs-tanger": "https://example.com/player/berkane-vs-tanger",
+    "netherlands-vs-uzbekistan": "https://example.com/player/netherlands-vs-uzbekistan",
+    "france-vs-ireland": "https://example.com/player/france-vs-ireland",
+    "colombia-vs-jordan": "https://example.com/player/colombia-vs-jordan",
+  };
+
+  // اختيار الرابط المناسب بناءً على المعرف (slug) أو استخدام رابط افتراضي إذا لم يوجد
+  const iframeSrc = iframeMapping[slug] || "https://example.com/placeholder-player";
 
   return (
     <div className="min-h-screen flex flex-col font-body bg-[#f0f0f2]">
@@ -53,7 +71,7 @@ export default function LiveMatchPage({ params }: { params: Promise<{ slug: stri
               frameBorder="0" 
               height="500px" 
               scrolling="1" 
-              src="https://spoort.yala--shoot.online/albaplayer/on-time1/?serv=5" 
+              src={iframeSrc} 
               width="100%"
               title="Koora Live Player"
               className="bg-black"
@@ -72,7 +90,7 @@ export default function LiveMatchPage({ params }: { params: Promise<{ slug: stri
               <LucideTv className="w-6 h-6 text-primary" />
               <div>
                 <p className="text-[10px] text-gray-400 font-bold uppercase tracking-wider">القناة الناقلة</p>
-                <p className="text-sm font-bold text-gray-700">On Time Sports</p>
+                <p className="text-sm font-bold text-gray-700">beIN Sports / On Time</p>
               </div>
             </div>
             <div className="flex items-center gap-3 p-3 bg-gray-50 rounded-lg">
