@@ -23,6 +23,7 @@ export default function RootLayout({
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&family=Tajawal:wght@400;500;700&display=swap" rel="stylesheet" />
       </head>
+      <meta name="google-site-verification" content="VzK0Ce6V01Jr_8MvkE_i_rwtYftEtrnNdtl5KY1cIdQ" />
       <body className="font-body antialiased selection:bg-accent selection:text-accent-foreground">
         {children}
       </body>
