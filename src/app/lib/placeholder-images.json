@@ -1,0 +1,23 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "club-logo",
+      "description": "Generic Football Club Logo",
+      "imageUrl": "https://picsum.photos/seed/club/100/100",
+      "imageHint": "football club logo"
+    },
+    {
+      "id": "national-flag",
+      "description": "Generic National Flag",
+      "imageUrl": "https://picsum.photos/seed/flag/100/100",
+      "imageHint": "national flag"
+    },
+    {
+      "id": "match-hero",
+      "description": "Football stadium at night",
+      "imageUrl": "https://picsum.photos/seed/football-stadium/1200/600",
+      "imageHint": "football stadium"
+    }
+  ]
+}
