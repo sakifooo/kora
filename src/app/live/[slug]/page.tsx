@@ -27,7 +27,7 @@ export default function LiveMatchPage({ params }: { params: Promise<{ slug: stri
     "dejla-vs-zid": "https://spoort.yala--shoot.online/albaplayer/on-time1/?serv=5",
     
     // مباريات أخرى (قم بتغيير الروابط أدناه عند توفرها)
-    "berkane-vs-tanger": "https://example.com/player/berkane-vs-tanger",
+    "berkane-vs-tanger": "https://spoort.yala--shoot.online/albaplayer/arryadia2/?serv=2",
     "netherlands-vs-uzbekistan": "https://example.com/player/netherlands-vs-uzbekistan",
     "france-vs-ireland": "https://example.com/player/france-vs-ireland",
     "colombia-vs-jordan": "https://example.com/player/colombia-vs-jordan",
