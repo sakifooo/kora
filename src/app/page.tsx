@@ -9,11 +9,11 @@ import {
 
 export default function Home() {
   const matches = [
-    { teamA: "وادي دجلة", teamB: " زد", scoreA: 2, scoreB: 0, time: "15:00 ", status: "live", channel: "أون سبورت ماكس ", commentator: "غير معروف", league: "كأس الرابطة المصرية", href: "/live/dejla-vs-zid" },
-    { teamA: "نهضة بركان", teamB: "اتحاد طنجة", scoreA: 0, scoreB: 0, time: "21:00", status: "upcoming", channel: "الرياضية المغربية", commentator: "غير معروف", league: "المغرب، الدوري المغربي", href: "/live/berkane-vs-tanger" },
+    { teamA: "وادي دجلة", teamB: " زد", scoreA: 2, scoreB: 0, time: "15:00 ", status: "Finished", channel: "أون سبورت ماكس ", commentator: "غير معروف", league: "كأس الرابطة المصرية", href: "/live/dejla-vs-zid" },
+    { teamA: "نهضة بركان", teamB: "اتحاد طنجة", scoreA: 0, scoreB: 0, time: "19:00", status: "upcoming", channel: "الرياضية المغربية", commentator: "غير معروف", league: "المغرب، الدوري المغربي", href: "/live/berkane-vs-tanger" },
     { teamA: "الوداد الرياضي", teamB: " المبيك اسفي", scoreA: 0, scoreB: 0, time: "19:00 ", status: "upcoming", channel: "Arryadia HD ", commentator: "غير معروف", league: "الدوري المغربي", href: "/live/widad-asfi" },
-    { teamA: "هولندا", teamB: "أوزبكستان", scoreA: 0, scoreB: 0, time: "21:45", status: "upcoming", channel: "beIN Sports 3 HD", commentator: "جواد بدة", league: "دولي، مباريات ودية دولية", href: "/live/netherlands-vs-uzbekistan" },
-    { teamA: "فرنسا", teamB: "إيرلندا الشمالية", scoreA: 0, scoreB: 0, time: "22:10", status: "upcoming", channel: "beIN SPORTS HD 1", commentator: "حفيظ دراجي", league: "دولي، مباريات ودية دولية", href: "/live/france-vs-ireland" },
+    { teamA: "هولندا", teamB: "أوزبكستان", scoreA: 0, scoreB: 0, time: "19:45", status: "upcoming", channel: "beIN Sports 3 HD", commentator: "جواد بدة", league: "دولي، مباريات ودية دولية", href: "/live/netherlands-vs-uzbekistan" },
+    { teamA: "فرنسا", teamB: "إيرلندا الشمالية", scoreA: 0, scoreB: 0, time: "20:10", status: "upcoming", channel: "beIN SPORTS HD 1", commentator: "حفيظ دراجي", league: "دولي، مباريات ودية دولية", href: "/live/france-vs-ireland" },
     { teamA: "كولومبيا", teamB: "الأردن", scoreA: 2, scoreB: 0, time: "0 - 0", status: "finished", channel: "الأردن الرياضية", commentator: "خالد الحدي", league: "دولي، مباريات ودية دولية", href: "/live/colombia-vs-jordan" },
     
     
