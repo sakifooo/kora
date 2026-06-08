@@ -68,7 +68,7 @@ export default function Home() {
         {/* GMT Time Badge */}
         <div className="mb-4">
           <span className="bg-gray-200 text-gray-600 px-4 py-1.5 rounded-t-lg text-[11px] font-bold border border-b-0 border-gray-300">
-            بتوقيت غرينتش
+            بتوقيت غرينتش +1
           </span>
         </div>
 
