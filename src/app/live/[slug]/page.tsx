@@ -28,8 +28,8 @@ export default function LiveMatchPage({ params }: { params: Promise<{ slug: stri
     
     // مباريات أخرى (قم بتغيير الروابط أدناه عند توفرها)
     "berkane-vs-tanger": "https://spoort.yala--shoot.online/albaplayer/arryadia2/?serv=2",
-    "netherlands-vs-uzbekistan": "https://example.com/player/netherlands-vs-uzbekistan",
-    "france-vs-ireland": "https://example.com/player/france-vs-ireland",
+    "netherlands-vs-uzbekistan": "https://spoort.yala--shoot.online/albaplayer/sport3/?serv=0",
+    "france-vs-ireland": "https://spoort.yala--shoot.online/albaplayer/sport1/?serv=0",
     "colombia-vs-jordan": "https://example.com/player/colombia-vs-jordan",
   };
 
