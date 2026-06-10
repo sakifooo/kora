@@ -24,7 +24,7 @@ export default function LiveMatchPage({ params }: { params: Promise<{ slug: stri
    */
   const iframeMapping: Record<string, string> = {
     // المباراة الأولى (وادي دجلة ضد زد)
-    "nigeria-vs-portugal": "https://1.kooralive360.com/albaplayer/bein-sports-hd-2/?serv=4",
+    "nigeria-vs-portugal": "https://spoort.yala--shoot.online/albaplayer/sport2/?serv=0",
     
     // مباريات أخرى (قم بتغيير الروابط أدناه عند توفرها)
     "costarica-vs-englend": "https://spoort.yala--shoot.online/albaplayer/sport1/?serv=0",
