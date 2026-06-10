@@ -9,7 +9,7 @@ import {
 
 export default function Home() {
   const matches = [
-    { teamA: "نيجيريا", teamB: "البرتغال", scoreA: 0, iscoreB: 0, time: "20:45 ", status: "live", channel: "Bein Sports HD2 ", commentator: "غير معروف", league: "ودية دولية ", href: "/live/nigeria-vs-portugal" },
+    { teamA: "نيجيريا", teamB: "البرتغال", scoreA: 1, iscoreB: 1, time: "20:45 ", status: "live", channel: "Bein Sports HD2 ", commentator: "غير معروف", league: "ودية دولية ", href: "/live/nigeria-vs-portugal" },
     { teamA: " إنجلترا ", teamB: "كوستاريكا ", scoreA: 0, scoreB: 0, time: "21:00", status: "live", channel: "beIN SPORTS HD 1", commentator: "غير معروف", league: "ودية دولية", href: "/live/costarica-vs-englend" },
     { teamA: " السنغال ", teamB: " السعودية", scoreA: 0, scoreB: 0, time: "19:00 ", status: "finished", channel: "stc tv ", commentator: "غير معروف", league: "ودية دولية", href: "/live/senegal-saudi" },
     { teamA: "العراق", teamB: "فنزويلا", scoreA: 0, scoreB: 2, time: "19:45", status: "finished", channel: " الرابعة االعراقية  ", commentator: "غير معروف", league: "ودية دولية", href: "/live/iraq-vs-venzwilla" },
