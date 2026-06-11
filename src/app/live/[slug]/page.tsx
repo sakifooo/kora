@@ -24,7 +24,7 @@ export default function LiveMatchPage({ params }: { params: Promise<{ slug: stri
    */
   const iframeMapping: Record<string, string> = {
     // المباراة الأولى (وادي دجلة ضد زد)
-   "mexic-vs-southafrica": "https://spoort.yala--shoot.online/albaplayer/alwan-1/?serv=0",
+   "mexic-vs-southafrica": "https://1.kooralive360.com/albaplayer/bein-sports-hd-1/?serv=0",
     "algeria-vs-bolevia": "https://spoort.yala--shoot.online/albaplayer/sport2/?serv=1",
     "austria-vs-gwatimala": "https://spoort.yala--shoot.online/albaplayer/sport4/?serv=1",
   };
