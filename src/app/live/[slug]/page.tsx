@@ -24,14 +24,9 @@ export default function LiveMatchPage({ params }: { params: Promise<{ slug: stri
    */
   const iframeMapping: Record<string, string> = {
     // المباراة الأولى (وادي دجلة ضد زد)
-    "nigeria-vs-portugal": "https://spoort.yala--shoot.online/albaplayer/sport2/?serv=0",
-    
-    // مباريات أخرى (قم بتغيير الروابط أدناه عند توفرها)
-    "costarica-vs-englend": "https://spoort.yala--shoot.online/albaplayer/sport1/?serv=0",
-    "widad-asfi": "https://spoort.yala--shoot.online/albaplayer/sport1/?serv=0" ,
-    "live/senegal-saudi": "https://spoort.yala--shoot.online/albaplayer/sport3/?serv=0",
-    "iraq-vs-venzwilla": "https://spoort.yala--shoot.online/albaplayer/sport1/?serv=0",
-    "colombia-vs-jordan": "https://example.com/player/colombia-vs-jordan",
+   "mexic-vs-southafrica": "https://spoort.yala--shoot.online/albaplayer/alwan-1/?serv=0",
+    "algeria-vs-bolevia": "https://spoort.yala--shoot.online/albaplayer/sport2/?serv=1",
+    "austria-vs-gwatimala": "https://spoort.yala--shoot.online/albaplayer/sport4/?serv=1",
   };
 
   // اختيار الرابط المناسب بناءً على المعرف (slug) أو استخدام رابط افتراضي إذا لم يوجد
