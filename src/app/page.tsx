@@ -9,9 +9,9 @@ import {
 
 export default function Home() {
   const matches = [
-    { teamA: "المكسيك", teamB: "جنوب أفريقيا", scoreA: 0, scoreB: 0, time: "20:00 ", status: "upcoming", channel: "beIN SPORTS MAX 1", commentator: "غير معروف", league: "كأس العالم", href: "/live/mexic-vs-southafrica" },
-    { teamA: "بوليفيا", teamB: "الجزائر", scoreA: 0, scoreB: 4, time: "21:00", status: "finished", channel: "الجزائرية الرياضية", commentator: "غير معروف", league: "ولي، مباريات ودية دولية", href: "/live/algeria-vs-bolevia" },
-    { teamA: "النمسا", teamB: "غواتيمالا", scoreA: 0, scoreB: 0, time: "21:45", status: "ملغي", channel: "beIN Sports 3 HD", commentator: "جواد بدة", league: "دولي، مباريات ودية دولية", href: "/live/austria-vs-gwatimala" },
+    { teamA: "كوريا الجنوبية", teamB: "تشيكيا ", scoreA: 0, scoreB: 0, time: "20:00 ", status: "live", channel: "beIN SPORTS MAX 1", commentator: "غير معروف", league: "كأس العالم", href: "/live/korea-vs-chek" },
+    { teamA: "كندا", teamB: "البوسنة", scoreA: 0, scoreB: 4, time: "21:00", status: "upcoming", channel: "beIN SPORTS MAX 1", commentator: "غير معروف", league: "كأس العالم", href: "/live/canada-vs-bosnia" },
+
   ];
 
   const seoKeywords = [
