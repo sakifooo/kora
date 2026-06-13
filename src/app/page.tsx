@@ -1,5 +1,4 @@
-"use client";
-import { useEffect, useState } from "react";
+
 import { MatchCard } from "@/components/match-card";
 import { 
   LucideFacebook, 
@@ -9,15 +8,7 @@ import {
 } from "lucide-react";
 
 export default function Home() {
-  const [showSplash, setShowSplash] = useState(true);
-
-useEffect(() => {
-  const timer = setTimeout(() => {
-    setShowSplash(false);
-  }, 5000);
-
-  return () => clearTimeout(timer);
-}, []);
+  
   const matches = [
  { teamA: "قطر", teamB: "سويسرا", scoreA: 0, scoreB: 0, time: "20:00", status: "upcoming", channel: "beIN SPORTS MAX 1", commentator: "غير معروف", league: "كأس العالم", href: "/live/qatar-vs-swiss" },
     { teamA: "المغرب", teamB: "البرازيل", scoreA: 0, scoreB: 0, time: "23:00", status: "upcoming", channel: "beIN SPORTS MAX 2", commentator: " جواد بادة", league: "كأس العالم", href: "/live/maroc-vs-brazil" },
@@ -52,29 +43,7 @@ useEffect(() => {
 
   return (
     <div className="min-h-screen flex flex-col font-body bg-[#f0f0f2]">
-      {showSplash && (
-  <div
-    style={{
-      position: "fixed",
-      left: "10px",
-      top: "50%",
-      transform: "translateY(-50%)",
-      zIndex: 9999,
-    }}
-  >
-    <img
-      src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/49c070312dada08c42d5e41b7ddfd42e_934599ac-3feb-45c1-802b-e56c661fbe1e_screen.webp?ts=1781366080"
-      alt="Welcome"
-      style={{
-        width: "160px",
-        height: "160px",
-        objectFit: "cover",
-        borderRadius: "12px",
-        boxShadow: "0 4px 10px rgba(0,0,0,0.3)",
-      }}
-    />
-  </div>
-)}
+    
       {/* Top Bar with Social Icons */}
       <div className="bg-white border-b border-gray-200 py-2">
         <div className="container mx-auto px-4 flex items-center justify-between">
