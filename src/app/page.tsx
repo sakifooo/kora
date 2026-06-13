@@ -66,8 +66,8 @@ useEffect(() => {
       src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/49c070312dada08c42d5e41b7ddfd42e_934599ac-3feb-45c1-802b-e56c661fbe1e_screen.webp?ts=1781366080"
       alt="Welcome"
       style={{
-        width: "80px",
-        height: "80px",
+        width: "160px",
+        height: "160px",
         objectFit: "cover",
         borderRadius: "12px",
         boxShadow: "0 4px 10px rgba(0,0,0,0.3)",
