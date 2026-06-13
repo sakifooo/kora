@@ -1,5 +1,4 @@
 "use client";
-
 import { useEffect, useState } from "react";
 import { MatchCard } from "@/components/match-card";
 import { 
@@ -50,34 +49,32 @@ useEffect(() => {
     "yalla shoot live", "كورة لايف اون لاين", "بث مباشر للمباريات المشفرة", "كورة 365",
     "koora 365", "الاسطورة لايف مباريات اليوم", "كورة جول بث مباشر"
   ];
-if (showSplash) {
-  return (
-    <div
-      style={{
-        position: "fixed",
-        inset: 0,
-        background: "#000",
-        display: "flex",
-        justifyContent: "center",
-        alignItems: "center",
-        zIndex: 9999,
-      }}
-    >
-      <img
-        src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/49c070312dada08c42d5e41b7ddfd42e_934599ac-3feb-45c1-802b-e56c661fbe1e_screen.webp?ts=1781366080"
-        alt="Welcome"
-        style={{
-          width: "80vw",
-          maxWidth: "350px",
-          height: "auto",
-          borderRadius: "20px",
-        }}
-      />
-    </div>
-  );
-}
+
   return (
     <div className="min-h-screen flex flex-col font-body bg-[#f0f0f2]">
+      {showSplash && (
+  <div
+    style={{
+      position: "fixed",
+      left: "10px",
+      top: "50%",
+      transform: "translateY(-50%)",
+      zIndex: 9999,
+    }}
+  >
+    <img
+      src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/49c070312dada08c42d5e41b7ddfd42e_934599ac-3feb-45c1-802b-e56c661fbe1e_screen.webp?ts=1781366080"
+      alt="Welcome"
+      style={{
+        width: "80px",
+        height: "80px",
+        objectFit: "cover",
+        borderRadius: "12px",
+        boxShadow: "0 4px 10px rgba(0,0,0,0.3)",
+      }}
+    />
+  </div>
+)}
       {/* Top Bar with Social Icons */}
       <div className="bg-white border-b border-gray-200 py-2">
         <div className="container mx-auto px-4 flex items-center justify-between">
