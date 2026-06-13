@@ -1,4 +1,6 @@
+"use client";
 
+import { useEffect, useState } from "react";
 import { MatchCard } from "@/components/match-card";
 import { 
   LucideFacebook, 
@@ -8,6 +10,15 @@ import {
 } from "lucide-react";
 
 export default function Home() {
+  const [showSplash, setShowSplash] = useState(true);
+
+useEffect(() => {
+  const timer = setTimeout(() => {
+    setShowSplash(false);
+  }, 5000);
+
+  return () => clearTimeout(timer);
+}, []);
   const matches = [
  { teamA: "قطر", teamB: "سويسرا", scoreA: 0, scoreB: 0, time: "20:00", status: "upcoming", channel: "beIN SPORTS MAX 1", commentator: "غير معروف", league: "كأس العالم", href: "/live/qatar-vs-swiss" },
     { teamA: "المغرب", teamB: "البرازيل", scoreA: 0, scoreB: 0, time: "23:00", status: "upcoming", channel: "beIN SPORTS MAX 2", commentator: " جواد بادة", league: "كأس العالم", href: "/live/maroc-vs-brazil" },
@@ -39,7 +50,32 @@ export default function Home() {
     "yalla shoot live", "كورة لايف اون لاين", "بث مباشر للمباريات المشفرة", "كورة 365",
     "koora 365", "الاسطورة لايف مباريات اليوم", "كورة جول بث مباشر"
   ];
-
+if (showSplash) {
+  return (
+    <div
+      style={{
+        position: "fixed",
+        inset: 0,
+        background: "#000",
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center",
+        zIndex: 9999,
+      }}
+    >
+      <img
+        src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/49c070312dada08c42d5e41b7ddfd42e_934599ac-3feb-45c1-802b-e56c661fbe1e_screen.webp?ts=1781366080"
+        alt="Welcome"
+        style={{
+          width: "80vw",
+          maxWidth: "350px",
+          height: "auto",
+          borderRadius: "20px",
+        }}
+      />
+    </div>
+  );
+}
   return (
     <div className="min-h-screen flex flex-col font-body bg-[#f0f0f2]">
       {/* Top Bar with Social Icons */}
