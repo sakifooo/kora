@@ -73,7 +73,7 @@ useEffect(() => {
       allowTransparency={true}
       allow="autoplay"
       allowFullScreen
-      className="w-[100px] h-[100px] md:w-[140px] md:h-[140px]"
+      className="w-[250px] h-[250px] md:w-[250px] md:h-[250px]"
     />
   </div>
 )}
