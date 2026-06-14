@@ -56,7 +56,7 @@ useEffect(() => {
   return (
     <div className="min-h-screen flex flex-col font-body bg-[#f0f0f2]">
     {showBanner && (
-  <div className="fixed bottom-4 left-4 z-[9999] w-[100px] h-[100px] md:w-[140px] md:h-[140px]">
+  <div className="fixed bottom-4 left-4 z-[9999] w-[100px] h-[200px] md:w-[200px] md:h-[140px]">
     <button
       onClick={() => setShowBanner(false)}
       className="absolute -top-2 -right-2 z-[10000] w-6 h-6 rounded-full bg-black text-white text-xs"
@@ -68,8 +68,8 @@ useEffect(() => {
       {`
         var bannersnack_embed = {
           hash: "btu5bfqqm",
-          width: 140,
-          height: 140,
+          width: 300,
+          height: 300,
           t: 1781438478,
           userId: 3124438,
           type: "html5"
