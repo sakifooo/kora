@@ -66,8 +66,8 @@ useEffect(() => {
 
     <iframe
       src="//cdn.bannersnack.com/banners/btu5bfqqm/embed/index.html?userId=3124438&t=1781439640"
-      width="140"
-      height="140"
+      width="250"
+      height="250"
       scrolling="no"
       frameBorder="0"
       allowTransparency={true}
