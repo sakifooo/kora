@@ -1,4 +1,6 @@
-
+"use client";
+import { useState, useEffect } from "react";
+import Script from "next/script";
 import { MatchCard } from "@/components/match-card";
 import { 
   LucideFacebook, 
@@ -42,10 +44,45 @@ export default function Home() {
     "yalla shoot live", "كورة لايف اون لاين", "بث مباشر للمباريات المشفرة", "كورة 365",
     "koora 365", "الاسطورة لايف مباريات اليوم", "كورة جول بث مباشر"
   ];
+const [showBanner, setShowBanner] = useState(true);
 
+useEffect(() => {
+  const timer = setTimeout(() => {
+    setShowBanner(false);
+  }, 7000);
+
+  return () => clearTimeout(timer);
+}, []);
   return (
     <div className="min-h-screen flex flex-col font-body bg-[#f0f0f2]">
-    
+    {showBanner && (
+  <div className="fixed bottom-4 left-4 z-[9999] w-[100px] h-[100px] md:w-[140px] md:h-[140px]">
+    <button
+      onClick={() => setShowBanner(false)}
+      className="absolute -top-2 -right-2 z-[10000] w-6 h-6 rounded-full bg-black text-white text-xs"
+    >
+      ✕
+    </button>
+
+    <Script id="banner-config">
+      {`
+        var bannersnack_embed = {
+          hash: "btu5bfqqm",
+          width: 140,
+          height: 140,
+          t: 1781438478,
+          userId: 3124438,
+          type: "html5"
+        };
+      `}
+    </Script>
+
+    <Script
+      src="https://cdn.bannersnack.com/iframe/embed.js"
+      strategy="afterInteractive"
+    />
+  </div>
+)}
       {/* Top Bar with Social Icons */}
       <div className="bg-white border-b border-gray-200 py-2">
         <div className="container mx-auto px-4 flex items-center justify-between">
