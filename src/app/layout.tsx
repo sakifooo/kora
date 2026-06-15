@@ -18,6 +18,10 @@ export const metadata: Metadata = {
   ], // ← هادي كانت ناقصة
 
    metadataBase: new URL('https://kora-shot.vercel.app'),
+ verification: {
+    google: 'VzK0Ce6V01Jr_8MvkE_i_rwtYftEtrnNdtl5KY1cIdQ',
+  },
+  
   alternates: {
     canonical: '/',
   },
@@ -57,10 +61,6 @@ export default function RootLayout({
   return (
     <html lang="ar" dir="rtl">
      <head>
-  <meta
-    name="google-site-verification"
-    content="VzK0Ce6V01Jr_8MvkE_i_rwtYftEtrnNdtl5KY1cIdQ"
-  />
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
