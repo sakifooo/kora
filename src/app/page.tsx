@@ -12,9 +12,10 @@ import {
 export default function Home() {
   
   const matches = [
+    { teamA: "أوروجواي", teamB: "السعودية", scoreA: 0, scoreB: 0, time: "23:00", status: "live", channel: "beIN SPORTS MAX 1", commentator: "غير معروف", league: "كأس العالم", href: "/live/saudi-vs-uruguay" },
     { teamA: "بلجيكا", teamB: "مصر", scoreA: 1, scoreB: 1, time: "20:00", status: "live", channel: "beIN SPORTS MAX 2", commentator: "غير معروف", league: "كأس العالم", href: "/live/belgic-vs-egypt" },
     { teamA: "إسبانيا ", teamB: "الرأس الأخضر ", scoreA: 0, scoreB: 0, time: "17:00 ", status: "finished", channel: "beIN SPORTS MAX 1", commentator: "غير معروف", league: "كأس العالم", href: "/live/spain-vs-capvert" },
-    { teamA: "أوروجواي", teamB: "السعودية", scoreA: 0, scoreB: 0, time: "23:00", status: "upcoming", channel: "beIN SPORTS MAX 1", commentator: "غير معروف", league: "كأس العالم", href: "/live/saudi-vs-uruguay" },
+
   ];
   const seoKeywords = [
     "كورة لايف", "koora live", "مباريات اليوم بث مباشر", "يلا شوت", "yalla shoot", 
