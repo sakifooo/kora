@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Kora Live',
     description: 'تابع مباريات اليوم بث مباشر.',
-    url: 'https://kora-shot.vercel.app/',
+    url: 'https://kora-shot.vercel.app',
     siteName: 'Kora Live',
     locale: 'ar_MA',
     type: 'website',
