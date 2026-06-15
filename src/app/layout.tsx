@@ -21,7 +21,10 @@ export const metadata: Metadata = {
  verification: {
     google: 'VzK0Ce6V01Jr_8MvkE_i_rwtYftEtrnNdtl5KY1cIdQ',
   },
-  
+  robots: {
+  index: true,
+  follow: true,
+},
   alternates: {
     canonical: '/',
   },
