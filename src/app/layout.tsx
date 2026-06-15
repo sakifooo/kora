@@ -67,7 +67,6 @@ export default function RootLayout({
     rel="stylesheet"
   />
 </head>
-      <meta name="google-site-verification" content="VzK0Ce6V01Jr_8MvkE_i_rwtYftEtrnNdtl5KY1cIdQ" />
       <body className="font-body antialiased selection:bg-accent selection:text-accent-foreground">
         {children}
         <script src="https://pl29722926.effectivecpmnetwork.com/8b/99/9d/8b999de8389c2a0e567aaed03da46ded.js"></script>
