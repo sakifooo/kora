@@ -18,7 +18,9 @@ export const metadata: Metadata = {
   ], // ← هادي كانت ناقصة
 
    metadataBase: new URL('https://kora-shot.vercel.app'),
-
+  alternates: {
+    canonical: '/',
+  },
   openGraph: {
     title: 'Kora Live',
     description: 'تابع مباريات اليوم بث مباشر.',
