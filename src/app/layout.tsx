@@ -19,7 +19,7 @@ export const metadata: Metadata = {
 
    metadataBase: new URL('https:/kooratv.site'),
  verification: {
-    google: 'VzK0Ce6V01Jr_8MvkE_i_rwtYftEtrnNdtl5KY1cIdQ',
+    google: 'Tbt6YmqemCF6U9b8Z5LujzdQpq6a0B6wvuxkUbcqPnw',
   },
   robots: {
   index: true,
