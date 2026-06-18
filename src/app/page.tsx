@@ -45,7 +45,8 @@ export default function Home() {
     "koora 365", "الاسطورة لايف مباريات اليوم", "كورة جول بث مباشر"
   ];
 
-
+return (
+  <div className="min-h-screen flex flex-col font-body bg-[#f0f0f2]">
       <div className="bg-white border-b border-gray-200 py-2">
         <div className="container mx-auto px-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
@@ -62,7 +63,9 @@ export default function Home() {
           </div>
         </div>
       </div>
-
+</div>
+);
+}
       <main className="container mx-auto px-2 md:px-4 py-6 max-w-5xl">
         {/* GMT Time Badge */}
         <div className="mb-4">
