@@ -63,7 +63,6 @@ return (
           </div>
         </div>
       </div>
-</div>
 );
 }
       <main className="container mx-auto px-2 md:px-4 py-6 max-w-5xl">
