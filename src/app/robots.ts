@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https:/kooratv.site/sitemap.xml',
+    sitemap: 'https://kooratv.site/sitemap.xml',
   }
 }
