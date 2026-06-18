@@ -45,7 +45,7 @@ export default function Home() {
     "koora 365", "الاسطورة لايف مباريات اليوم", "كورة جول بث مباشر"
   ];
 
-)}
+
       <div className="bg-white border-b border-gray-200 py-2">
         <div className="container mx-auto px-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
