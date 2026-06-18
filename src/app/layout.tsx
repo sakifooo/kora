@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     'live football',
   ], // ← هادي كانت ناقصة
 
-   metadataBase: new URL('https://kora-shot.vercel.app'),
+   metadataBase: new URL('https:/kooratv.site'),
  verification: {
     google: 'VzK0Ce6V01Jr_8MvkE_i_rwtYftEtrnNdtl5KY1cIdQ',
   },
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Kora Live',
     description: 'تابع مباريات اليوم بث مباشر.',
-    url: 'https://kora-shot.vercel.app',
+    url: 'https:/kooratv.site',
     siteName: 'Kora Live',
     locale: 'ar_MA',
     type: 'website',
