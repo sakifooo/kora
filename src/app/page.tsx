@@ -1,5 +1,4 @@
-"use client";
-import { useState, useEffect } from "react";
+
 import Script from "next/script";
 import { MatchCard } from "@/components/match-card";
 import { 
@@ -13,9 +12,12 @@ export default function Home() {
   
   const matches = [
   
-    { teamA: "بنما ", teamB: "غانا", scoreA: 0, scoreB: 0, time: "02:00 ", status: "live", channel: "beIN SPORTS MAX 1", commentator: "غير معروف", league: "كأس العالم", href: "/live/panama-vs-gana" },
-    { teamA: "انكلترا", teamB: "كرواتيا", scoreA: 4, scoreB: 2, time: "21:00", status: "finished", channel: "beIN SPORTS MAX 2", commentator: "غير معروف", league: "كأس العالم", href: "/live/england-vs-croitia" },
-    { teamA: "البرتغال", teamB: "الكونغو", scoreA: 1, scoreB: 1, time: "18:00", status: "finished", channel: "beIN SPORTS MAX 1", commentator: "غير معروف", league: "كأس العالم", href: "/live/portugal-vs-congo" },
+    { teamA: "تشيكيا", teamB: "جنوب افريقيا", scoreA: 0, scoreB: 0, time: "17:00", status: "upcoming", channel: "beIN SPORTS MAX 1", commentator: "غير معروف", league: "كأس العالم", href: "/live/check-vs-southafrica" },
+    { teamA: "سويسرا", teamB: "البوسنة", scoreA: 0, scoreB: 0, time: "20:00", status: "upcoming", channel: "beIN SPORTS MAX 2", commentator: "غير معروف", league: "كأس العالم", href: "/live/swis-vs-bosnia" },
+    { teamA: "كندا", teamB: "قطر", scoreA: 0, scoreB: 0, time: "23:00", status: "upcoming", channel: "beIN SPORTS HD1", commentator: "غير معروف", league: "كأس العالم", href: "/live/check-vs-southafrica" },
+    { teamA: "كلومبيا", teamB: "ازبكشتان", scoreA: 3, scoreB: 1, time: "18:00", status: "finished", channel: "beIN SPORTS MAX 1", commentator: "غير معروف", league: "كأس العالم", href: "/live/portugal-vs-congo" },
+    { teamA: "بنما ", teamB: "غانا", scoreA: 0, scoreB: 1, time: "02:00 ", status: "finished", channel: "beIN SPORTS MAX 1", commentator: "غير معروف", league: "كأس العالم", href: "/live/panama-vs-gana" },
+
 
   ];
   const seoKeywords = [
@@ -42,38 +44,7 @@ export default function Home() {
     "yalla shoot live", "كورة لايف اون لاين", "بث مباشر للمباريات المشفرة", "كورة 365",
     "koora 365", "الاسطورة لايف مباريات اليوم", "كورة جول بث مباشر"
   ];
-const [showBanner, setShowBanner] = useState(true);
 
-useEffect(() => {
-  const timer = setTimeout(() => {
-    setShowBanner(false);
-  }, 7000);
-
-  return () => clearTimeout(timer);
-}, []);
-  return (
-    <div className="min-h-screen flex flex-col font-body bg-[#f0f0f2]">
-    {showBanner && (
-  <div className="fixed bottom-4 left-4 z-[9999]">
-    <button
-      onClick={() => setShowBanner(false)}
-      className="absolute -top-2 -right-2 z-[10000] w-6 h-6 rounded-full bg-black text-white text-xs"
-    >
-      ✕
-    </button>
-
-    <iframe
-      src="//cdn.bannersnack.com/banners/btu5bfqqm/embed/index.html?userId=3124438&t=1781439640"
-      width="250"
-      height="250"
-      scrolling="no"
-      frameBorder="0"
-      allowTransparency={true}
-      allow="autoplay"
-      allowFullScreen
-      className="w-[250px] h-[250px] md:w-[250px] md:h-[250px]"
-    />
-  </div>
 )}
       {/* Top Bar with Social Icons */}
       <div className="bg-white border-b border-gray-200 py-2">
