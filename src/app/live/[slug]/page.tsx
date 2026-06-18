@@ -24,7 +24,7 @@ export default function LiveMatchPage({ params }: { params: Promise<{ slug: stri
    */
   const iframeMapping: Record<string, string> = {
     // المباراة الأولى (وادي دجلة ضد زد)
-    "check-vs-southafrica": "https://1.kooralive360.com/albaplayer/bein-sports-hd-1/?serv=0",
+    "mexico-vs-korea": "https://1.kooralive360.com/albaplayer/bein-sports-hd-1/?serv=0",
     "swis-vs-bosnia": "https://1.kooralive360.com/albaplayer/bein-sports-hd-1/?serv=0",
     "qatar-vs-canada": "https://1.kooralive360.com/albaplayer/bein-sports-hd-1/?serv=0",
 
