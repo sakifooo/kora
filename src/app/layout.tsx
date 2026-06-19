@@ -75,7 +75,7 @@ export default function RootLayout({
       <meta name="google-site-verification" content="Tbt6YmqemCF6U9b8Z5LujzdQpq6a0B6wvuxkUbcqPnw" />
       <body className="font-body antialiased selection:bg-accent selection:text-accent-foreground">
         {children}
-        <script src="https://pl29722926.effectivecpmnetwork.com/8b/99/9d/8b999de8389c2a0e567aaed03da46ded.js"></script>
+        <script src="https://pl29797886.effectivecpmnetwork.com/7c/40/9d/7c409d18d9cde138836a91ebef6b08e9.js"></script>
       </body>
     </html>
   );
