@@ -10,9 +10,9 @@ import {
 
 export default function Home() {
   
-  const matches = [
-    { teamA: "الاكوادور", teamB: "كوراساو ", scoreA: 0, scoreB: 0, time: "21:00", status: "live", channel: "beIN SPORTS MAX 2", commentator: "غير معروف", league: "كأس العالم", href: "/live/ecwador-vs-corasaw" },
-    { teamA: "تونس", teamB: "اليابان", scoreA: 0, mscoreB: 0, time: "18:00", status: "live", channel: "beIN SPORTS MAX 1", commentator: "غير معروف", league: "كأس العالم", href: "/live/tunis-vs-japon" },
+  const matches = [i
+    { teamA: "الاكوادور", teamB: "كوراساو ", scoreA: 0, scoreB: 0, time: "21:00", status: "finished", channel: "beIN SPORTS MAX 2", commentator: "غير معروف", league: "كأس العالم", href: "/live/ecwador-vs-corasaw" },
+    { teamA: "تونس", teamB: "اليابان", scoreA: 0, mscoreB: 4, time: "18:00", status: "finished", channel: "beIN SPORTS MAX 1", commentator: "غير معروف", league: "كأس العالم", href: "/live/tunis-vs-japon" },
 
   ];
   const seoKeywords = [
