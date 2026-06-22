@@ -28,7 +28,6 @@ export default function LiveMatchPage({ params }: { params: Promise<{ slug: stri
     "belgique-vs-iran": "https://1.kooralive360.com/albaplayer/bein-sports-hd-1/?serv=0",
     "urugway-vs-capverdi": "https://1.kooralive360.com/albaplayer/bein-sports-hd-1/?serv=0",
     "egypt-vs-newzeland": "https://1.kooralive360.com/albaplayer/bein-sports-hd-1/?serv=0",
-
   };
 
   // اختيار الرابط المناسب بناءً على المعرف (slug) أو استخدام رابط افتراضي إذا لم يوجد
