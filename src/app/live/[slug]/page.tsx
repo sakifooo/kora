@@ -24,8 +24,8 @@ export default function LiveMatchPage({ params }: { params: Promise<{ slug: stri
    */
   const iframeMapping: Record<string, string> = {
     // المباراة الأولى (وادي دجلة ضد زد)
-    "spain-vs-saudi": "https://1.kooralive360.com/albaplayer/bein-sports-hd-1/?serv=0",
-    "belgique-vs-iran": "https://1.kooralive360.com/albaplayer/bein-sports-hd-1/?serv=0",
+    "france-vs-irak": "https://1.kooralive360.com/albaplayer/bein-sports-hd-1/?serv=0",
+    "norway-vs-senigal": "https://1.kooralive360.com/albaplayer/bein-sports-hd-1/?serv=0",
     "urugway-vs-capverdi": "https://1.kooralive360.com/albaplayer/bein-sports-hd-1/?serv=0",
     "egypt-vs-newzeland": "https://1.kooralive360.com/albaplayer/bein-sports-hd-1/?serv=0",
   };
