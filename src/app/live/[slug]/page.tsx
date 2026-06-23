@@ -24,10 +24,10 @@ export default function LiveMatchPage({ params }: { params: Promise<{ slug: stri
    */
   const iframeMapping: Record<string, string> = {
     // المباراة الأولى (وادي دجلة ضد زد)
-    "1-vs-2": "https://1.kooralive360.com/albaplayer/bein-sports-hd-1/?serv=0",
+    "0-vs-2": "https://1.kooralive360.com/albaplayer/bein-sports-hd-1/?serv=0",
     "1-vs-2": "https://hd.muesra.sbs/albaplayer/oooes/?serv=0",
-    "1-vs-2": "https://1.kooralive360.com/albaplayer/bein-sports-hd-1/?serv=0",
-    "1-vs-2": "https://1.kooralive360.com/albaplayer/bein-sports-hd-1/?serv=0",
+    "0-vs-2": "https://1.kooralive360.com/albaplayer/bein-sports-hd-1/?serv=0",
+    "0-vs-2": "https://1.kooralive360.com/albaplayer/bein-sports-hd-1/?serv=0",
   };
 
   // اختيار الرابط المناسب بناءً على المعرف (slug) أو استخدام رابط افتراضي إذا لم يوجد
