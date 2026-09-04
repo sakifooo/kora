@@ -83,6 +83,7 @@ export default function RootLayout({
     name="google-site-verification"
     content="Tbt6YmqemCF6U9b8Z5LujzdQpq6a0B6wvuxkUbcqPnw"
   />
+  <script src="https://quge5.com/88/tag.min.js" data-zone="276485" async data-cfasync="false"></script>
 </head>
 
 <body className="font-body antialiased selection:bg-accent selection:text-accent-foreground">
