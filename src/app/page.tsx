@@ -11,11 +11,11 @@ import {
 export default function Home() {
   
   const matches = [
-    { teamA: "الشياب", teamB: "الهلال", scoreA: 0, scoreB: 0, time: "19:00", status: "upcoming", channel: "tamanyah", commentator: "غير معروف", league: "", href: "/live/1-vs-2" },
-    { teamA: "الاهلي", teamB: "الرياض", scoreA: 0, scoreB: 0, time: "19:00", status: "upcoming", channel: "tamanyah", commentator: "غير معروف", league: "", href: "/live/3-vs-4" },
-    { teamA: "ليفربول", teamB: "ابسويش تاون ", scoreA: 0, scoreB: 0, time: "20:00", status: "upcoming", channel: "beIN SPORTS ", commentator: "غير معروف", league: "", href: "/live/norway-vs-senigal" },
-    { teamA: "ريال بتيس", teamB: "ريال مدريد", scoreA: 0, scoreB: 0, time: "20:00", status: "upcoming", channel: "beIN SPORTS ", commentator: "غير معروف", league: " ", href: "/live/egypt-vs-newzeland" },     
-    { teamA: " موناكو", teamB: " بارسان جيرمان", scoreA: 0, scoreB: 0, time: "20:05", status: "upcoming", channel: "beIN SPORTS ", commentator: "غير معروف", league: " ", href: "/live/egypt-vs-newzeland" },     
+    { teamA: "الشياب", teamB: "الهلال", scoreA: 0, scoreB: 0, time: "19:00", status: "upcoming", channel: "tamanyah", commentator: "غير معروف", league: " ", href: "/live/1-vs-2" },
+    { teamA: "الاهلي", teamB: "الرياض", scoreA: 0, scoreB: 0, time: "19:00", status: "upcoming", channel: "tamanyah", commentator: "غير معروف", league: " ", href: "/live/3-vs-4" },
+    { teamA: "ليفربول", teamB: "ابسويش تاون ", scoreA: 0, scoreB: 0, time: "20:00", status: "upcoming", channel: "beIN SPORTS ", commentator: "غير معروف", league: " ", href: "/live/5-vs-6" },
+    { teamA: "ريال بتيس", teamB: "ريال مدريد", scoreA: 0, scoreB: 0, time: "20:00", status: "upcoming", channel: "beIN SPORTS ", commentator: "غير معروف", league: " ", href: "/live/7-vs-8" },     
+    { teamA: " موناكو", teamB: " بارسان جيرمان", scoreA: 0, scoreB: 0, time: "20:05", status: "upcoming", channel: "beIN SPORTS ", commentator: "غير معروف", league: " ", href: "/live/9-vs-10" },     
 
   ];
   const seoKeywords = [
