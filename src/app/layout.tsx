@@ -64,7 +64,7 @@ export default function RootLayout({
   return (
     <html lang="ar" dir="rtl">
      <head>
-
+<meta name="monetag" content="67cae699a53391cf3d95ae033c1c2d97">
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
   <link
