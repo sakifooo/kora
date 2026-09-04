@@ -11,10 +11,12 @@ import {
 export default function Home() {
   
   const matches = [
-    { teamA: "البرتغال", teamB: "ازبكستان", scoreA: 0, scoreB: 0, time: "18:00", status: "live", channel: "beIN SPORTS MAX 2", commentator: "غير معروف", league: "كأس العالم", href: "/live/1-vs-2" },
-    { teamA: "انكلترا", teamB: "غانا", scoreA: 3, scoreB: 0, time: "21:00", status: "upcoming", channel: "beIN SPORTS MAX 1", commentator: "غير معروف", league: "كأس العالم", href: "/live/1-vs-2" },
-    { teamA: "النرويج", teamB: "السنغال ", scoreA: 3, scoreB: 2, time: "01:00", status: "finished", channel: "beIN SPORTS MAX 2", commentator: "غير معروف", league: "كأس العالم", href: "/live/norway-vs-senigal" },
-    { teamA: "الجزائر", teamB: "الاردن", scoreA: 2, scoreB: 1, time: "02:00", status: "finished", channel: "beIN SPORTS MAX 1", commentator: "غير معروف", league: "كأس العالم", href: "/live/egypt-vs-newzeland" },     
+    { teamA: "الشياب", teamB: "الهلال", scoreA: 0, scoreB: 0, time: "19:00", status: "upcoming", channel: "tamanyah", commentator: "غير معروف", league: "كأس العالم", href: "/live/1-vs-2" },
+    { teamA: "الاهلي", teamB: "الرياض", scoreA: 0, scoreB: 0, time: "19:00", status: "upcoming", channel: "tamanyah", commentator: "غير معروف", league: "كأس العالم", href: "/live/1-vs-2" },
+    { teamA: "ليفربول", teamB: "ابسويش تاون ", scoreA: 0, scoreB: 0, time: "20:00", status: "upcoming", channel: "beIN SPORTS ", commentator: "غير معروف", league: "كأس العالم", href: "/live/norway-vs-senigal" },
+    { teamA: "ريال بتيس", teamB: "ريال مدريد", scoreA: 0, scoreB: 0, time: "20:00", status: "upcoming", channel: "beIN SPORTS ", commentator: "غير معروف", league: "كأس العالم", href: "/live/egypt-vs-newzeland" },     
+    { teamA: " موناكو", teamB: " بارسان جيرمان", scoreA: 0, scoreB: 0, time: "20:05", status: "upcoming", channel: "beIN SPORTS ", commentator: "غير معروف", league: "كأس العالم", href: "/live/egypt-vs-newzeland" },     
+
   ];
   const seoKeywords = [
     "كورة لايف", "koora live", "مباريات اليوم بث مباشر", "يلا شوت", "yalla shoot", 
