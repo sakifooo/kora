@@ -1,4 +1,4 @@
-
+```tsx
 import type {Metadata} from 'next';
 import './globals.css';
 
@@ -17,32 +17,32 @@ export const metadata: Metadata = {
     'live football',
   ], // ← هادي كانت ناقصة
 
-   metadataBase: new URL('https:/kooratv.site'),
- verification: {
+  metadataBase: new URL('https://kooralv.com/'),
+  verification: {
     google: 'Tbt6YmqemCF6U9b8Z5LujzdQpq6a0B6wvuxkUbcqPnw',
   },
   robots: {
-  index: true,
-  follow: true,
-},
+    index: true,
+    follow: true,
+  },
   alternates: {
     canonical: '/',
   },
   openGraph: {
     title: 'Kora Live',
     description: 'تابع مباريات اليوم بث مباشر.',
-    url: 'https:/kooratv.site',
+    url: 'https://kooralv.com/',
     siteName: 'Kora Live',
     locale: 'ar_MA',
     type: 'website',
-      images: [
-    {
-      url: '/og-image.jpg',
-      width: 1200,
-      height: 630,
-      alt: 'Koora Live',
-    },
-  ],
+    images: [
+      {
+        url: '/og-image.jpg',
+        width: 1200,
+        height: 630,
+        alt: 'Koora Live',
+      },
+    ],
   },
 
   twitter: {
@@ -63,35 +63,40 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ar" dir="rtl">
-```tsx
-<head>
-  <meta name="monetag" content="67cae699a53391cf3d95ae033c1c2d97" />
+      <head>
+        <meta name="monetag" content="67cae699a53391cf3d95ae033c1c2d97" />
 
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link
-    rel="preconnect"
-    href="https://fonts.gstatic.com"
-    crossOrigin="anonymous"
-  />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link
+          rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossOrigin="anonymous"
+        />
 
-  <link
-    href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&family=Tajawal:wght@400;500;700&display=swap"
-    rel="stylesheet"
-  />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&family=Tajawal:wght@400;500;700&display=swap"
+          rel="stylesheet"
+        />
 
-  <meta
-    name="google-site-verification"
-    content="Tbt6YmqemCF6U9b8Z5LujzdQpq6a0B6wvuxkUbcqPnw"
-  />
-  <script src="https://quge5.com/88/tag.min.js" data-zone="276485" async data-cfasync="false"></script>
-</head>
+        <meta
+          name="google-site-verification"
+          content="Tbt6YmqemCF6U9b8Z5LujzdQpq6a0B6wvuxkUbcqPnw"
+        />
 
-<body className="font-body antialiased selection:bg-accent selection:text-accent-foreground">
-  {children}
+        <script
+          src="https://quge5.com/88/tag.min.js"
+          data-zone="276485"
+          async
+          data-cfasync="false"
+        ></script>
+      </head>
 
-  <script src="https://pl29797886.effectivecpmnetwork.com/7c/40/9d/7c409d18d9cde138836a91ebef6b08e9.js"></script>
-</body>
-</html>
+      <body className="font-body antialiased selection:bg-accent selection:text-accent-foreground">
+        {children}
 
+        <script src="https://pl29797886.effectivecpmnetwork.com/7c/40/9d/7c409d18d9cde138836a91ebef6b08e9.js"></script>
+      </body>
+    </html>
   );
 }
+```
