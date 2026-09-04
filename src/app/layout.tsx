@@ -63,20 +63,34 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ar" dir="rtl">
-     <head>
-<meta name="monetag" content="67cae699a53391cf3d95ae033c1c2d97" />
+```tsx
+<head>
+  <meta name="monetag" content="67cae699a53391cf3d95ae033c1c2d97" />
+
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+  <link
+    rel="preconnect"
+    href="https://fonts.gstatic.com"
+    crossOrigin="anonymous"
+  />
+
   <link
     href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&family=Tajawal:wght@400;500;700&display=swap"
     rel="stylesheet"
   />
+
+  <meta
+    name="google-site-verification"
+    content="Tbt6YmqemCF6U9b8Z5LujzdQpq6a0B6wvuxkUbcqPnw"
+  />
 </head>
-      <meta name="google-site-verification" content="Tbt6YmqemCF6U9b8Z5LujzdQpq6a0B6wvuxkUbcqPnw" />
-      <body className="font-body antialiased selection:bg-accent selection:text-accent-foreground">
-        {children}
-        <script src="https://pl29797886.effectivecpmnetwork.com/7c/40/9d/7c409d18d9cde138836a91ebef6b08e9.js"></script>
-      </body>
-    </html>
+
+<body className="font-body antialiased selection:bg-accent selection:text-accent-foreground">
+  {children}
+
+  <script src="https://pl29797886.effectivecpmnetwork.com/7c/40/9d/7c409d18d9cde138836a91ebef6b08e9.js"></script>
+</body>
+</html>
+
   );
 }
