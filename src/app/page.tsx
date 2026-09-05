@@ -1,123 +1,489 @@
+"use client";
 
-import Script from "next/script";
-import { MatchCard } from "@/components/match-card";
-import { 
-  LucideFacebook, 
-  LucideYoutube, 
-  LucideSend, 
-  LucideTwitter
-} from "lucide-react";
+import { useEffect } from "react";
+
+const pageCss = `body {transition: opacity ease-in 0.2s; } 
+body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; } 
+
+
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+
+
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+
+*,::after,::before{box-sizing:border-box}*{margin:0;padding:0;outline:0;list-style:none}:root{--main_color:#000000;--font_type:NeoSansArabic;--font_size:16px;--body_bg:#eceef2;--header_bg:#fff;--header_color:#222;--logo_bd:#000000;--logo_color:#fff;--title_bg:#1f2024;--yrsdaybg:#104783;--todaybg:#000000;--tomorobg:rgb(175, 81, 0);--footer_bd:#fff;--footer_color:#222;--footer_border:#ddd;--cop_bd:#eceef2;--cop_color:#222;--bk-hd-bg:var(--Gray1);--bk-ttl-bg:var(--DarkColor);--btn-bg:var(--DarkColor);--match-bg:#eceef2;--Gray1:#eceef2;--Gray2:#ddd;--Gray3:#d8dbe1;--LightColor:#fff;--DarkColor:#273340;--LightColor2:#f6f7fa;--bk-shadow:rgba(0, 0, 0, 0.3)}.Night,.Night body{--bk-hd-bg:#121a23;--match-bg:var(--Gray1)}body{--yall-padding:12px;--rounded:8px;font-family:var(--font_type),Segoe UI;line-height:1.5;background:var(--body_bg);color:#000;font-size:var(--font_size);font-weight:500}.d-none{display:none}.says,.screen-reader{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.hqy-lazy{opacity:0;transition:all 500ms}.hqy-loaded{opacity:1}.hed-btn,.AY_Match,.gr-inner,.AY_Block,.AYa-SiteInfo a,.fut-img img{border-radius:var(--rounded)}.aya-btn,.MT_Stat{position:relative;background:var(--btn-bg);padding:4px 10px 5px;display:inline-flex;align-items:center;justify-content:center;border-radius:var(--rounded);color:#fff;font-size:15px;text-align:center}a.aya-btn:hover{opacity:.8}.WTa{margin-left:auto;padding:0 10px;height:30px;line-height:25px;font-size:30px;display:inline-block}.rtl .WTa{margin-left:0;margin-right:auto}.d-fx{display:flex}.fx-cen,.AY_Inner{display:flex!important;align-items:center!important}.fx-wrap{display:flex;flex-wrap:wrap}.grow-1{flex-grow:1}.gap-5{gap:5px}.gap-10{gap:10px}.gap-20{gap:20px}a{color:#222;text-decoration:none}img{font-size:0}strong{font-weight:500}a:focus,a:hover{color:var(--main_color);transition:.5s ease}.container{max-width:1024px;margin-right:auto;margin-left:auto;padding:0 var(--yall-padding)}#AYaHeader{position:relative;margin-bottom:15px}#AYaHeader .HdrInner{width:100%;background:var(--header_bg);box-shadow:0 0 4px var(--bk-shadow);position:relative}#AYaHeader .HdrInner > .container {min-height: 85px;}.AYaLogo{background:var(--logo_bd);box-sizing:border-box;max-width:200px;border-radius:var(--rounded)}.AYaLogo.textlogo{padding:5px}.AYaLogo>a{display:flex;flex-direction:column;justify-content:center}.AYaLogo span{display:block;text-align:center;color:var(--logo_color);font-size:19px;min-height:4px;line-height:33px}.AYaLogo .SiteName{font-size:30px}.LogoImage{display:flex;height:75px;max-width:100%}.AYaMainNav{flex:1}.AYaMainNav li{position:relative}.MainMenu li>a{padding:8px;display:block;white-space:nowrap;font-size:17px;color:var(--header_color)}.MainMenu li a:hover{color:var(--main_color)}.hed-btn{height:35px;width:35px;background:var(--DarkColor);display:inline-flex;cursor:pointer;justify-content:center;align-items:center}.hed-btn .icon{width:22px;height:22px;color:#fff}.AYaSocial .twitter a{--DarkColor:#000}.AYaSocial .facebook a{--DarkColor:#1877f2}.AYaSocial .youtube a{--DarkColor:#cd201f}.AYaSocial .telegram a{--DarkColor:#24a1de}.AY_Block{margin-bottom:20px;box-shadow:0 0 4px var(--bk-shadow);background:var(--LightColor);overflow:hidden}.AYb_Head{padding:12px;overflow:hidden;border-bottom:1px solid var(--Gray2);border-radius:var(--rounded) var(--rounded) 0 0;background:var(--bk-hd-bg);display:flex;justify-content:space-between}.AYb_Head h1,.AYb_Head h2{font-size:16px}.AYb_Head a{color:#fff}.AYb_Head .aya-btn{--btn-bg:var(--bk-ttl-bg)}.AY_home_posts{padding-bottom:8px}.AYb_Inner{padding:12px 12px 0;overflow:hidden}.AYaGrid{position:relative;display:grid;grid-gap:12px;grid-template-columns:repeat(auto-fill,minmax(var(--post-width),1fr));--post-width:220px;padding-bottom:12px}.gr-inner{background:var(--match-bg);overflow:hidden;position:relative;height:100%;display:block}.gr-info{padding:10px}.gr-img{height:160px}.gr-info h3{margin:0;font-size:15px;max-height:90px;overflow:hidden;font-weight:500;height:50px}.PS_3 .AYaGrid{--post-width:280px}.PS_3 .gr-img{height:90px;min-width: 125px;width:125px}.PS_3 .gr-info h3{height:70px}.gr-img,.gr-bimg{display:block;width:100%;position:relative;overflow:hidden;background-position:center;background-size:cover}.gr-bimg{padding-top:75%;}.gr-bimg::after{content:"";position:absolute;top:0;right:0;bottom:0;left:0;background:rgba(0,0,0,.1);transition:.2s}.gr-inner:hover .gr-bimg::after{background:transparent}.gr-btitle{position:absolute;width:100%;bottom:0;padding:50px 20px 20px;color:#fff;text-shadow:0 1px 1px #000;background:linear-gradient(270deg,rgba(0,0,0,0),#000000);background:-webkit-linear-gradient(270deg,rgba(0,0,0,0),#000);background:-o-linear-gradient(270deg,rgba(0,0,0,0),#000);background:-moz-linear-gradient(270deg,rgba(0,0,0,0),#000);background:-ms-linear-gradient(270deg,rgba(0,0,0,0),#000);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#004c4c4c',endColorstr='#ff1a3b00',GradientType=0);font-weight:500;font-size:16px}@keyframes spin{0%{transform:rotate(0deg)}100%{transform:rotate(359deg)}}.spinner{position:relative;width:100%;height:100%;display:block;color:var(--main_color)}.spinner svg{animation:spin 2s linear infinite;position:relative;width:24px;height:24px;margin:0 auto}.AlbaMorBtn{text-align:center;margin:15px auto;position:relative;width:100%;clear:both}.LoadMOreNews{position:relative;text-align:center;display:inline-block;cursor:pointer;clear:both;min-width:170px;border:1px solid var(--Gray2);background:var(--Gray1);margin:8px auto 5px;padding:8px 15px;font-size:91%;font-weight:400;height:40px;box-sizing:border-box;border-radius:20px}body .pagination-disabled{opacity:.5;cursor:default;color:#888}.fut-img{display:block;text-align:center}.entry img,figure{border-radius:var(--rounded);margin:auto;display:table;margin-bottom:15px;max-width:100%}#the-post img{font-size:0;max-width:100%}.EntryHeader{margin-bottom:20px;padding:15px 20px;background:var(--bk-hd-bg);border-radius:var(--rounded) var(--rounded) 0 0;border-bottom:1px solid var(--Gray1)}.EntryTitle{overflow:hidden;font-size:24px}.EntryMeta{font-size:11px;font-weight:400;margin:8px 0 -7px}.EntryMeta,.EntryMeta span a{color:#626883}.EntryMeta:empty{display:none}.entry{font-size:17px;text-align:justify;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-ms-user-select:none;-moz-user-select:none;font-weight:400;line-height:33px}.entry-content{padding:15px 20px;clear:both}.entry p{margin-bottom:15px}.entry h1,.entry h2,.entry h3{display:table;padding:5px 15px;background-color:var(--Gray1);font-size:18px;font-weight:600;margin:15px 0;text-align:right;border-radius:8px}.entry iframe{max-width:100%;display:table;margin-top:12px;border-radius:8px;background:var(--Gray1)}.video-serv{margin-top:15px;overflow:hidden;width:100%;margin-bottom:5px;clear:both;display:flex;justify-content:space-between}.video-serv a,.video-serv > span{cursor: pointer;background:var(--main_color);border-radius:4px;text-shadow:0 1px 1px #000;color:#fff!important;font-weight:bold;padding:5px 15px;font-size:16px;flex:1;text-align:center;margin:3px}.video-serv a:focus,.video-serv a:hover,.video-serv>span:hover{background:#931800}.server-body{margin-bottom:11px;width:100%;overflow:hidden}.server-body iframe{max-width:100%;width:100%}#yalla-ajax-server{height: 500px;border-radius: 8px;position: relative;display: block;background: #1f2024;}#yalla-ajax-server iframe{ margin: 0;}#yalla-ajax-server .spinner{ justify-content: center;}blockquote{background:var(--Gray3);display:block;text-align:center;padding:10px;font-weight:bold;margin:15px 0}blockquote p:last-child{margin:0}blockquote a{margin:0 15px;color:var(--main_color)}.table-bordered{width:100%;border-collapse:collapse;background-color:var(--Gray1);border-radius:8px}.table-bordered tr{border-bottom:1px solid var(--Gray3)}.table-bordered tr:last-child{border:0}.table-bordered td,table th{font-weight:500;padding:12px;line-height:25px}.table-bordered td{border-right:1px solid var(--Gray3)}.post-footer{padding:0 12px 12px;overflow:hidden}.post-tags li a{padding:3px 10px;background:var(--Gray1);border-radius:var(--rounded);font-size:80%}.post-share{overflow:hidden;border-radius:var(--rounded);padding:12px;background:var(--Gray1);margin-top:12px}.share-links{text-align:center}.share-links li{width:25%}.share-links li a{height:40px;width:100%}.share-links a.aya-btn:hover,.share-links a.aya-btn:focus{color:#fff}.share-links .facebook{--btn-bg:#126de3}.share-links .twitter{--DarkColor:#000;--btn-bg:var(--DarkColor)}.share-links .whatsapp{--btn-bg:#008a0d}.share-links .telegram{--btn-bg:#027bb8}#AYaFooter{position:relative;margin-top:15px;width:100%;box-shadow:0 0 4px var(--bk-shadow)}.FW-Area{background:var(--footer_bd);width:100%}.FW-Area li{padding:0;list-style:outside;color:#3fc75d;width:100%;margin-left:16px}.rtl .FW-Area li{margin-left:0;margin-right:16px}.FW-Area li a{color:#484848;display:block;font-size:14px;line-height:33px}.FWidget{width:25%;padding:20px 12px;box-sizing:border-box}.FWidget.no-items{padding:0}@media screen and (max-width:900px){.FWidget{width:50%}}@media screen and (max-width:480px){.FWidget{width:100%}}.FW-Title{margin-bottom:10px;position:relative}.FW-Title::before{background:var(--main_color);content:"";height:3px;position:absolute;width:23px;bottom:-1.5px}.FW-Title .title{border-bottom:var(--footer_border) solid 1px;padding-bottom:8px;font-weight:700;font-size:16px;display:inline-block}.AYa-SiteInfo{position:relative}.AYa-SiteInfo a{font-size:13px;padding:0 7px;display:block;color:var(--cop_color)}.SnfoInner{background:var(--cop_bd);color:var(--cop_color);padding:20px 0}.sub-menu,#tom-match,#yes-match{display:none!important}@media screen and (min-width:1001px){.AYaLogo{width:200px;margin:8px 0}.hed-btn.op,.hed-btn.mo,.CloseNave{display:none!important}.AYaMainNav{align-items:center;display:flex}.MainMenu{flex:1;display:flex;flex-wrap:wrap}}@media screen and (max-width:1000px){.AYaLogo{margin:8px auto;width:auto;flex:0 0 auto}.AYaMainNav{float:none;z-index:99;height:100%;width:280px;position:fixed;top:0;left:-300px;margin:auto;transition:all .7s ease 0s;padding:60px 15px 15px;overflow-x:hidden;box-shadow:0 1px 6px rgba(32,33,36,0.4);background:var(--LightColor)}html.OpenMenu .AYaMainNav{left:0}.admin-bar .AYaMainNav{padding-top:100px}.admin-bar .CloseNave{top:65px}.MainMenu li{width:100%;margin-bottom:15px}.MainMenu li a{background:var(--DarkColor);padding:6px 12px 7px;color:#fff;border-radius:var(--rounded)}.AYaSocial{justify-content:space-between}.hed-btn.op,.hed-btn.mo{height:40px;width:40px}.liwte .line{display:flex;width:22px;height:3px;background:#fff;border-radius:1px;margin:5px 0}.CloseNave{display:inline-block;cursor:pointer;left:calc(50% - 14px);position:absolute;top:20px;width:20px;height:20px}.CloseNave .line{background:var(--DarkColor);position:absolute}.CloseNave .line.line-1{-webkit-transform:rotate(45deg);transform:rotate(45deg)}.CloseNave .line.line-2{-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}.rtl .AYaMainNav{left:auto;right:-300px}.OpenMenu .rtl .AYaMainNav{left:auto;right:0}}@media screen and (max-width:500px){body{--yall-padding:8px}.AYb_Head{padding:8px}.LogoImage{height:55px;width:160px}.AY-Fixture .AYb_Head h2{display:block;width:100%;text-align:center;margin-bottom:6px}.AY-Dtab{width:100%}.AY-Dtab li{margin:0;flex:1;height:100%}.AY-Dtab li a{height:100%;display:flex;padding-right:0;padding-left:0;font-size:14px}.TM_Logo img{margin-bottom:0;width:50px;height:50px}.MT_Team{flex-direction:column!important}.TM_Logo{width:100%}.MT_Data{margin:13px auto}.MT_Info li:nth-child(2){display:none}.MT_Info li{width:50%;font-size:12px!important}.PS_1 .AYaGrid{--post-width:280px}.PS_1 .gr-img,.PS_3 .gr-img{height:85px!important;min-width: 125px;width:125px!important}.PS_1 .gr-inner,.PS_3 .gr-inner{display:flex;gap:2px}.gr-bimg{padding-top:56.25%!important}.gr-info h3{height:55px;line-height:18px}#the-post img{height:auto}.fut-img{margin-top:-20px}.fut-img img{border-radius:0}}.albayalla-e3lan:not(:last-of-type){margin-bottom:10px}.e3lan-thumb_start{margin-top:-20px}.message-box{color:#2c7635;background-color:#dff0d4;border:#d6e9c4 solid 1px;padding:4px 15px;border-radius:var(--rounded);margin:0 auto 10px;font-size:14px;width:100%}.message-box strong{margin-left:5px}html.OpenMenu,html.OpenMenu>body{overflow:hidden}.SiteOverlay{width:100%;height:100%;position:fixed;top:0;right:0;left:0;z-index:50;opacity:0;visibility:hidden;transition:all .2s;background-color:rgba(0,0,0,0.8)}html.OpenMenu .SiteOverlay{visibility:visible;opacity:1;transition-delay:0s;cursor:url(assets/img/icon-cancel.png),auto;height:100%}.aspi_matchTabs .aspi_tab,.aspi_lineupTeams .f_sq,.aspi_lineupTeams .s_sq,.aspi_mstaduim,.aspi_staduim,#aspi_evebody .aspi-event,#aspi_evebody .aspi-event>div{font-family:var(--font_type),Segoe UI!important}#aspi-events,#aspi-plan{font-size:14px}.aspi_lineup li{border-color:#1c2733}.Night .form-group input,.Night .AYb_Head,.Night .EntryHeader{--Gray1:#121a23;--Gray2:#121a23}.Night .aspi_matchTabs .aspi_tab{background-color:#121a23;color:#fff!important;border:0}.Night .aspi_title{background-color:#1c2733!important;color:#fff}html:not(.Night) .sun,.Night .mon{display:none}.Night .FW-Title{--footer_border:#1c2733}.Night .aspi_eve_2{background-color:#1c2733}.Night #aspi_evebody .eveblock,.Night #aspi_evebody .aspi-event h3,.Night #aspi_evebody li h3,.Night .aspi_evIcon,.Night #aspi_evebody li>span,.Night #aspi_evebody div.r .eveblock::after,.Night #aspi_events::after,.Night #aspi_evebody div.r .eveblock::after,.Night #aspi_evebody div.l .eveblock::after{background-color:#263545!important;border-color:#263545!important}.Night .aspi_lineup .aspi-player-lnp{border-color:#1c2733!important}.Night .EntryMeta,.Night .EntryMeta span a{color:#9d9fa4!important}.Night .CloseNave .line{background:#fff}.Night a,.Night body,body.Night,.Night .aspi_lineup li b,.Night .aspi_lineup .aspi-player-lnp b,.Night .aspi_evMinute{color:#fff!important}.Night .MainMenu a:hover{color:#f80!important}.AY-Fixture .AYb_Head h2{--btn-bg:var(--main_color)}.tmz-name{display:flex;position:relative;height:20px;overflow:hidden;padding:2px 5px 0;justify-content:flex-end}.tmz-name span{font-size:10px;padding:2px 8px;background:var(--bk-hd-bg);border-radius:6px 6px 0 0}.yalla-style-1 .tmz-name span{box-shadow:0 0 4px 0 rgba(0,0,0,0.3)}.AY-Dtab li.today a{--btn-bg:var(--todaybg)}.AY-Dtab li.yesterday a{--btn-bg:var(--yrsdaybg)}.AY-Dtab li.tomorrow a{--btn-bg:var(--tomorobg)}.AY_Match{order:3;overflow:hidden;text-align:center;background:var(--match-bg);margin-bottom:12px;position:relative;--stat-bg:#263545}.AY_Match h4{margin:30px 0}.AY_Match a{color:#222}.no-data__msg{min-height:250px;display:flex;align-items:center;justify-content:center;width:100%;color:#666}.AY_Match.started .MT_Time,.AY_Match.live .MT_Time,.AY_Match.gools .MT_Time,.AY_Match.finished .MT_Time,.AY_Match.comming .MT_Result,.AY_Match.comming-soon .MT_Result,.AY_Match.not-started .MT_Result{display:none}.MT_Team{display:flex;align-items:center;flex:1}.MT_Team.TM2{flex-direction:row-reverse}.TM_Logo{width:50%}.TM_Logo img{margin:10px auto;display:flex}.TM_Name{margin:8px auto;font-weight:500}.MT_Data{margin:12px auto;display:flex;flex-direction:column;align-items:center}.MT_Time{font-size:16px}.MT_Result{font-size:21px;display:inline-flex;gap:5px;justify-content:center;align-items:center}.MT_Stat{font-size:14px;margin:6px auto 0;height:25px;min-width:60px;--btn-bg:var(--stat-bg)}@keyframes blinker{50%{background:#263545}}.AY_Match.live .MT_Stat{--stat-bg:#d00000;animation:blinker 500ms ease-in-out infinite}.AY_Match.finished{--stat-bg:#474747}.AY_Match.comming-soon{--stat-bg:#0f6f37}.TourName{font-size:12px;text-align:center;line-height:1.4;margin-top:6px}.albaflex{width:100%;display:flex;flex-direction:column;box-sizing:border-box}.albaflex .not-started{order:3}.albaflex .live{order:1}.albaflex .comming-soon{order:2}.albaflex .gools{order:3}.albaflex .finished{order:4}.MT_Loading .MT_Stat{--stat-bg:#e0e4ea;font-size:0}.MT_Loading .MT_Result{display:none!important}@keyframes pulse{50%{opacity:.5}}.MT_Loading .MT_Data{animation:pulse 2s cubic-bezier(.4,0,.6,1) infinite}.MT_Mask{position:absolute;top:0;bottom:0;left:0;right:0;height:100%;width:100%;opacity:0;cursor:pointer;background:rgb(0 0 0 / 60%);z-index:9}.AY_Match:hover .MT_Mask{opacity:1}.MT_MaskText{position:absolute;bottom:0;right:0;height:45px;margin:auto;left:0;top:0;width:45px;background:no-repeat center url("data:image/svg+xml;charset=utf8,%3Csvg aria-hidden='true' role='img' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' %3E%3Cpath fill='%23fff' d='M256,0C114.617,0,0,114.615,0,256s114.617,256,256,256s256-114.615,256-256S397.383,0,256,0z M344.48,269.57l-128,80 c-2.59,1.617-5.535,2.43-8.48,2.43c-2.668,0-5.34-.664-7.758-2.008C195.156,347.172,192,341.82,192,336V176 c0-5.82,3.156-11.172,8.242-13.992c5.086-2.836,11.305-2.664,16.238,.422l128,80c4.676,2.93,7.52,8.055,7.52,13.57 S349.156,266.641,344.48,269.57z' class=''%3E%3C/path%3E%3C/svg%3E")}.AY_Match{padding:12px 15px}.MT_Info{display:none!important}.MT_Team{flex-direction:column!important;width:calc((100% - 150px)/2)}.TM_Logo{width:100%;margin-bottom:6px}.TM_Logo img{margin:0 auto;width:45px;height:auto}.TM_Name{margin:0 auto}.MT_Data{margin:0 auto;width:130px}.MT_Time,.MT_Result{margin:0 auto;height:20px;line-height:20px}.Night,.Night body{--body_bg:#1c2733;--header_bg:#263545;--Gray2:#2b3b4d;--Gray3:#1c2733;--logo_color:#fff;--footer_border:#1c2733;--Gray1:#1c2733;--LightColor:#263545;--footer_bd:var(--LightColor);--cop_bd:#1c2733;--DarkColor:var(--Gray1);--LightColor2:var(--Gray1)}.albaflex{padding:12px 12px 0}@font-face{font-family:"NeoSansArabic";font-style:normal;font-weight:normal;font-display:swap;src:url("https://koratv.info/wp-content/themes/AlbaYallaShoot/public/fonts/NeoSansArabic.woff2?v=3") format("woff2")} @media screen and (max-width:768px){:root{--font_type:Segoe UI}}.SnfoInner .cp-text{font-size: 13px;} .aspi_matchTabCon #aspi-events + #aspi-con ,.aspi_matchTabCon #aspi-plan + #aspi-con{ display: block !important; visibility: hidden; height: 0; overflow: hidden;} .aspi_matchTabCon #aspi-events + #aspi-con.is-active ,.aspi_matchTabCon #aspi-plan + #aspi-con.is-active{ visibility: visible !important; height: auto !important;}.aspi-block-header{margin-top: 20px;}`;
+
+const pageHtml = `
+   <header id="AYaHeader">
+      <div class="HdrInner">
+         <div class="container fx-cen gap-20">
+                        <h1 class="screen-reader">كورة لايف – kooralive – اهم مباريات اليوم بث مباشر koora live</h1>
+                        <span class="hed-btn op" onclick="ToggleMenu()"><span class="liwte"><span class="line line-1"></span><span class="line line-2"></span><span class="line line-3"></span></span></span>
+            <div class="AYaLogo textlogo" id="AYaLogo">
+                   <a href="https://koratv.info" title="كورة لايف - kooralive - اهم مباريات اليوم بث مباشر koora live">
+      <span class="SiteName">كورة لايف </span><span class="SiteUrl">kooralive.space</span>    </a>
+                </div>
+            <div class="AYaMainNav">
+               <div class="CloseNave" onclick="ToggleMenu()"><span class="liwte"><span class="line line-1"></span><span class="line line-2"></span></span></div>
+               <ul class="MainMenu"><li class="current-menu"><a title="كورة لايف" href="/">كورة لايف</a></li>
+<li class="current-menu"><a title="koora live" href="/">koora live</a></li>
+<li class="current-menu"><a title="kora live" href="/">kora live</a></li>
+<li class="current-menu"><a title="kooralive" href="/">kooralive</a></li>
+</ul>               <ul class="AYaSocial d-fx gap-5">
+                  <li class="moon"><span class="hed-btn" onclick="skin_switcher()"><svg class="icon" width="20" height="20"><use class="mon" xlink:href="#i-moon"></use><use class="sun" href="#i-sun"></use></svg><span class="screen-reader">skin</span></span></li>               </ul>
+            </div>
+                           <div class="hed-btn mo" onclick="skin_switcher()"><svg class="icon" width="20" height="20"><use class="mon" xlink:href="#i-moon"></use><use class="sun" href="#i-sun"></use></svg></div>
+                     </div>
+      </div>
+   </header>
+      <div id="SiteContent" class="container">
+                  <div class="main-wrapp">
+        <div class="tmz-name"><span>بتوقيت القاهرة</span></div>
+<div class="AY_Block AY-Fixture    ">
+                <div class="AYb_Head fx-wrap">
+            <h2 class="aya-btn"><strong>جدول المباريات</strong></h2>
+   
+            <ul class="AY-Dtab d-fx gap-5">
+            <li class="yesterday"><a class="aya-btn  " href="https://koratv.info/matches-yesterday/" title="مباريات الأمس"><strong>مباريات الأمس</strong></a></li><li class="today"><a class="aya-btn  active" href="https://koratv.info/matches-today/" title="مباريات اليوم"><strong>مباريات اليوم</strong></a></li><li class="tomorrow"><a class="aya-btn  " href="https://koratv.info/matches-tomorrow/" title="مباريات الغد"><strong>مباريات الغد</strong></a></li>            </ul>
+        </div>
+                    <div id="ayala-" class="albaflex active">
+            <div class="AY_Match live">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="نيوكاسل يونايتد" data-src="https://www.9koora.live/wp-content/uploads/2026/08/116.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">نيوكاسل يونايتد</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">14:30</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">جارية الان</div>
+                            <div class="TourName">إنجلترا, الدوري الإنجليزي</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="بورنموث" data-src="https://www.9koora.live/wp-content/uploads/2026/08/50.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">بورنموث</div>
+        </div>
+    </div>
+        <a href="https://11.koorashot.fun/2026/05/be-in-sport-1.html" title="تفاصيل وموعد مباراة نيوكاسل يونايتد و بورنموث بتاريخ 2026-09-05 في دوري إنجلترا, الدوري الإنجليزي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match comming-soon">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="هوفنهايم" data-src="https://koratv.info/wp-content/uploads/2026/09/351.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koratv.info/wp-content/uploads/2026/09/351.png" loading="lazy"></div>
+            <div class="TM_Name">هوفنهايم</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">16:30</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">بعد قليل</div>
+                            <div class="TourName">ألمانيا, الدوري الألماني</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="بوروسيا دورتموند" data-src="https://www.9koora.live/wp-content/uploads/2026/08/341.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://www.9koora.live/wp-content/uploads/2026/08/341.png" loading="lazy"></div>
+            <div class="TM_Name">بوروسيا دورتموند</div>
+        </div>
+    </div>
+        <a href="https://11.koorashot.fun/2026/05/shahid1.html" title="تفاصيل وموعد مباراة هوفنهايم و بوروسيا دورتموند بتاريخ 2026-09-05 في دوري ألمانيا, الدوري الألماني"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match comming-soon">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="فيردر بريمن" data-src="https://koorastars.store/wp-content/uploads/2026/08/332-1.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koorastars.store/wp-content/uploads/2026/08/332-1.png" loading="lazy"></div>
+            <div class="TM_Name">فيردر بريمن</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">16:30</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">بعد قليل</div>
+                            <div class="TourName">ألمانيا, الدوري الألماني</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="لايبزيج" data-src="https://koratv.info/wp-content/uploads/2026/09/7171.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koratv.info/wp-content/uploads/2026/09/7171.png" loading="lazy"></div>
+            <div class="TM_Name">لايبزيج</div>
+        </div>
+    </div>
+        <a href="https://13.koorashot.fun/2026/09/shahid3.html" title="تفاصيل وموعد مباراة فيردر بريمن و لايبزيج بتاريخ 2026-09-05 في دوري ألمانيا, الدوري الألماني"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match comming-soon">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="باير ليفركوزن" data-src="https://koorastars.store/wp-content/uploads/2026/08/333.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koorastars.store/wp-content/uploads/2026/08/333.png" loading="lazy"></div>
+            <div class="TM_Name">باير ليفركوزن</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">16:30</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">بعد قليل</div>
+                            <div class="TourName">ألمانيا, الدوري الألماني</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="يونيون برلين" data-src="https://koorastars.store/wp-content/uploads/2026/08/392.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koorastars.store/wp-content/uploads/2026/08/392.png" loading="lazy"></div>
+            <div class="TM_Name">يونيون برلين</div>
+        </div>
+    </div>
+        <a href="https://11.koorashot.fun/2026/05/shahid2.html" title="تفاصيل وموعد مباراة باير ليفركوزن و يونيون برلين بتاريخ 2026-09-05 في دوري ألمانيا, الدوري الألماني"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="نوتنجهام فورست" data-src="https://www.9koora.live/wp-content/uploads/2026/08/29.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">نوتنجهام فورست</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">17:00</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                            <div class="TourName">إنجلترا, الدوري الإنجليزي</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="توتنهام هوتسبر" data-src="https://www.9koora.live/wp-content/uploads/2026/08/114.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">توتنهام هوتسبر</div>
+        </div>
+    </div>
+        <a href="/" title="تفاصيل وموعد مباراة نوتنجهام فورست و توتنهام هوتسبر بتاريخ 2026-09-05 في دوري إنجلترا, الدوري الإنجليزي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="مانشستر سيتي" data-src="https://www.9koora.live/wp-content/uploads/2026/08/110.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">مانشستر سيتي</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">17:00</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                            <div class="TourName">إنجلترا, الدوري الإنجليزي</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="كوفنتري سيتي" data-src="https://koorastars.store/wp-content/uploads/2026/08/24.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koorastars.store/wp-content/uploads/2026/08/24.png" loading="lazy"></div>
+            <div class="TM_Name">كوفنتري سيتي</div>
+        </div>
+    </div>
+        <a href="/" title="تفاصيل وموعد مباراة مانشستر سيتي و كوفنتري سيتي بتاريخ 2026-09-05 في دوري إنجلترا, الدوري الإنجليزي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="فولهام" data-src="https://www.kooora.today/wp-content/uploads/2026/08/120.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">فولهام</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">17:00</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                            <div class="TourName">إنجلترا, الدوري الإنجليزي</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="كريستال بالاس" data-src="https://www.9koora.live/wp-content/uploads/2026/08/10.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">كريستال بالاس</div>
+        </div>
+    </div>
+        <a href="/" title="تفاصيل وموعد مباراة فولهام و كريستال بالاس بتاريخ 2026-09-05 في دوري إنجلترا, الدوري الإنجليزي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="برايتون" data-src="https://www.9koora.live/wp-content/uploads/2026/08/38.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">برايتون</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">17:00</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                            <div class="TourName">إنجلترا, الدوري الإنجليزي</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="ليدز يونايتد" data-src="https://www.9koora.live/wp-content/uploads/2026/08/36.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">ليدز يونايتد</div>
+        </div>
+    </div>
+        <a href="/" title="تفاصيل وموعد مباراة برايتون و ليدز يونايتد بتاريخ 2026-09-05 في دوري إنجلترا, الدوري الإنجليزي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="أتلتيك بلباو" data-src="https://www.9koora.live/wp-content/uploads/2026/08/144.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">أتلتيك بلباو</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">17:15</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                            <div class="TourName">إسبانيا, الدوري الإسباني</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="أتلتيكو مدريد" data-src="https://www.9koora.live/wp-content/uploads/2026/08/134.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">أتلتيكو مدريد</div>
+        </div>
+    </div>
+        <a href="/" title="تفاصيل وموعد مباراة أتلتيك بلباو و أتلتيكو مدريد بتاريخ 2026-09-05 في دوري إسبانيا, الدوري الإسباني"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="لانس" data-src="https://www.9koora.live/wp-content/uploads/2026/08/481.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">لانس</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">18:15</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                            <div class="TourName">فرنسا, الدوري الفرنسي</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="لوريان" data-src="https://koratv.info/wp-content/uploads/2026/09/472.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koratv.info/wp-content/uploads/2026/09/472.png" loading="lazy"></div>
+            <div class="TM_Name">لوريان</div>
+        </div>
+    </div>
+        <a href="/" title="تفاصيل وموعد مباراة لانس و لوريان بتاريخ 2026-09-05 في دوري فرنسا, الدوري الفرنسي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="التعاون" data-src="https://koorastars.store/wp-content/uploads/2026/08/8941.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koorastars.store/wp-content/uploads/2026/08/8941.png" loading="lazy"></div>
+            <div class="TM_Name">التعاون</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">18:55</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                            <div class="TourName">السعودية, الدوري السعودي</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="الفتح" data-src="https://koorastars.store/wp-content/uploads/2026/08/8942.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koorastars.store/wp-content/uploads/2026/08/8942.png" loading="lazy"></div>
+            <div class="TM_Name">الفتح</div>
+        </div>
+    </div>
+        <a href="/" title="تفاصيل وموعد مباراة التعاون و الفتح بتاريخ 2026-09-05 في دوري السعودية, الدوري السعودي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="إنتر ميلان" data-src="https://www.9koora.live/wp-content/uploads/2026/08/224.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">إنتر ميلان</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">19:00</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                            <div class="TourName">إيطاليا, الدوري الإيطالي</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="نابولي" data-src="https://koorastars.store/wp-content/uploads/2026/08/234.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koorastars.store/wp-content/uploads/2026/08/234.png" loading="lazy"></div>
+            <div class="TM_Name">نابولي</div>
+        </div>
+    </div>
+        <a href="/" title="تفاصيل وموعد مباراة إنتر ميلان و نابولي بتاريخ 2026-09-05 في دوري إيطاليا, الدوري الإيطالي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="هال سيتي" data-src="https://www.9koora.live/wp-content/uploads/2026/08/11.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">هال سيتي</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">19:30</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                            <div class="TourName">إنجلترا, الدوري الإنجليزي</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="أستون فيلا" data-src="https://www.9koora.live/wp-content/uploads/2026/08/109.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">أستون فيلا</div>
+        </div>
+    </div>
+        <a href="/" title="تفاصيل وموعد مباراة هال سيتي و أستون فيلا بتاريخ 2026-09-05 في دوري إنجلترا, الدوري الإنجليزي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="شالكة" data-src="https://koorastars.store/wp-content/uploads/2026/08/335.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koorastars.store/wp-content/uploads/2026/08/335.png" loading="lazy"></div>
+            <div class="TM_Name">شالكة</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">19:30</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                            <div class="TourName">ألمانيا, الدوري الألماني</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="بايرن ميونخ" data-src="https://www.9koora.live/wp-content/uploads/2026/08/331.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://www.9koora.live/wp-content/uploads/2026/08/331.png" loading="lazy"></div>
+            <div class="TM_Name">بايرن ميونخ</div>
+        </div>
+    </div>
+        <a href="/" title="تفاصيل وموعد مباراة شالكة و بايرن ميونخ بتاريخ 2026-09-05 في دوري ألمانيا, الدوري الألماني"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="الاتحاد" data-src="https://www.1kooralive.space/wp-content/uploads/2026/08/8593.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">الاتحاد</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">21:00</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                            <div class="TourName">السعودية, الدوري السعودي</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="النصر" data-src="https://www.kooora.today/wp-content/uploads/2026/08/7549.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">النصر</div>
+        </div>
+    </div>
+        <a href="/" title="تفاصيل وموعد مباراة الاتحاد و النصر بتاريخ 2026-09-05 في دوري السعودية, الدوري السعودي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="نيس" data-src="https://koorastars.store/wp-content/uploads/2026/08/470.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koorastars.store/wp-content/uploads/2026/08/470.png" loading="lazy"></div>
+            <div class="TM_Name">نيس</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">21:45</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                            <div class="TourName">فرنسا, الدوري الفرنسي</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="لومان" data-src="https://www.9koora.live/wp-content/uploads/2026/08/468.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">لومان</div>
+        </div>
+    </div>
+        <a href="/" title="تفاصيل وموعد مباراة نيس و لومان بتاريخ 2026-09-05 في دوري فرنسا, الدوري الفرنسي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="روما" data-src="https://www.kooora.today/wp-content/uploads/2026/08/225.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">روما</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">21:45</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                            <div class="TourName">إيطاليا, الدوري الإيطالي</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="أتالانتا" data-src="https://koorastars.store/wp-content/uploads/2026/08/232.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koorastars.store/wp-content/uploads/2026/08/232.png" loading="lazy"></div>
+            <div class="TM_Name">أتالانتا</div>
+        </div>
+    </div>
+        <a href="/" title="تفاصيل وموعد مباراة روما و أتالانتا بتاريخ 2026-09-05 في دوري إيطاليا, الدوري الإيطالي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="فياريال" data-src="https://www.9koora.live/wp-content/uploads/2026/08/133.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">فياريال</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">22:00</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                            <div class="TourName">إسبانيا, الدوري الإسباني</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="ديبورتيفو لاكورونيا" data-src="https://www.kooora.today/wp-content/uploads/2026/08/148.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">ديبورتيفو لاكورونيا</div>
+        </div>
+    </div>
+        <a href="/" title="تفاصيل وموعد مباراة فياريال و ديبورتيفو لاكورونيا بتاريخ 2026-09-05 في دوري إسبانيا, الدوري الإسباني"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div>        </div>
+        </div>
+<div class="AY_Block PS_1">
+            <div class="AYb_Head">
+            <h2 class="aya-btn"><strong>آخر الأخبار</strong></h2>
+                    </div>
+        <div class="AYb_Inner">
+        <div id="AlbaPosts">
+            <div class="AlbaGridPosts Nfeed AYaGrid" data-page="https://koratv.info/page/2/">
+                <div class="gr-item">
+	<a class="gr-inner" href="https://koratv.info/%d8%aa%d8%a7%d9%87-%d8%a5%d9%84%d9%89-%d8%a8%d8%a7%d9%8a%d8%b1%d9%86-%d8%ad%d9%8a%d9%86-%d9%8a%d9%8f%d8%ba%d9%84%d9%82-%d8%a7%d9%84%d8%a8%d8%a7%d8%a8-%d9%81%d9%8a-%d9%88%d8%ac%d9%87-%d8%a8%d8%b1/" title="تاه إلى بايرن… حين يُغلق الباب في وجه برشلونة">
+	<div class="gr-img hqy-lazy hqy-error" data-src=""></div>
+				<div class="gr-info"><h3 class="gr-title">تاه إلى بايرن… حين يُغلق الباب في وجه برشلونة</h3></div>
+			</a>
+</div><div class="gr-item">
+	<a class="gr-inner" href="https://koratv.info/%d8%a8%d9%86-%d8%b5%d8%ba%d9%8a%d8%b1-%d9%88%d8%a3%d9%83%d9%84%d9%8a%d9%88%d8%b4-%d9%87%d9%84-%d9%8a%d8%a8%d8%af%d8%a3-%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9-%d9%85%d8%b4%d8%b1%d9%88%d8%b9/" title="بن صغير وأكليوش… هل يبدأ برشلونة مشروعه المغربي؟">
+	<div class="gr-img hqy-lazy hqy-error" data-src=""></div>
+				<div class="gr-info"><h3 class="gr-title">بن صغير وأكليوش… هل يبدأ برشلونة مشروعه المغربي؟</h3></div>
+			</a>
+</div><div class="gr-item">
+	<a class="gr-inner" href="https://koratv.info/%d9%87%d9%88%d9%8a%d8%b3%d9%86-%d9%81%d9%8a-%d9%85%d9%87%d8%a8-%d8%a7%d9%84%d8%ae%d8%b7%d8%b1-%d8%a8%d9%8a%d9%86-%d9%85%d8%b7%d8%b1%d9%82%d8%a9-%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1/" title="هويسن في مهب الخطر… بين مطرقة مانشستر سيتي وسندان ريال مدريد">
+	<div class="gr-img hqy-lazy hqy-error" data-src=""></div>
+				<div class="gr-info"><h3 class="gr-title">هويسن في مهب الخطر… بين مطرقة مانشستر سيتي وسندان ريال مدريد</h3></div>
+			</a>
+</div><div class="gr-item">
+	<a class="gr-inner" href="https://koratv.info/%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d9%84%d8%a7-%d9%8a%d8%b1%d8%ad%d9%85-%d8%ad%d9%8a%d9%86-%d9%8a%d9%83%d9%88%d9%86-%d8%a7%d9%84%d8%a8%d8%b7%d9%84-%d8%ac%d8%a7%d8%a6%d8%b9%d9%8b%d8%a7/" title="الاتحاد لا يرحم.. حين يكون البطل جائعًا بعد التتويج">
+	<div class="gr-img hqy-lazy hqy-error" data-src=""></div>
+				<div class="gr-info"><h3 class="gr-title">الاتحاد لا يرحم.. حين يكون البطل جائعًا بعد التتويج</h3></div>
+			</a>
+</div><div class="gr-item">
+	<a class="gr-inner" href="https://koratv.info/%d9%81%d9%84%d9%8a%d9%83-%d8%a7%d9%84%d8%ac%d9%86%d8%b1%d8%a7%d9%84-%d8%a7%d9%84%d8%a3%d9%84%d9%85%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%b0%d9%8a-%d8%a3%d8%b9%d8%a7%d8%af-%d8%a8%d8%b1%d8%b4%d9%84%d9%88/" title="فليك… الجنرال الألماني الذي أعاد برشلونة إلى عرشه">
+	<div class="gr-img hqy-lazy" data-src=""></div>
+				<div class="gr-info"><h3 class="gr-title">فليك… الجنرال الألماني الذي أعاد برشلونة إلى عرشه</h3></div>
+			</a>
+</div><div class="gr-item">
+	<a class="gr-inner" href="https://koratv.info/%d8%ac%d9%84%d8%a7%d8%b3%d9%86%d8%b1-%d8%a7%d9%84%d9%85%d9%87%d9%86%d8%af%d8%b3-%d8%a7%d9%84%d9%87%d8%a7%d8%af%d8%a6-%d8%a7%d9%84%d8%b0%d9%8a-%d9%82%d8%a7%d8%af-%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d8%a7/" title="جلاسنر.. المهندس الهادئ الذي قاد كريستال بالاس من ظلام القاع إلى ضوء المجد">
+	<div class="gr-img hqy-lazy" data-src=""></div>
+				<div class="gr-info"><h3 class="gr-title">جلاسنر.. المهندس الهادئ الذي قاد كريستال بالاس من ظلام القاع إلى ضوء المجد</h3></div>
+			</a>
+</div><div class="gr-item">
+	<a class="gr-inner" href="https://koratv.info/%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d8%a7%d9%84-%d8%a8%d8%a7%d9%84%d8%a7%d8%b3-%d9%8a%d9%8f%d8%b3%d9%82%d8%b7-%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1-%d8%b3%d9%8a%d8%aa%d9%8a-%d9%88%d9%8a%d9%85%d8%a8/" title="كريستال بالاس يُسقط مانشستر سيتي.. ويمبلي يشهد معجزة إيزي وهندرسون">
+	<div class="gr-img hqy-lazy" data-src=""></div>
+				<div class="gr-info"><h3 class="gr-title">كريستال بالاس يُسقط مانشستر سيتي.. ويمبلي يشهد معجزة إيزي وهندرسون</h3></div>
+			</a>
+</div><div class="gr-item">
+	<a class="gr-inner" href="https://koratv.info/%d9%84%d8%a7%d9%85%d9%8a%d9%86-%d9%8a%d8%a7%d9%85%d8%a7%d9%84-%d8%a7%d9%84%d8%b7%d9%81%d9%84-%d8%a7%d9%84%d8%b0%d9%8a-%d8%ad%d9%85%d9%84-%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9-%d8%b9%d9%84%d9%89/" title="لامين يامال.. الطفل الذي حمل برشلونة على كتفيه">
+	<div class="gr-img hqy-lazy" data-src=""></div>
+				<div class="gr-info"><h3 class="gr-title">لامين يامال.. الطفل الذي حمل برشلونة على كتفيه</h3></div>
+			</a>
+</div>            </div>
+        </div>
+    </div>
+    <div class="AlbaMorBtn"><a href="#" rel="nofollow" id="LoadMOreNews" class="LoadMOreNews" title="عرض المزيد">عرض المزيد</a></div></div></div>
+ 
+</div><!-- SiteContent-->  
+<footer id="AYaFooter">
+   <div class="FW-Area">
+      <div class="container fx-wrap">
+          
+      </div>
+   </div>
+   <div class="AYa-SiteInfo">
+      <div class="SnfoInner">
+         <div class="container d-fx gap-5">
+            <div class="grow-1">
+               <ul class="fx-wrap"><li class="current-menu"><a title="كورة لايف بث مباشر" href="/">كورة لايف بث مباشر</a></li>
+</ul>            </div>
+            <div class="footer_creared"><a id="albacp" href="https://albaadani.com" target="_blank" rel="nofollow noopener">Designed by | albaadani</a></div>         </div>
+      </div>
+   </div>
+</footer>
+  
+<svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" class="d-none">
+   <symbol id="twitter" viewBox="0 0 1024 1024"><path d="M778.411 96h141.141l-308.352 352.427 362.752 479.573h-284.032l-222.464-290.859-254.549 290.859h-141.227l329.813-376.96-347.989-455.040h291.243l201.088 265.856zM728.875 843.52h78.208l-504.832-667.477h-83.925z" fill="currentColor"></path></symbol>   <symbol id="facebook" viewBox="0 0 512 512"><path fill="currentColor" d="M288,176v-64c0-17.664,14.336-32,32-32h32V0h-64c-53.024,0-96,42.976-96,96v80h-64v80h64v256h96V256h64l32-80H288z" class=""></path></symbol>   <symbol id="telegram" viewBox="0 0 24 24"><path fill="currentColor" d="M22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12ZM12.3584 9.38246C11.3857 9.78702 9.4418 10.6244 6.5266 11.8945C6.05321 12.0827 5.80524 12.2669 5.78266 12.4469C5.74451 12.7513 6.12561 12.8711 6.64458 13.0343C6.71517 13.0565 6.78832 13.0795 6.8633 13.1039C7.37388 13.2698 8.06071 13.464 8.41776 13.4717C8.74164 13.4787 9.10313 13.3452 9.50222 13.0711C12.226 11.2325 13.632 10.3032 13.7203 10.2832C13.7826 10.269 13.8689 10.2513 13.9273 10.3032C13.9858 10.3552 13.98 10.4536 13.9739 10.48C13.9361 10.641 12.4401 12.0318 11.666 12.7515C11.4351 12.9661 11.2101 13.1853 10.9833 13.4039C10.509 13.8611 10.1533 14.204 11.003 14.764C11.8644 15.3317 12.7323 15.8982 13.5724 16.4971C13.9867 16.7925 14.359 17.0579 14.8188 17.0156C15.0861 16.991 15.3621 16.7397 15.5022 15.9903C15.8335 14.2193 16.4847 10.3821 16.6352 8.80083C16.6484 8.6623 16.6318 8.485 16.6185 8.40717C16.6052 8.32934 16.5773 8.21844 16.4762 8.13635C16.3563 8.03913 16.1714 8.01863 16.0887 8.02009C15.7125 8.02672 15.1355 8.22737 12.3584 9.38246Z"></path></symbol>   <symbol id="youtube" viewBox="0 0 24 24"><path fill="currentColor" d="M12.2439 4C12.778 4.00294 14.1143 4.01586 15.5341 4.07273L16.0375 4.09468C17.467 4.16236 18.8953 4.27798 19.6037 4.4755C20.5486 4.74095 21.2913 5.5155 21.5423 6.49732C21.942 8.05641 21.992 11.0994 21.9982 11.8358L21.9991 11.9884L21.9991 11.9991C21.9991 11.9991 21.9991 12.0028 21.9991 12.0099L21.9982 12.1625C21.992 12.8989 21.942 15.9419 21.5423 17.501C21.2878 18.4864 20.5451 19.261 19.6037 19.5228C18.8953 19.7203 17.467 19.8359 16.0375 19.9036L15.5341 19.9255C14.1143 19.9824 12.778 19.9953 12.2439 19.9983L12.0095 19.9991L11.9991 19.9991C11.9991 19.9991 11.9956 19.9991 11.9887 19.9991L11.7545 19.9983C10.6241 19.9921 5.89772 19.941 4.39451 19.5228C3.4496 19.2573 2.70692 18.4828 2.45587 17.501C2.0562 15.9419 2.00624 12.8989 2 12.1625V11.8358C2.00624 11.0994 2.0562 8.05641 2.45587 6.49732C2.7104 5.51186 3.45308 4.73732 4.39451 4.4755C5.89772 4.05723 10.6241 4.00622 11.7545 4H12.2439ZM9.99911 8.49914V15.4991L15.9991 11.9991L9.99911 8.49914Z"></path></symbol>   <symbol id="i-moon" viewBox="0 0 241.072 241.072"><path fill="currentColor" d="M202.167,156.857c-44.236,0-80.085-35.842-80.085-80.078c0-29.923,16.43-55.951,40.733-69.707 C150.088,2.498,136.373,0,122.082,0C55.506,0,1.535,53.971,1.535,120.528c0,66.584,53.971,120.544,120.547,120.544 c57.269,0,105.18-39.937,117.454-93.485C228.374,153.484,215.665,156.857,202.167,156.857L202.167,156.857z"></path></symbol><symbol id="i-sun" viewBox="0 0 512 512"><path fill="currentColor" d="M256 160c-52.9 0-96 43.1-96 96s43.1 96 96 96 96-43.1 96-96-43.1-96-96-96zm246.4 80.5l-94.7-47.3 33.5-100.4c4.5-13.6-8.4-26.5-21.9-21.9l-100.4 33.5-47.4-94.8c-6.4-12.8-24.6-12.8-31 0l-47.3 94.7L92.7 70.8c-13.6-4.5-26.5 8.4-21.9 21.9l33.5 100.4-94.7 47.4c-12.8 6.4-12.8 24.6 0 31l94.7 47.3-33.5 100.5c-4.5 13.6 8.4 26.5 21.9 21.9l100.4-33.5 47.3 94.7c6.4 12.8 24.6 12.8 31 0l47.3-94.7 100.4 33.5c13.6 4.5 26.5-8.4 21.9-21.9l-33.5-100.4 94.7-47.3c13-6.5 13-24.7.2-31.1zm-155.9 106c-49.9 49.9-131.1 49.9-181 0-49.9-49.9-49.9-131.1 0-181 49.9-49.9 131.1-49.9 181 0 49.9 49.9 49.9 131.1 0 181z"></path></symbol>      <symbol id="spinner" viewBox="0 0 512 512"><path fill="currentColor" d="M304 48c0 26.51-21.49 48-48 48s-48-21.49-48-48 21.49-48 48-48 48 21.49 48 48zm-48 368c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48zm208-208c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48zM96 256c0-26.51-21.49-48-48-48S0 229.49 0 256s21.49 48 48 48 48-21.49 48-48zm12.922 99.078c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48c0-26.509-21.491-48-48-48zm294.156 0c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48c0-26.509-21.49-48-48-48zM108.922 60.922c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.491-48-48-48z"></path></symbol>
+</svg>
+<span class="SiteOverlay" onclick="ToggleMenu()"></span>
+
+                
+
+
+
+
+
+`;
 
 export default function Home() {
-  
-  const matches = [
-    { teamA: "الشياب", teamB: "الهلال", scoreA: 0, scoreB: 0, time: "19:00", status: "live", channel: "tamanyah", commentator: "غير معروف", league: " ", href: "/live/1-vs-2" },
-    { teamA: "الاهلي", teamB: "الرياض", scoreA: 0, scoreB: 0, time: "19:00", status: "live", channel: "tamanyah", commentator: "غير معروف", league: " ", href: "/live/3-vs-4" },
-    { teamA: "ليفربول", teamB: "ابسويش تاون ", scoreA: 0, scoreB: 0, time: "20:00", status: "upcoming", channel: "beIN SPORTS ", commentator: "غير معروف", league: " ", href: "/live/5-vs-6" },
-    { teamA: "ريال بتيس", teamB: "ريال مدريد", scoreA: 0, scoreB: 0, time: "20:00", status: "upcoming", channel: "beIN SPORTS ", commentator: "غير معروف", league: " ", href: "/live/7-vs-8" },     
-    { teamA: " موناكو", teamB: " بارسان جيرمان", scoreA: 0, scoreB: 0, time: "20:05", status: "upcoming", channel: "beIN SPORTS ", commentator: "غير معروف", league: " ", href: "/live/9-vs-10" },     
+  useEffect(() => {
+    const root = document.documentElement;
 
-  ];
-  const seoKeywords = [
-    "كورة لايف", "koora live", "مباريات اليوم بث مباشر", "يلا شوت", "yalla shoot", 
-    "كورة اون لاين", "koora online", "كورة ستار", "koora star", "يلا كورة", 
-    "yalla kora", "بين سبورت مباشر", "beIN Sports live", "نتائج المباريات", 
-    "الدوري الانجليزي", "الدوري الاسباني", "الدوري السعودي", "دوري ابطال اوروبا", 
-    "الاسطورة لبث المباريات", "live stream football", "كورة 4 لايف", "koora4live", 
-    "يلا شوت حصري", "تابع لايف", "tab3 live", "كورة جول", "koora goal", 
-    "ماي كورة", "my kora", "يلا شوت الجديد", "yalla shoot new", "كورة لايف مباشر", 
-    "koora live tv", "kora live streaming", "يلا لايف", "yalla live", 
-    "كورة لايف اون لاين", "كورة فور ايفر", "كورة لايف بلس", "كورة لايف الجديد", 
-    "مباريات اليوم مباشر", "جدول مباريات اليوم", "كورة لايف كورة", "koora live scores", 
-    "football live updates", "مشاهدة مباريات اليوم", "كورة لايف تي في", "koora live 24", 
-    "الاسطورة لايف", "يلا شوت توداي", "yalla shoot today", "كورة اونلاين تيفي",
-    "مشاهدة الدوري المصري", "بث مباشر ليفربول", "بث مباشر ريال مدريد", "بث مباشر برشلونة",
-    "اهداف المباريات", "ملخصات الدوري", "كورة اتش دي", "koora hd", "بث مباشر الاسطورة",
-    "يلا شوت جوال", "yalla shoot mobile", "مشاهدة بين سبورت", "كورة لايف تويتر",
-    "أهم مباريات اليوم", "بث مباشر بدون تقطيع", "كورة لايف الرسمي", "موقع كورة لايف",
-    "مشاهدة مباراة الاهلي اليوم", "مشاهدة مباراة الزمالك اليوم", "بث مباشر النصر",
-    "بث مباشر الهلال", "الدوري الإيطالي مباشر", "الدوري الفرنسي مباشر", "دوري روشن",
-    "كأس الملك مباشر", "نهائي دوري الابطال", "يلا شوت ستورز", "yalla shoot stars",
-    "koora live streaming free", "كورة لايف مباريات اليوم مباشر", "يلا شوت بث مباشر",
-    "yalla shoot live", "كورة لايف اون لاين", "بث مباشر للمباريات المشفرة", "كورة 365",
-    "koora 365", "الاسطورة لايف مباريات اليوم", "كورة جول بث مباشر"
-  ];
+    const savedMode = localStorage.getItem("mode");
+    if (savedMode === "rdmode") root.classList.add("Night");
+    else root.classList.remove("Night");
 
-return (
-  <div className="min-h-screen flex flex-col font-body bg-[#f0f0f2]">
-      <div className="bg-white border-b border-gray-200 py-2">
-        <div className="container mx-auto px-4 flex items-center justify-between">
-          <div className="flex items-center gap-2">
-            <div className="w-8 h-8 bg-black rounded flex items-center justify-center text-white cursor-pointer hover:opacity-80 transition-opacity"><LucideTwitter className="w-4 h-4" /></div>
-            <div className="w-8 h-8 bg-[#3b5998] rounded flex items-center justify-center text-white cursor-pointer hover:opacity-80 transition-opacity"><LucideFacebook className="w-4 h-4" /></div>
-            <div className="w-8 h-8 bg-[#ff0000] rounded flex items-center justify-center text-white cursor-pointer hover:opacity-80 transition-opacity"><LucideYoutube className="w-4 h-4" /></div>
-            <div className="w-8 h-8 bg-[#0088cc] rounded flex items-center justify-center text-white cursor-pointer hover:opacity-80 transition-opacity"><LucideSend className="w-4 h-4" /></div>
-          </div>
-          <div className="flex items-center gap-4">
-            <span className="text-gray-500 font-bold text-sm hidden md:inline">koora live</span>
-            <div className="bg-[#a11d1d] text-white px-6 py-2 rounded-lg font-black text-xl font-headline shadow-sm select-none">
-              koora live
-            </div>
-          </div>
-        </div>
-      </div>
+    const toggleMenu = () => root.classList.toggle("OpenMenu");
+    const skinSwitcher = () => {
+      const night = root.classList.toggle("Night");
+      localStorage.setItem("mode", night ? "rdmode" : "light");
+    };
 
-      <main className="container mx-auto px-2 md:px-4 py-6 max-w-5xl">
-        {/* GMT Time Badge */}
-        <div className="mb-4">
-          <span className="bg-gray-200 text-gray-600 px-4 py-1.5 rounded-t-lg text-[11px] font-bold border border-b-0 border-gray-300">
-            بتوقيت غرينتش +1
-          </span>
-        </div>
+    (window as any).ToggleMenu = toggleMenu;
+    (window as any).skin_switcher = skinSwitcher;
 
-        {/* Matches Container */}
-        <div className="bg-[#e9e9ed] rounded-lg p-2 md:p-4 border border-gray-300">
-          {/* Header Row */}
-          <div className="flex items-center justify-end mb-4">
-            <div className="bg-[#a11d1d] text-white px-6 py-1.5 rounded-lg text-sm font-bold shadow-md">
-              جدول المباريات
-            </div>
-          </div>
+    // Lazy-load images used by the original page.
+    const loadImages = () => {
+      document.querySelectorAll<HTMLImageElement>("img[data-src]").forEach((img) => {
+        const src = img.getAttribute("data-src");
+        if (src) {
+          img.src = src;
+          img.classList.remove("hqy-lazy");
+          img.classList.add("hqy-loaded");
+        }
+      });
+      document.querySelectorAll<HTMLElement>("[data-src].gr-img").forEach((el) => {
+        const src = el.getAttribute("data-src");
+        if (src) el.style.backgroundImage = `url("${src}")`;
+      });
+    };
+    loadImages();
 
-          {/* Matches List */}
-          <div className="space-y-1">
-            {matches.map((match, idx) => (
-              <MatchCard key={idx} {...(match as any)} />
-            ))}
-          </div>
+    return () => {
+      delete (window as any).ToggleMenu;
+      delete (window as any).skin_switcher;
+    };
+  }, []);
 
-          {/* Bottom Banner */}
-          <div className="mt-4 bg-[#2c3e50] text-white p-3 rounded-lg text-center font-bold text-sm md:text-base border-b-4 border-gray-400">
-            كورة لايف | koora live | مباريات اليوم بث مباشر جوال kora live
-          </div>
-        </div>
-
-        {/* Strong Hidden SEO Section */}
-        <div className="sr-only" aria-hidden="true">
-          <h2>كورة لايف koora live بث مباشر مباريات اليوم</h2>
-          <p>
-            تابع أهم مباريات اليوم عبر موقع كورة لايف koora live الرسمي، الموقع الأقوى لمتابعة البث المباشر للمباريات العالمية والمحلية بدون تقطيع وبجودات متعددة.
-          </p>
-          <div className="flex flex-wrap">
-            {seoKeywords.map((word, i) => (
-              <span key={i}>{word}, </span>
-            ))}
-          </div>
-        </div>
-      </main>
-
-      <footer className="bg-white border-t border-gray-200 py-6 mt-12">
-        <div className="container mx-auto px-4 flex flex-col md:flex-row items-center justify-between text-gray-400 text-[12px] font-bold gap-4">
-          <div className="flex items-center gap-4">
-            <span>جميع الحقوق محفوظة © كورة لايف</span>
-            <span>koora live</span>
-          </div>
-          <div className="flex items-center gap-4">
-            <a href="#" className="hover:text-primary">سياسة الخصوصية</a>
-            <a href="#" className="hover:text-primary">اتصل بنا</a>
-          </div>
-        </div>
-      </footer>
-    </div>
+  return (
+    <>
+      <style dangerouslySetInnerHTML={{ __html: pageCss }} />
+      <div dangerouslySetInnerHTML={{ __html: pageHtml }} />
+    </>
   );
 }
