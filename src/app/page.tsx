@@ -75,7 +75,7 @@ const pageHtml = `
         <div class="MT_Data">
             <span class="MT_Time">16:30</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">بعد قليل</div>
+            <div class="MT_Stat">جارية الان</div>
                             <div class="TourName">ألمانيا, الدوري الألماني</div>
                     </div>
         <div class="MT_Team TM2">
@@ -92,7 +92,7 @@ const pageHtml = `
         <div class="MT_Data">
             <span class="MT_Time">16:30</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">بعد قليل</div>
+            <div class="MT_Stat">جارية الان</div>
                             <div class="TourName">ألمانيا, الدوري الألماني</div>
                     </div>
         <div class="MT_Team TM2">
@@ -109,7 +109,7 @@ const pageHtml = `
         <div class="MT_Data">
             <span class="MT_Time">16:30</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">بعد قليل</div>
+            <div class="MT_Stat">جارية الان</div>
                             <div class="TourName">ألمانيا, الدوري الألماني</div>
                     </div>
         <div class="MT_Team TM2">
@@ -126,7 +126,7 @@ const pageHtml = `
         <div class="MT_Data">
             <span class="MT_Time">17:00</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">لم تبدأ بعد</div>
+            <div class="MT_Stat"> جارية الان</div>
                             <div class="TourName">إنجلترا, الدوري الإنجليزي</div>
                     </div>
         <div class="MT_Team TM2">
@@ -143,7 +143,7 @@ const pageHtml = `
         <div class="MT_Data">
             <span class="MT_Time">17:00</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">لم تبدأ بعد</div>
+            <div class="MT_Stat">جارية الان</div>
                             <div class="TourName">إنجلترا, الدوري الإنجليزي</div>
                     </div>
         <div class="MT_Team TM2">
@@ -160,7 +160,7 @@ const pageHtml = `
         <div class="MT_Data">
             <span class="MT_Time">17:00</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">لم تبدأ بعد</div>
+            <div class="MT_Stat">جارية الان</div>
                             <div class="TourName">إنجلترا, الدوري الإنجليزي</div>
                     </div>
         <div class="MT_Team TM2">
@@ -177,7 +177,7 @@ const pageHtml = `
         <div class="MT_Data">
             <span class="MT_Time">17:00</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">لم تبدأ بعد</div>
+            <div class="MT_Stat">جارية الان</div>
                             <div class="TourName">إنجلترا, الدوري الإنجليزي</div>
                     </div>
         <div class="MT_Team TM2">
