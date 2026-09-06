@@ -5,7 +5,7 @@ const HTML_CONTENT = String.raw`
 <!--
 
 
-<html dir="rtl" lang="ar"><div id="in-page-channel-node-id" data-channel-name="in_page_channel_Epf5E2"></div><head><style>body {transition: opacity ease-in 0.2s; } 
+<html dir="rtl" lang="ar"><div id="in-page-channel-node-id" data-channel-name="in_page_channel_z14oUk"></div><head><style>body {transition: opacity ease-in 0.2s; } 
 body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; } 
 </style>
       <meta charset="UTF-8">
@@ -92,7 +92,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
             <div class="AY_Match live">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="جور ماهيا" data-src="https://koratv.info/wp-content/uploads/2026/09/10404.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koratv.info/wp-content/uploads/2026/09/10404.png" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="جور ماهيا" data-src="https://koratv.info/wp-content/uploads/2026/09/10404.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
             <div class="TM_Name">جور ماهيا</div>
         </div>
         <div class="MT_Data">
@@ -102,11 +102,28 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                             <div class="TourName">أفريقيا, دوري أبطال أفريقيا - تصفيات</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="بيراميدز" data-src="https://www.9koora.live/wp-content/uploads/2026/08/22143.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="بيراميدز" data-src="https://www.9koora.live/wp-content/uploads/2026/08/22143.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
             <div class="TM_Name">بيراميدز</div>
         </div>
     </div>
         <a href="https://44.2koorashoot.fun/2025/04/1-on-time-sport-11.html" title="تفاصيل وموعد مباراة جور ماهيا و بيراميدز بتاريخ 2026-09-06 في دوري أفريقيا, دوري أبطال أفريقيا – تصفيات"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="إيفرتون" data-src="https://www.9koora.live/wp-content/uploads/2026/08/107.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">إيفرتون</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">16:00</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">جارية الان</div>
+                            <div class="TourName">إنجلترا, الدوري الإنجليزي</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="مانشستر يونايتد" data-src="https://www.9koora.live/wp-content/uploads/2026/08/105.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">مانشستر يونايتد</div>
+        </div>
+    </div>
+        <a href="https://44.2koorashoot.fun/2025/02/bein-sport-11111hd.html" title="تفاصيل وموعد مباراة إيفرتون و مانشستر يونايتد بتاريخ 2026-09-06 في دوري إنجلترا, الدوري الإنجليزي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
             <div class="TM_Logo"><img alt="فروزينوني" data-src="https://www.9koora.live/wp-content/uploads/2026/08/254.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://www.9koora.live/wp-content/uploads/2026/08/254.png" loading="lazy"></div>
@@ -157,24 +174,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
             <div class="TM_Name">ستراسبورج</div>
         </div>
     </div>
-        <a href="https://44.2koorashoot.fun/2025/11/bein-sport-premuim-44.html" title="تفاصيل وموعد مباراة تروا و ستراسبورج بتاريخ 2026-09-06 في دوري فرنسا, الدوري الفرنسي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
-    <div class="AY_Inner">
-        <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="إيفرتون" data-src="https://www.9koora.live/wp-content/uploads/2026/08/107.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">إيفرتون</div>
-        </div>
-        <div class="MT_Data">
-            <span class="MT_Time">16:00</span>
-            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">جارية الان</div>
-                            <div class="TourName">إنجلترا, الدوري الإنجليزي</div>
-                    </div>
-        <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="مانشستر يونايتد" data-src="https://www.9koora.live/wp-content/uploads/2026/08/105.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">مانشستر يونايتد</div>
-        </div>
-    </div>
-        <a href="https://44.2koorashoot.fun/2025/02/bein-sport-11111hd.html" title="تفاصيل وموعد مباراة إيفرتون و مانشستر يونايتد بتاريخ 2026-09-06 في دوري إنجلترا, الدوري الإنجليزي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+        <a href="https://44.2koorashoot.fun/2025/11/bein-sport-premuim-44.html" title="تفاصيل وموعد مباراة تروا و ستراسبورج بتاريخ 2026-09-06 في دوري فرنسا, الدوري الفرنسي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
             <div class="TM_Logo"><img alt="فالنسيا" data-src="https://www.9koora.live/wp-content/uploads/2026/08/139.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
@@ -211,23 +211,6 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         <a href="/" title="تفاصيل وموعد مباراة أنجيه و ستاد رين بتاريخ 2026-09-06 في دوري فرنسا, الدوري الفرنسي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="جمعية نيجيليك" data-src="https://koratv.info/wp-content/uploads/2026/09/18938.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koratv.info/wp-content/uploads/2026/09/18938.png" loading="lazy"></div>
-            <div class="TM_Name">جمعية نيجيليك</div>
-        </div>
-        <div class="MT_Data">
-            <span class="MT_Time">18:30</span>
-            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">لم تبدأ بعد</div>
-                            <div class="TourName">أفريقيا, دوري أبطال أفريقيا - تصفيات</div>
-                    </div>
-        <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="مولودية الجزائر" data-src="https://koratv.info/wp-content/uploads/2026/09/8218.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koratv.info/wp-content/uploads/2026/09/8218.png" loading="lazy"></div>
-            <div class="TM_Name">مولودية الجزائر</div>
-        </div>
-    </div>
-        <a href="/" title="تفاصيل وموعد مباراة جمعية نيجيليك و مولودية الجزائر بتاريخ 2026-09-06 في دوري أفريقيا, دوري أبطال أفريقيا – تصفيات"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
-    <div class="AY_Inner">
-        <div class="MT_Team TM1">
             <div class="TM_Logo"><img alt="أرسنال" data-src="https://koorastars.store/wp-content/uploads/2026/08/104.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
             <div class="TM_Name">أرسنال</div>
         </div>
@@ -243,6 +226,23 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         </div>
     </div>
         <a href="/" title="تفاصيل وموعد مباراة أرسنال و تشيلسي بتاريخ 2026-09-06 في دوري إنجلترا, الدوري الإنجليزي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="جمعية نيجيليك" data-src="https://koratv.info/wp-content/uploads/2026/09/18938.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">جمعية نيجيليك</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">18:30</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                            <div class="TourName">أفريقيا, دوري أبطال أفريقيا - تصفيات</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="مولودية الجزائر" data-src="https://koratv.info/wp-content/uploads/2026/09/8218.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">مولودية الجزائر</div>
+        </div>
+    </div>
+        <a href="/" title="تفاصيل وموعد مباراة جمعية نيجيليك و مولودية الجزائر بتاريخ 2026-09-06 في دوري أفريقيا, دوري أبطال أفريقيا – تصفيات"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
             <div class="TM_Logo"><img alt="بولونيا" data-src="https://www.kooora.today/wp-content/uploads/2026/08/245.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
@@ -313,23 +313,6 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         <a href="/" title="تفاصيل وموعد مباراة طرابزون سبور و غنتشلربيرليغي بتاريخ 2026-09-06 في دوري تركيا, الدوري التركي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="يوفنتوس" data-src="https://www.1kooralive.space/wp-content/uploads/2026/08/226.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">يوفنتوس</div>
-        </div>
-        <div class="MT_Data">
-            <span class="MT_Time">21:45</span>
-            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">لم تبدأ بعد</div>
-                            <div class="TourName">إيطاليا, الدوري الإيطالي</div>
-                    </div>
-        <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="ميلان" data-src="https://www.9koora.live/wp-content/uploads/2026/08/227.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">ميلان</div>
-        </div>
-    </div>
-        <a href="/" title="تفاصيل وموعد مباراة يوفنتوس و ميلان بتاريخ 2026-09-06 في دوري إيطاليا, الدوري الإيطالي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
-    <div class="AY_Inner">
-        <div class="MT_Team TM1">
             <div class="TM_Logo"><img alt="أولمبيك مارسيليا" data-src="https://koorastars.store/wp-content/uploads/2026/08/469.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
             <div class="TM_Name">أولمبيك مارسيليا</div>
         </div>
@@ -345,6 +328,23 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         </div>
     </div>
         <a href="/" title="تفاصيل وموعد مباراة أولمبيك مارسيليا و باريس أف.سي. بتاريخ 2026-09-06 في دوري فرنسا, الدوري الفرنسي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="يوفنتوس" data-src="https://www.1kooralive.space/wp-content/uploads/2026/08/226.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">يوفنتوس</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">21:45</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                            <div class="TourName">إيطاليا, الدوري الإيطالي</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="ميلان" data-src="https://www.9koora.live/wp-content/uploads/2026/08/227.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">ميلان</div>
+        </div>
+    </div>
+        <a href="/" title="تفاصيل وموعد مباراة يوفنتوس و ميلان بتاريخ 2026-09-06 في دوري إيطاليا, الدوري الإيطالي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
             <div class="TM_Logo"><img alt="إسبانيول" data-src="https://koorastars.store/wp-content/uploads/2026/08/136.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
