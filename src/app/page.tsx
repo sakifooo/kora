@@ -5,7 +5,7 @@ const HTML_CONTENT = String.raw`
 <!--
 
 
-<html dir="rtl" lang="ar"><div id="in-page-channel-node-id" data-channel-name="in_page_channel_z14oUk"></div><head><style>body {transition: opacity ease-in 0.2s; } 
+<html dir="rtl" lang="ar"><div id="in-page-channel-node-id" data-channel-name="in_page_channel_wEO3bK"></div><head><style>body {transition: opacity ease-in 0.2s; } 
 body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; } 
 </style>
       <meta charset="UTF-8">
@@ -13,24 +13,27 @@ body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relati
       <link rel="profile" href="https://gmpg.org/xfn/11">
       <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 
-	<!-- This site is optimized with the Yoast SEO plugin v27.9 - https://yoast.com/product/yoast-seo-wordpress/ -->
-	<title>كورة لايف - kooralive - اهم مباريات اليوم بث مباشر koora live</title>
-	<meta name="description" content="kooralive كورة لايف بث مباشر مباريات اليوم بدون تقطيع koora live عبر موقع كوره لايف kora live مباريات اليوم بث مباشر livekoora.">
-	<link rel="canonical" href="https://koratv.info/">
-	<link rel="next" href="https://koratv.info/page/2/">
+	<!-- This site is optimized with the Yoast SEO plugin v28.4 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>كورة لايف | koora live بث مباشر مباريات اليوم لايف kora live</title>
+	<meta name="description" content="موقع كورة لايف يقدم أفضل بث مباشر مباريات اليوم koora live جودة عالية الدقه في البث بدون تقطيع ومجانا حصريا على kora live.">
+	<link rel="canonical" href="https://fkoora.com/">
 	<meta property="og:locale" content="ar_AR">
 	<meta property="og:type" content="website">
-	<meta property="og:title" content="كورة لايف - kooralive - اهم مباريات اليوم بث مباشر koora live">
-	<meta property="og:description" content="kooralive كورة لايف بث مباشر مباريات اليوم بدون تقطيع koora live عبر موقع كوره لايف kora live مباريات اليوم بث مباشر livekoora.">
-	<meta property="og:url" content="https://koratv.info/">
-	<meta property="og:site_name" content="كورة لايف - kooralive - اهم مباريات اليوم بث مباشر koora live">
+	<meta property="og:title" content="كورة لايف | koora live بث مباشر مباريات اليوم لايف kora live">
+	<meta property="og:description" content="موقع كورة لايف يقدم أفضل بث مباشر مباريات اليوم koora live جودة عالية الدقه في البث بدون تقطيع ومجانا حصريا على kora live.">
+	<meta property="og:url" content="https://fkoora.com/">
+	<meta property="og:site_name" content="كورة لايف | koora live بث مباشر مباريات اليوم لايف kora live">
+	<meta property="og:image" content="https://fkoora.com/wp-content/uploads/2026/09/koora.jpg">
+	<meta property="og:image:width" content="320">
+	<meta property="og:image:height" content="180">
+	<meta property="og:image:type" content="image/jpeg">
 	<meta name="twitter:card" content="summary_large_image">
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"CollectionPage","@id":"https:\/\/koratv.info\/","url":"https:\/\/koratv.info\/","name":"كورة لايف - kooralive - اهم مباريات اليوم بث مباشر koora live","isPartOf":{"@id":"https:\/\/koratv.info\/#website"},"description":"kooralive كورة لايف بث مباشر مباريات اليوم بدون تقطيع koora live عبر موقع كوره لايف kora live مباريات اليوم بث مباشر livekoora.","breadcrumb":{"@id":"https:\/\/koratv.info\/#breadcrumb"},"inLanguage":"ar"},{"@type":"BreadcrumbList","@id":"https:\/\/koratv.info\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية"}]},{"@type":"WebSite","@id":"https:\/\/koratv.info\/#website","url":"https:\/\/koratv.info\/","name":"كورة لايف - kooralive - اهم مباريات اليوم بث مباشر koora live","description":"kooralive كورة لايف بث مباشر مباريات اليوم بدون تقطيع koora live عبر موقع كوره لايف kora live مباريات اليوم بث مباشر livekoora.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/koratv.info\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"ar"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"CollectionPage","@id":"https:\/\/fkoora.com\/","url":"https:\/\/fkoora.com\/","name":"كورة لايف | koora live بث مباشر مباريات اليوم لايف kora live","isPartOf":{"@id":"https:\/\/fkoora.com\/#website"},"description":"موقع كورة لايف يقدم أفضل بث مباشر مباريات اليوم koora live جودة عالية الدقه في البث بدون تقطيع ومجانا حصريا على kora live.","breadcrumb":{"@id":"https:\/\/fkoora.com\/#breadcrumb"},"inLanguage":"ar"},{"@type":"BreadcrumbList","@id":"https:\/\/fkoora.com\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية"}]},{"@type":"WebSite","@id":"https:\/\/fkoora.com\/#website","url":"https:\/\/fkoora.com\/","name":"كورة لايف | koora live بث مباشر مباريات اليوم لايف kora live","description":"موقع كورة لايف يقدم أفضل بث مباشر مباريات اليوم koora live جودة عالية الدقه في البث بدون تقطيع ومجانا حصريا على kora live.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/fkoora.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"ar"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
-<link rel="alternate" type="application/rss+xml" title="كورة لايف - kooralive - اهم مباريات اليوم بث مباشر koora live « الخلاصة" href="https://koratv.info/feed/">
-<link rel="alternate" type="application/rss+xml" title="كورة لايف - kooralive - اهم مباريات اليوم بث مباشر koora live « خلاصة التعليقات" href="https://koratv.info/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="كورة لايف | koora live بث مباشر مباريات اليوم لايف kora live « الخلاصة" href="https://fkoora.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="كورة لايف | koora live بث مباشر مباريات اليوم لايف kora live « خلاصة التعليقات" href="https://fkoora.com/comments/feed/">
 <style id="wp-img-auto-sizes-contain-inline-css">
 img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 /*# sourceURL=wp-img-auto-sizes-contain-inline-css */
@@ -41,36 +44,27 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 /*# sourceURL=global-styles-inline-css */
 </style>
 
-<style>*,::after,::before{box-sizing:border-box}*{margin:0;padding:0;outline:0;list-style:none}:root{--main_color:#000000;--font_type:NeoSansArabic;--font_size:16px;--body_bg:#eceef2;--header_bg:#fff;--header_color:#222;--logo_bd:#000000;--logo_color:#fff;--title_bg:#1f2024;--yrsdaybg:#104783;--todaybg:#000000;--tomorobg:rgb(175, 81, 0);--footer_bd:#fff;--footer_color:#222;--footer_border:#ddd;--cop_bd:#eceef2;--cop_color:#222;--bk-hd-bg:var(--Gray1);--bk-ttl-bg:var(--DarkColor);--btn-bg:var(--DarkColor);--match-bg:#eceef2;--Gray1:#eceef2;--Gray2:#ddd;--Gray3:#d8dbe1;--LightColor:#fff;--DarkColor:#273340;--LightColor2:#f6f7fa;--bk-shadow:rgba(0, 0, 0, 0.3)}.Night,.Night body{--bk-hd-bg:#121a23;--match-bg:var(--Gray1)}body{--yall-padding:12px;--rounded:8px;font-family:var(--font_type),Segoe UI;line-height:1.5;background:var(--body_bg);color:#000;font-size:var(--font_size);font-weight:500}.d-none{display:none}.says,.screen-reader{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.hqy-lazy{opacity:0;transition:all 500ms}.hqy-loaded{opacity:1}.hed-btn,.AY_Match,.gr-inner,.AY_Block,.AYa-SiteInfo a,.fut-img img{border-radius:var(--rounded)}.aya-btn,.MT_Stat{position:relative;background:var(--btn-bg);padding:4px 10px 5px;display:inline-flex;align-items:center;justify-content:center;border-radius:var(--rounded);color:#fff;font-size:15px;text-align:center}a.aya-btn:hover{opacity:.8}.WTa{margin-left:auto;padding:0 10px;height:30px;line-height:25px;font-size:30px;display:inline-block}.rtl .WTa{margin-left:0;margin-right:auto}.d-fx{display:flex}.fx-cen,.AY_Inner{display:flex!important;align-items:center!important}.fx-wrap{display:flex;flex-wrap:wrap}.grow-1{flex-grow:1}.gap-5{gap:5px}.gap-10{gap:10px}.gap-20{gap:20px}a{color:#222;text-decoration:none}img{font-size:0}strong{font-weight:500}a:focus,a:hover{color:var(--main_color);transition:.5s ease}.container{max-width:1024px;margin-right:auto;margin-left:auto;padding:0 var(--yall-padding)}#AYaHeader{position:relative;margin-bottom:15px}#AYaHeader .HdrInner{width:100%;background:var(--header_bg);box-shadow:0 0 4px var(--bk-shadow);position:relative}#AYaHeader .HdrInner > .container {min-height: 85px;}.AYaLogo{background:var(--logo_bd);box-sizing:border-box;max-width:200px;border-radius:var(--rounded)}.AYaLogo.textlogo{padding:5px}.AYaLogo>a{display:flex;flex-direction:column;justify-content:center}.AYaLogo span{display:block;text-align:center;color:var(--logo_color);font-size:19px;min-height:4px;line-height:33px}.AYaLogo .SiteName{font-size:30px}.LogoImage{display:flex;height:75px;max-width:100%}.AYaMainNav{flex:1}.AYaMainNav li{position:relative}.MainMenu li>a{padding:8px;display:block;white-space:nowrap;font-size:17px;color:var(--header_color)}.MainMenu li a:hover{color:var(--main_color)}.hed-btn{height:35px;width:35px;background:var(--DarkColor);display:inline-flex;cursor:pointer;justify-content:center;align-items:center}.hed-btn .icon{width:22px;height:22px;color:#fff}.AYaSocial .twitter a{--DarkColor:#000}.AYaSocial .facebook a{--DarkColor:#1877f2}.AYaSocial .youtube a{--DarkColor:#cd201f}.AYaSocial .telegram a{--DarkColor:#24a1de}.AY_Block{margin-bottom:20px;box-shadow:0 0 4px var(--bk-shadow);background:var(--LightColor);overflow:hidden}.AYb_Head{padding:12px;overflow:hidden;border-bottom:1px solid var(--Gray2);border-radius:var(--rounded) var(--rounded) 0 0;background:var(--bk-hd-bg);display:flex;justify-content:space-between}.AYb_Head h1,.AYb_Head h2{font-size:16px}.AYb_Head a{color:#fff}.AYb_Head .aya-btn{--btn-bg:var(--bk-ttl-bg)}.AY_home_posts{padding-bottom:8px}.AYb_Inner{padding:12px 12px 0;overflow:hidden}.AYaGrid{position:relative;display:grid;grid-gap:12px;grid-template-columns:repeat(auto-fill,minmax(var(--post-width),1fr));--post-width:220px;padding-bottom:12px}.gr-inner{background:var(--match-bg);overflow:hidden;position:relative;height:100%;display:block}.gr-info{padding:10px}.gr-img{height:160px}.gr-info h3{margin:0;font-size:15px;max-height:90px;overflow:hidden;font-weight:500;height:50px}.PS_3 .AYaGrid{--post-width:280px}.PS_3 .gr-img{height:90px;min-width: 125px;width:125px}.PS_3 .gr-info h3{height:70px}.gr-img,.gr-bimg{display:block;width:100%;position:relative;overflow:hidden;background-position:center;background-size:cover}.gr-bimg{padding-top:75%;}.gr-bimg::after{content:"";position:absolute;top:0;right:0;bottom:0;left:0;background:rgba(0,0,0,.1);transition:.2s}.gr-inner:hover .gr-bimg::after{background:transparent}.gr-btitle{position:absolute;width:100%;bottom:0;padding:50px 20px 20px;color:#fff;text-shadow:0 1px 1px #000;background:linear-gradient(270deg,rgba(0,0,0,0),#000000);background:-webkit-linear-gradient(270deg,rgba(0,0,0,0),#000);background:-o-linear-gradient(270deg,rgba(0,0,0,0),#000);background:-moz-linear-gradient(270deg,rgba(0,0,0,0),#000);background:-ms-linear-gradient(270deg,rgba(0,0,0,0),#000);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#004c4c4c',endColorstr='#ff1a3b00',GradientType=0);font-weight:500;font-size:16px}@keyframes spin{0%{transform:rotate(0deg)}100%{transform:rotate(359deg)}}.spinner{position:relative;width:100%;height:100%;display:block;color:var(--main_color)}.spinner svg{animation:spin 2s linear infinite;position:relative;width:24px;height:24px;margin:0 auto}.AlbaMorBtn{text-align:center;margin:15px auto;position:relative;width:100%;clear:both}.LoadMOreNews{position:relative;text-align:center;display:inline-block;cursor:pointer;clear:both;min-width:170px;border:1px solid var(--Gray2);background:var(--Gray1);margin:8px auto 5px;padding:8px 15px;font-size:91%;font-weight:400;height:40px;box-sizing:border-box;border-radius:20px}body .pagination-disabled{opacity:.5;cursor:default;color:#888}.fut-img{display:block;text-align:center}.entry img,figure{border-radius:var(--rounded);margin:auto;display:table;margin-bottom:15px;max-width:100%}#the-post img{font-size:0;max-width:100%}.EntryHeader{margin-bottom:20px;padding:15px 20px;background:var(--bk-hd-bg);border-radius:var(--rounded) var(--rounded) 0 0;border-bottom:1px solid var(--Gray1)}.EntryTitle{overflow:hidden;font-size:24px}.EntryMeta{font-size:11px;font-weight:400;margin:8px 0 -7px}.EntryMeta,.EntryMeta span a{color:#626883}.EntryMeta:empty{display:none}.entry{font-size:17px;text-align:justify;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-ms-user-select:none;-moz-user-select:none;font-weight:400;line-height:33px}.entry-content{padding:15px 20px;clear:both}.entry p{margin-bottom:15px}.entry h1,.entry h2,.entry h3{display:table;padding:5px 15px;background-color:var(--Gray1);font-size:18px;font-weight:600;margin:15px 0;text-align:right;border-radius:8px}.entry iframe{max-width:100%;display:table;margin-top:12px;border-radius:8px;background:var(--Gray1)}.video-serv{margin-top:15px;overflow:hidden;width:100%;margin-bottom:5px;clear:both;display:flex;justify-content:space-between}.video-serv a,.video-serv > span{cursor: pointer;background:var(--main_color);border-radius:4px;text-shadow:0 1px 1px #000;color:#fff!important;font-weight:bold;padding:5px 15px;font-size:16px;flex:1;text-align:center;margin:3px}.video-serv a:focus,.video-serv a:hover,.video-serv>span:hover{background:#931800}.server-body{margin-bottom:11px;width:100%;overflow:hidden}.server-body iframe{max-width:100%;width:100%}#yalla-ajax-server{height: 500px;border-radius: 8px;position: relative;display: block;background: #1f2024;}#yalla-ajax-server iframe{ margin: 0;}#yalla-ajax-server .spinner{ justify-content: center;}blockquote{background:var(--Gray3);display:block;text-align:center;padding:10px;font-weight:bold;margin:15px 0}blockquote p:last-child{margin:0}blockquote a{margin:0 15px;color:var(--main_color)}.table-bordered{width:100%;border-collapse:collapse;background-color:var(--Gray1);border-radius:8px}.table-bordered tr{border-bottom:1px solid var(--Gray3)}.table-bordered tr:last-child{border:0}.table-bordered td,table th{font-weight:500;padding:12px;line-height:25px}.table-bordered td{border-right:1px solid var(--Gray3)}.post-footer{padding:0 12px 12px;overflow:hidden}.post-tags li a{padding:3px 10px;background:var(--Gray1);border-radius:var(--rounded);font-size:80%}.post-share{overflow:hidden;border-radius:var(--rounded);padding:12px;background:var(--Gray1);margin-top:12px}.share-links{text-align:center}.share-links li{width:25%}.share-links li a{height:40px;width:100%}.share-links a.aya-btn:hover,.share-links a.aya-btn:focus{color:#fff}.share-links .facebook{--btn-bg:#126de3}.share-links .twitter{--DarkColor:#000;--btn-bg:var(--DarkColor)}.share-links .whatsapp{--btn-bg:#008a0d}.share-links .telegram{--btn-bg:#027bb8}#AYaFooter{position:relative;margin-top:15px;width:100%;box-shadow:0 0 4px var(--bk-shadow)}.FW-Area{background:var(--footer_bd);width:100%}.FW-Area li{padding:0;list-style:outside;color:#3fc75d;width:100%;margin-left:16px}.rtl .FW-Area li{margin-left:0;margin-right:16px}.FW-Area li a{color:#484848;display:block;font-size:14px;line-height:33px}.FWidget{width:25%;padding:20px 12px;box-sizing:border-box}.FWidget.no-items{padding:0}@media screen and (max-width:900px){.FWidget{width:50%}}@media screen and (max-width:480px){.FWidget{width:100%}}.FW-Title{margin-bottom:10px;position:relative}.FW-Title::before{background:var(--main_color);content:"";height:3px;position:absolute;width:23px;bottom:-1.5px}.FW-Title .title{border-bottom:var(--footer_border) solid 1px;padding-bottom:8px;font-weight:700;font-size:16px;display:inline-block}.AYa-SiteInfo{position:relative}.AYa-SiteInfo a{font-size:13px;padding:0 7px;display:block;color:var(--cop_color)}.SnfoInner{background:var(--cop_bd);color:var(--cop_color);padding:20px 0}.sub-menu,#tom-match,#yes-match{display:none!important}@media screen and (min-width:1001px){.AYaLogo{width:200px;margin:8px 0}.hed-btn.op,.hed-btn.mo,.CloseNave{display:none!important}.AYaMainNav{align-items:center;display:flex}.MainMenu{flex:1;display:flex;flex-wrap:wrap}}@media screen and (max-width:1000px){.AYaLogo{margin:8px auto;width:auto;flex:0 0 auto}.AYaMainNav{float:none;z-index:99;height:100%;width:280px;position:fixed;top:0;left:-300px;margin:auto;transition:all .7s ease 0s;padding:60px 15px 15px;overflow-x:hidden;box-shadow:0 1px 6px rgba(32,33,36,0.4);background:var(--LightColor)}html.OpenMenu .AYaMainNav{left:0}.admin-bar .AYaMainNav{padding-top:100px}.admin-bar .CloseNave{top:65px}.MainMenu li{width:100%;margin-bottom:15px}.MainMenu li a{background:var(--DarkColor);padding:6px 12px 7px;color:#fff;border-radius:var(--rounded)}.AYaSocial{justify-content:space-between}.hed-btn.op,.hed-btn.mo{height:40px;width:40px}.liwte .line{display:flex;width:22px;height:3px;background:#fff;border-radius:1px;margin:5px 0}.CloseNave{display:inline-block;cursor:pointer;left:calc(50% - 14px);position:absolute;top:20px;width:20px;height:20px}.CloseNave .line{background:var(--DarkColor);position:absolute}.CloseNave .line.line-1{-webkit-transform:rotate(45deg);transform:rotate(45deg)}.CloseNave .line.line-2{-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}.rtl .AYaMainNav{left:auto;right:-300px}.OpenMenu .rtl .AYaMainNav{left:auto;right:0}}@media screen and (max-width:500px){body{--yall-padding:8px}.AYb_Head{padding:8px}.LogoImage{height:55px;width:160px}.AY-Fixture .AYb_Head h2{display:block;width:100%;text-align:center;margin-bottom:6px}.AY-Dtab{width:100%}.AY-Dtab li{margin:0;flex:1;height:100%}.AY-Dtab li a{height:100%;display:flex;padding-right:0;padding-left:0;font-size:14px}.TM_Logo img{margin-bottom:0;width:50px;height:50px}.MT_Team{flex-direction:column!important}.TM_Logo{width:100%}.MT_Data{margin:13px auto}.MT_Info li:nth-child(2){display:none}.MT_Info li{width:50%;font-size:12px!important}.PS_1 .AYaGrid{--post-width:280px}.PS_1 .gr-img,.PS_3 .gr-img{height:85px!important;min-width: 125px;width:125px!important}.PS_1 .gr-inner,.PS_3 .gr-inner{display:flex;gap:2px}.gr-bimg{padding-top:56.25%!important}.gr-info h3{height:55px;line-height:18px}#the-post img{height:auto}.fut-img{margin-top:-20px}.fut-img img{border-radius:0}}.albayalla-e3lan:not(:last-of-type){margin-bottom:10px}.e3lan-thumb_start{margin-top:-20px}.message-box{color:#2c7635;background-color:#dff0d4;border:#d6e9c4 solid 1px;padding:4px 15px;border-radius:var(--rounded);margin:0 auto 10px;font-size:14px;width:100%}.message-box strong{margin-left:5px}html.OpenMenu,html.OpenMenu>body{overflow:hidden}.SiteOverlay{width:100%;height:100%;position:fixed;top:0;right:0;left:0;z-index:50;opacity:0;visibility:hidden;transition:all .2s;background-color:rgba(0,0,0,0.8)}html.OpenMenu .SiteOverlay{visibility:visible;opacity:1;transition-delay:0s;cursor:url(assets/img/icon-cancel.png),auto;height:100%}.aspi_matchTabs .aspi_tab,.aspi_lineupTeams .f_sq,.aspi_lineupTeams .s_sq,.aspi_mstaduim,.aspi_staduim,#aspi_evebody .aspi-event,#aspi_evebody .aspi-event>div{font-family:var(--font_type),Segoe UI!important}#aspi-events,#aspi-plan{font-size:14px}.aspi_lineup li{border-color:#1c2733}.Night .form-group input,.Night .AYb_Head,.Night .EntryHeader{--Gray1:#121a23;--Gray2:#121a23}.Night .aspi_matchTabs .aspi_tab{background-color:#121a23;color:#fff!important;border:0}.Night .aspi_title{background-color:#1c2733!important;color:#fff}html:not(.Night) .sun,.Night .mon{display:none}.Night .FW-Title{--footer_border:#1c2733}.Night .aspi_eve_2{background-color:#1c2733}.Night #aspi_evebody .eveblock,.Night #aspi_evebody .aspi-event h3,.Night #aspi_evebody li h3,.Night .aspi_evIcon,.Night #aspi_evebody li>span,.Night #aspi_evebody div.r .eveblock::after,.Night #aspi_events::after,.Night #aspi_evebody div.r .eveblock::after,.Night #aspi_evebody div.l .eveblock::after{background-color:#263545!important;border-color:#263545!important}.Night .aspi_lineup .aspi-player-lnp{border-color:#1c2733!important}.Night .EntryMeta,.Night .EntryMeta span a{color:#9d9fa4!important}.Night .CloseNave .line{background:#fff}.Night a,.Night body,body.Night,.Night .aspi_lineup li b,.Night .aspi_lineup .aspi-player-lnp b,.Night .aspi_evMinute{color:#fff!important}.Night .MainMenu a:hover{color:#f80!important}.AY-Fixture .AYb_Head h2{--btn-bg:var(--main_color)}.tmz-name{display:flex;position:relative;height:20px;overflow:hidden;padding:2px 5px 0;justify-content:flex-end}.tmz-name span{font-size:10px;padding:2px 8px;background:var(--bk-hd-bg);border-radius:6px 6px 0 0}.yalla-style-1 .tmz-name span{box-shadow:0 0 4px 0 rgba(0,0,0,0.3)}.AY-Dtab li.today a{--btn-bg:var(--todaybg)}.AY-Dtab li.yesterday a{--btn-bg:var(--yrsdaybg)}.AY-Dtab li.tomorrow a{--btn-bg:var(--tomorobg)}.AY_Match{order:3;overflow:hidden;text-align:center;background:var(--match-bg);margin-bottom:12px;position:relative;--stat-bg:#263545}.AY_Match h4{margin:30px 0}.AY_Match a{color:#222}.no-data__msg{min-height:250px;display:flex;align-items:center;justify-content:center;width:100%;color:#666}.AY_Match.started .MT_Time,.AY_Match.live .MT_Time,.AY_Match.gools .MT_Time,.AY_Match.finished .MT_Time,.AY_Match.comming .MT_Result,.AY_Match.comming-soon .MT_Result,.AY_Match.not-started .MT_Result{display:none}.MT_Team{display:flex;align-items:center;flex:1}.MT_Team.TM2{flex-direction:row-reverse}.TM_Logo{width:50%}.TM_Logo img{margin:10px auto;display:flex}.TM_Name{margin:8px auto;font-weight:500}.MT_Data{margin:12px auto;display:flex;flex-direction:column;align-items:center}.MT_Time{font-size:16px}.MT_Result{font-size:21px;display:inline-flex;gap:5px;justify-content:center;align-items:center}.MT_Stat{font-size:14px;margin:6px auto 0;height:25px;min-width:60px;--btn-bg:var(--stat-bg)}@keyframes blinker{50%{background:#263545}}.AY_Match.live .MT_Stat{--stat-bg:#d00000;animation:blinker 500ms ease-in-out infinite}.AY_Match.finished{--stat-bg:#474747}.AY_Match.comming-soon{--stat-bg:#0f6f37}.TourName{font-size:12px;text-align:center;line-height:1.4;margin-top:6px}.albaflex{width:100%;display:flex;flex-direction:column;box-sizing:border-box}.albaflex .not-started{order:3}.albaflex .live{order:1}.albaflex .comming-soon{order:2}.albaflex .gools{order:3}.albaflex .finished{order:4}.MT_Loading .MT_Stat{--stat-bg:#e0e4ea;font-size:0}.MT_Loading .MT_Result{display:none!important}@keyframes pulse{50%{opacity:.5}}.MT_Loading .MT_Data{animation:pulse 2s cubic-bezier(.4,0,.6,1) infinite}.MT_Mask{position:absolute;top:0;bottom:0;left:0;right:0;height:100%;width:100%;opacity:0;cursor:pointer;background:rgb(0 0 0 / 60%);z-index:9}.AY_Match:hover .MT_Mask{opacity:1}.MT_MaskText{position:absolute;bottom:0;right:0;height:45px;margin:auto;left:0;top:0;width:45px;background:no-repeat center url("data:image/svg+xml;charset=utf8,%3Csvg aria-hidden='true' role='img' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' %3E%3Cpath fill='%23fff' d='M256,0C114.617,0,0,114.615,0,256s114.617,256,256,256s256-114.615,256-256S397.383,0,256,0z M344.48,269.57l-128,80 c-2.59,1.617-5.535,2.43-8.48,2.43c-2.668,0-5.34-.664-7.758-2.008C195.156,347.172,192,341.82,192,336V176 c0-5.82,3.156-11.172,8.242-13.992c5.086-2.836,11.305-2.664,16.238,.422l128,80c4.676,2.93,7.52,8.055,7.52,13.57 S349.156,266.641,344.48,269.57z' class=''%3E%3C/path%3E%3C/svg%3E")}.AY_Match{padding:12px 15px}.MT_Info{display:none!important}.MT_Team{flex-direction:column!important;width:calc((100% - 150px)/2)}.TM_Logo{width:100%;margin-bottom:6px}.TM_Logo img{margin:0 auto;width:45px;height:auto}.TM_Name{margin:0 auto}.MT_Data{margin:0 auto;width:130px}.MT_Time,.MT_Result{margin:0 auto;height:20px;line-height:20px}.Night,.Night body{--body_bg:#1c2733;--header_bg:#263545;--Gray2:#2b3b4d;--Gray3:#1c2733;--logo_color:#fff;--footer_border:#1c2733;--Gray1:#1c2733;--LightColor:#263545;--footer_bd:var(--LightColor);--cop_bd:#1c2733;--DarkColor:var(--Gray1);--LightColor2:var(--Gray1)}.albaflex{padding:12px 12px 0}@font-face{font-family:"NeoSansArabic";font-style:normal;font-weight:normal;font-display:swap;src:url("https://koratv.info/wp-content/themes/AlbaYallaShoot/public/fonts/NeoSansArabic.woff2?v=3") format("woff2")} @media screen and (max-width:768px){:root{--font_type:Segoe UI}}.SnfoInner .cp-text{font-size: 13px;} .aspi_matchTabCon #aspi-events + #aspi-con ,.aspi_matchTabCon #aspi-plan + #aspi-con{ display: block !important; visibility: hidden; height: 0; overflow: hidden;} .aspi_matchTabCon #aspi-events + #aspi-con.is-active ,.aspi_matchTabCon #aspi-plan + #aspi-con.is-active{ visibility: visible !important; height: auto !important;}.aspi-block-header{margin-top: 20px;}</style>
-                <meta name="theme-color" content="#000000"><meta name="msapplication-navbutton-color" content="#000000"><meta name="apple-mobile-web-app-status-bar-style" content="#000000"><script>if (localStorage.getItem("mode")=="rdmode"){document.documentElement.classList.add("Night");} else{ document.documentElement.classList.remove("Night");}</script>        <!-- Google tag (gtag.js) -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FXSDGYJ03R"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-FXSDGYJ03R');
-</script><link rel="icon" href="https://koratv.info/wp-content/uploads/2026/05/cropped-tvkora-1-32x32.png" sizes="32x32">
-<link rel="icon" href="https://koratv.info/wp-content/uploads/2026/05/cropped-tvkora-1-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon" href="https://koratv.info/wp-content/uploads/2026/05/cropped-tvkora-1-180x180.png">
-<meta name="msapplication-TileImage" content="https://koratv.info/wp-content/uploads/2026/05/cropped-tvkora-1-270x270.png">
+<style>*,::after,::before{box-sizing:border-box}*{margin:0;padding:0;outline:0;list-style:none}:root{--main_color:#8224e3;--font_type:NeoSansArabic;--font_size:16px;--body_bg:#eceef2;--header_bg:#fff;--header_color:#222;--logo_bd:#8224e3;--logo_color:#fff;--title_bg:#1f2024;--yrsdaybg:#104783;--todaybg:#8224e3;--tomorobg:rgb(175, 81, 0);--footer_bd:#fff;--footer_color:#222;--footer_border:#ddd;--cop_bd:#eceef2;--cop_color:#222;--bk-hd-bg:var(--Gray1);--bk-ttl-bg:var(--DarkColor);--btn-bg:var(--DarkColor);--match-bg:#eceef2;--Gray1:#eceef2;--Gray2:#ddd;--Gray3:#d8dbe1;--LightColor:#fff;--DarkColor:#273340;--LightColor2:#f6f7fa;--bk-shadow:rgba(0, 0, 0, 0.3)}.Night,.Night body{--bk-hd-bg:#121a23;--match-bg:var(--Gray1)}body{--yall-padding:12px;--rounded:8px;font-family:var(--font_type),Segoe UI;line-height:1.5;background:var(--body_bg);color:#000;font-size:var(--font_size);font-weight:500}.d-none{display:none}.says,.screen-reader{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.hqy-lazy{opacity:0;transition:all 500ms}.hqy-loaded{opacity:1}.hed-btn,.AY_Match,.gr-inner,.AY_Block,.AYa-SiteInfo a,.fut-img img{border-radius:var(--rounded)}.aya-btn,.MT_Stat{position:relative;background:var(--btn-bg);padding:4px 10px 5px;display:inline-flex;align-items:center;justify-content:center;border-radius:var(--rounded);color:#fff;font-size:15px;text-align:center}a.aya-btn:hover{opacity:.8}.WTa{margin-left:auto;padding:0 10px;height:30px;line-height:25px;font-size:30px;display:inline-block}.rtl .WTa{margin-left:0;margin-right:auto}.d-fx{display:flex}.fx-cen,.AY_Inner{display:flex!important;align-items:center!important}.fx-wrap{display:flex;flex-wrap:wrap}.grow-1{flex-grow:1}.gap-5{gap:5px}.gap-10{gap:10px}.gap-20{gap:20px}a{color:#222;text-decoration:none}img{font-size:0}strong{font-weight:500}a:focus,a:hover{color:var(--main_color);transition:.5s ease}.container{max-width:1024px;margin-right:auto;margin-left:auto;padding:0 var(--yall-padding)}#AYaHeader{position:relative;margin-bottom:15px}#AYaHeader .HdrInner{width:100%;background:var(--header_bg);box-shadow:0 0 4px var(--bk-shadow);position:relative}#AYaHeader .HdrInner > .container {min-height: 85px;}.AYaLogo{background:var(--logo_bd);box-sizing:border-box;max-width:200px;border-radius:var(--rounded)}.AYaLogo.textlogo{padding:5px}.AYaLogo>a{display:flex;flex-direction:column;justify-content:center}.AYaLogo span{display:block;text-align:center;color:var(--logo_color);font-size:19px;min-height:4px;line-height:33px}.AYaLogo .SiteName{font-size:30px}.LogoImage{display:flex;height:75px;max-width:100%}.AYaMainNav{flex:1}.AYaMainNav li{position:relative}.MainMenu li>a{padding:8px;display:block;white-space:nowrap;font-size:17px;color:var(--header_color)}.MainMenu li a:hover{color:var(--main_color)}.hed-btn{height:35px;width:35px;background:var(--DarkColor);display:inline-flex;cursor:pointer;justify-content:center;align-items:center}.hed-btn .icon{width:22px;height:22px;color:#fff}.AYaSocial .twitter a{--DarkColor:#000}.AYaSocial .facebook a{--DarkColor:#1877f2}.AYaSocial .youtube a{--DarkColor:#cd201f}.AYaSocial .telegram a{--DarkColor:#24a1de}.AY_Block{margin-bottom:20px;box-shadow:0 0 4px var(--bk-shadow);background:var(--LightColor);overflow:hidden}.AYb_Head{padding:12px;overflow:hidden;border-bottom:1px solid var(--Gray2);border-radius:var(--rounded) var(--rounded) 0 0;background:var(--bk-hd-bg);display:flex;justify-content:space-between}.AYb_Head h1,.AYb_Head h2{font-size:16px}.AYb_Head a{color:#fff}.AYb_Head .aya-btn{--btn-bg:var(--bk-ttl-bg)}.AY_home_posts{padding-bottom:8px}.AYb_Inner{padding:12px 12px 0;overflow:hidden}.AYaGrid{position:relative;display:grid;grid-gap:12px;grid-template-columns:repeat(auto-fill,minmax(var(--post-width),1fr));--post-width:220px;padding-bottom:12px}.gr-inner{background:var(--match-bg);overflow:hidden;position:relative;height:100%;display:block}.gr-info{padding:10px}.gr-img{height:160px}.gr-info h3{margin:0;font-size:15px;max-height:90px;overflow:hidden;font-weight:500;height:50px}.PS_3 .AYaGrid{--post-width:280px}.PS_3 .gr-img{height:90px;min-width: 125px;width:125px}.PS_3 .gr-info h3{height:70px}.gr-img,.gr-bimg{display:block;width:100%;position:relative;overflow:hidden;background-position:center;background-size:cover}.gr-bimg{padding-top:75%;}.gr-bimg::after{content:"";position:absolute;top:0;right:0;bottom:0;left:0;background:rgba(0,0,0,.1);transition:.2s}.gr-inner:hover .gr-bimg::after{background:transparent}.gr-btitle{position:absolute;width:100%;bottom:0;padding:50px 20px 20px;color:#fff;text-shadow:0 1px 1px #000;background:linear-gradient(270deg,rgba(0,0,0,0),#000000);background:-webkit-linear-gradient(270deg,rgba(0,0,0,0),#000);background:-o-linear-gradient(270deg,rgba(0,0,0,0),#000);background:-moz-linear-gradient(270deg,rgba(0,0,0,0),#000);background:-ms-linear-gradient(270deg,rgba(0,0,0,0),#000);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#004c4c4c',endColorstr='#ff1a3b00',GradientType=0);font-weight:500;font-size:16px}@keyframes spin{0%{transform:rotate(0deg)}100%{transform:rotate(359deg)}}.spinner{position:relative;width:100%;height:100%;display:block;color:var(--main_color)}.spinner svg{animation:spin 2s linear infinite;position:relative;width:24px;height:24px;margin:0 auto}.AlbaMorBtn{text-align:center;margin:15px auto;position:relative;width:100%;clear:both}.LoadMOreNews{position:relative;text-align:center;display:inline-block;cursor:pointer;clear:both;min-width:170px;border:1px solid var(--Gray2);background:var(--Gray1);margin:8px auto 5px;padding:8px 15px;font-size:91%;font-weight:400;height:40px;box-sizing:border-box;border-radius:20px}body .pagination-disabled{opacity:.5;cursor:default;color:#888}.fut-img{display:block;text-align:center}.entry img,figure{border-radius:var(--rounded);margin:auto;display:table;margin-bottom:15px;max-width:100%}#the-post img{font-size:0;max-width:100%}.EntryHeader{margin-bottom:20px;padding:15px 20px;background:var(--bk-hd-bg);border-radius:var(--rounded) var(--rounded) 0 0;border-bottom:1px solid var(--Gray1)}.EntryTitle{overflow:hidden;font-size:24px}.EntryMeta{font-size:11px;font-weight:400;margin:8px 0 -7px}.EntryMeta,.EntryMeta span a{color:#626883}.EntryMeta:empty{display:none}.entry{font-size:17px;text-align:justify;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-ms-user-select:none;-moz-user-select:none;font-weight:400;line-height:33px}.entry-content{padding:15px 20px;clear:both}.entry p{margin-bottom:15px}.entry h1,.entry h2,.entry h3{display:table;padding:5px 15px;background-color:var(--Gray1);font-size:18px;font-weight:600;margin:15px 0;text-align:right;border-radius:8px}.entry iframe{max-width:100%;display:table;margin-top:12px;border-radius:8px;background:var(--Gray1)}.video-serv{margin-top:15px;overflow:hidden;width:100%;margin-bottom:5px;clear:both;display:flex;justify-content:space-between}.video-serv a,.video-serv > span{cursor: pointer;background:var(--main_color);border-radius:4px;text-shadow:0 1px 1px #000;color:#fff!important;font-weight:bold;padding:5px 15px;font-size:16px;flex:1;text-align:center;margin:3px}.video-serv a:focus,.video-serv a:hover,.video-serv>span:hover{background:#931800}.server-body{margin-bottom:11px;width:100%;overflow:hidden}.server-body iframe{max-width:100%;width:100%}#yalla-ajax-server{height: 500px;border-radius: 8px;position: relative;display: block;background: #1f2024;}#yalla-ajax-server iframe{ margin: 0;}#yalla-ajax-server .spinner{ justify-content: center;}blockquote{background:var(--Gray3);display:block;text-align:center;padding:10px;font-weight:bold;margin:15px 0}blockquote p:last-child{margin:0}blockquote a{margin:0 15px;color:var(--main_color)}.table-bordered{width:100%;border-collapse:collapse;background-color:var(--Gray1);border-radius:8px}.table-bordered tr{border-bottom:1px solid var(--Gray3)}.table-bordered tr:last-child{border:0}.table-bordered td,table th{font-weight:500;padding:12px;line-height:25px}.table-bordered td{border-right:1px solid var(--Gray3)}.post-footer{padding:0 12px 12px;overflow:hidden}.post-tags li a{padding:3px 10px;background:var(--Gray1);border-radius:var(--rounded);font-size:80%}.post-share{overflow:hidden;border-radius:var(--rounded);padding:12px;background:var(--Gray1);margin-top:12px}.share-links{text-align:center}.share-links li{width:25%}.share-links li a{height:40px;width:100%}.share-links a.aya-btn:hover,.share-links a.aya-btn:focus{color:#fff}.share-links .facebook{--btn-bg:#126de3}.share-links .twitter{--DarkColor:#000;--btn-bg:var(--DarkColor)}.share-links .whatsapp{--btn-bg:#008a0d}.share-links .telegram{--btn-bg:#027bb8}#AYaFooter{position:relative;margin-top:15px;width:100%;box-shadow:0 0 4px var(--bk-shadow)}.FW-Area{background:var(--footer_bd);width:100%}.FW-Area li{padding:0;list-style:outside;color:#3fc75d;width:100%;margin-left:16px}.rtl .FW-Area li{margin-left:0;margin-right:16px}.FW-Area li a{color:#484848;display:block;font-size:14px;line-height:33px}.FWidget{width:25%;padding:20px 12px;box-sizing:border-box}.FWidget.no-items{padding:0}@media screen and (max-width:900px){.FWidget{width:50%}}@media screen and (max-width:480px){.FWidget{width:100%}}.FW-Title{margin-bottom:10px;position:relative}.FW-Title::before{background:var(--main_color);content:"";height:3px;position:absolute;width:23px;bottom:-1.5px}.FW-Title .title{border-bottom:var(--footer_border) solid 1px;padding-bottom:8px;font-weight:700;font-size:16px;display:inline-block}.AYa-SiteInfo{position:relative}.AYa-SiteInfo a{font-size:13px;padding:0 7px;display:block;color:var(--cop_color)}.SnfoInner{background:var(--cop_bd);color:var(--cop_color);padding:20px 0}.sub-menu,#tom-match,#yes-match{display:none!important}@media screen and (min-width:1001px){.AYaLogo{width:200px;margin:8px 0}.hed-btn.op,.hed-btn.mo,.CloseNave{display:none!important}.AYaMainNav{align-items:center;display:flex}.MainMenu{flex:1;display:flex;flex-wrap:wrap}}@media screen and (max-width:1000px){.AYaLogo{margin:8px auto;width:auto;flex:0 0 auto}.AYaMainNav{float:none;z-index:99;height:100%;width:280px;position:fixed;top:0;left:-300px;margin:auto;transition:all .7s ease 0s;padding:60px 15px 15px;overflow-x:hidden;box-shadow:0 1px 6px rgba(32,33,36,0.4);background:var(--LightColor)}html.OpenMenu .AYaMainNav{left:0}.admin-bar .AYaMainNav{padding-top:100px}.admin-bar .CloseNave{top:65px}.MainMenu li{width:100%;margin-bottom:15px}.MainMenu li a{background:var(--DarkColor);padding:6px 12px 7px;color:#fff;border-radius:var(--rounded)}.AYaSocial{justify-content:space-between}.hed-btn.op,.hed-btn.mo{height:40px;width:40px}.liwte .line{display:flex;width:22px;height:3px;background:#fff;border-radius:1px;margin:5px 0}.CloseNave{display:inline-block;cursor:pointer;left:calc(50% - 14px);position:absolute;top:20px;width:20px;height:20px}.CloseNave .line{background:var(--DarkColor);position:absolute}.CloseNave .line.line-1{-webkit-transform:rotate(45deg);transform:rotate(45deg)}.CloseNave .line.line-2{-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}.rtl .AYaMainNav{left:auto;right:-300px}.OpenMenu .rtl .AYaMainNav{left:auto;right:0}}@media screen and (max-width:500px){body{--yall-padding:8px}.AYb_Head{padding:8px}.LogoImage{height:55px;width:160px}.AY-Fixture .AYb_Head h2{display:block;width:100%;text-align:center;margin-bottom:6px}.AY-Dtab{width:100%}.AY-Dtab li{margin:0;flex:1;height:100%}.AY-Dtab li a{height:100%;display:flex;padding-right:0;padding-left:0;font-size:14px}.TM_Logo img{margin-bottom:0;width:50px;height:50px}.MT_Team{flex-direction:column!important}.TM_Logo{width:100%}.MT_Data{margin:13px auto}.MT_Info li:nth-child(2){display:none}.MT_Info li{width:50%;font-size:12px!important}.PS_1 .AYaGrid{--post-width:280px}.PS_1 .gr-img,.PS_3 .gr-img{height:85px!important;min-width: 125px;width:125px!important}.PS_1 .gr-inner,.PS_3 .gr-inner{display:flex;gap:2px}.gr-bimg{padding-top:56.25%!important}.gr-info h3{height:55px;line-height:18px}#the-post img{height:auto}.fut-img{margin-top:-20px}.fut-img img{border-radius:0}}.albayalla-e3lan:not(:last-of-type){margin-bottom:10px}.e3lan-thumb_start{margin-top:-20px}.message-box{color:#2c7635;background-color:#dff0d4;border:#d6e9c4 solid 1px;padding:4px 15px;border-radius:var(--rounded);margin:0 auto 10px;font-size:14px;width:100%}.message-box strong{margin-left:5px}html.OpenMenu,html.OpenMenu>body{overflow:hidden}.SiteOverlay{width:100%;height:100%;position:fixed;top:0;right:0;left:0;z-index:50;opacity:0;visibility:hidden;transition:all .2s;background-color:rgba(0,0,0,0.8)}html.OpenMenu .SiteOverlay{visibility:visible;opacity:1;transition-delay:0s;cursor:url(assets/img/icon-cancel.png),auto;height:100%}.aspi_matchTabs .aspi_tab,.aspi_lineupTeams .f_sq,.aspi_lineupTeams .s_sq,.aspi_mstaduim,.aspi_staduim,#aspi_evebody .aspi-event,#aspi_evebody .aspi-event>div{font-family:var(--font_type),Segoe UI!important}#aspi-events,#aspi-plan{font-size:14px}.aspi_lineup li{border-color:#1c2733}.Night .form-group input,.Night .AYb_Head,.Night .EntryHeader{--Gray1:#121a23;--Gray2:#121a23}.Night .aspi_matchTabs .aspi_tab{background-color:#121a23;color:#fff!important;border:0}.Night .aspi_title{background-color:#1c2733!important;color:#fff}html:not(.Night) .sun,.Night .mon{display:none}.Night .FW-Title{--footer_border:#1c2733}.Night .aspi_eve_2{background-color:#1c2733}.Night #aspi_evebody .eveblock,.Night #aspi_evebody .aspi-event h3,.Night #aspi_evebody li h3,.Night .aspi_evIcon,.Night #aspi_evebody li>span,.Night #aspi_evebody div.r .eveblock::after,.Night #aspi_events::after,.Night #aspi_evebody div.r .eveblock::after,.Night #aspi_evebody div.l .eveblock::after{background-color:#263545!important;border-color:#263545!important}.Night .aspi_lineup .aspi-player-lnp{border-color:#1c2733!important}.Night .EntryMeta,.Night .EntryMeta span a{color:#9d9fa4!important}.Night .CloseNave .line{background:#fff}.Night a,.Night body,body.Night,.Night .aspi_lineup li b,.Night .aspi_lineup .aspi-player-lnp b,.Night .aspi_evMinute{color:#fff!important}.Night .MainMenu a:hover{color:#f80!important}.AY-Fixture .AYb_Head h2{--btn-bg:var(--main_color)}.tmz-name{display:flex;position:relative;height:20px;overflow:hidden;padding:2px 5px 0;justify-content:flex-end}.tmz-name span{font-size:10px;padding:2px 8px;background:var(--bk-hd-bg);border-radius:6px 6px 0 0}.yalla-style-1 .tmz-name span{box-shadow:0 0 4px 0 rgba(0,0,0,0.3)}.AY-Dtab li.today a{--btn-bg:var(--todaybg)}.AY-Dtab li.yesterday a{--btn-bg:var(--yrsdaybg)}.AY-Dtab li.tomorrow a{--btn-bg:var(--tomorobg)}.AY_Match{order:3;overflow:hidden;text-align:center;background:var(--match-bg);margin-bottom:12px;position:relative;--stat-bg:#263545}.AY_Match h4{margin:30px 0}.AY_Match a{color:#222}.no-data__msg{min-height:250px;display:flex;align-items:center;justify-content:center;width:100%;color:#666}.AY_Match.started .MT_Time,.AY_Match.live .MT_Time,.AY_Match.gools .MT_Time,.AY_Match.finished .MT_Time,.AY_Match.comming .MT_Result,.AY_Match.comming-soon .MT_Result,.AY_Match.not-started .MT_Result{display:none}.MT_Team{display:flex;align-items:center;flex:1}.MT_Team.TM2{flex-direction:row-reverse}.TM_Logo{width:50%}.TM_Logo img{margin:10px auto;display:flex}.TM_Name{margin:8px auto;font-weight:500}.MT_Data{margin:12px auto;display:flex;flex-direction:column;align-items:center}.MT_Time{font-size:16px}.MT_Result{font-size:21px;display:inline-flex;gap:5px;justify-content:center;align-items:center}.MT_Stat{font-size:14px;margin:6px auto 0;height:25px;min-width:60px;--btn-bg:var(--stat-bg)}@keyframes blinker{50%{background:#263545}}.AY_Match.live .MT_Stat{--stat-bg:#d00000;animation:blinker 500ms ease-in-out infinite}.AY_Match.finished{--stat-bg:#474747}.AY_Match.comming-soon{--stat-bg:#0f6f37}.TourName{font-size:12px;text-align:center;line-height:1.4;margin-top:6px}.albaflex{width:100%;display:flex;flex-direction:column;box-sizing:border-box}.albaflex .not-started{order:3}.albaflex .live{order:1}.albaflex .comming-soon{order:2}.albaflex .gools{order:3}.albaflex .finished{order:4}.MT_Loading .MT_Stat{--stat-bg:#e0e4ea;font-size:0}.MT_Loading .MT_Result{display:none!important}@keyframes pulse{50%{opacity:.5}}.MT_Loading .MT_Data{animation:pulse 2s cubic-bezier(.4,0,.6,1) infinite}.MT_Mask{position:absolute;top:0;bottom:0;left:0;right:0;height:100%;width:100%;opacity:0;cursor:pointer;background:rgb(0 0 0 / 60%);z-index:9}.AY_Match:hover .MT_Mask{opacity:1}.MT_MaskText{position:absolute;bottom:0;right:0;height:45px;margin:auto;left:0;top:0;width:45px;background:no-repeat center url("data:image/svg+xml;charset=utf8,%3Csvg aria-hidden='true' role='img' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' %3E%3Cpath fill='%23fff' d='M256,0C114.617,0,0,114.615,0,256s114.617,256,256,256s256-114.615,256-256S397.383,0,256,0z M344.48,269.57l-128,80 c-2.59,1.617-5.535,2.43-8.48,2.43c-2.668,0-5.34-.664-7.758-2.008C195.156,347.172,192,341.82,192,336V176 c0-5.82,3.156-11.172,8.242-13.992c5.086-2.836,11.305-2.664,16.238,.422l128,80c4.676,2.93,7.52,8.055,7.52,13.57 S349.156,266.641,344.48,269.57z' class=''%3E%3C/path%3E%3C/svg%3E")}.yalla-style-2 .MT_Info{--Gray2:#ddd9}.MT_Info{border-top:1px solid var(--Gray2);overflow:hidden;width:100%}.MT_Info ul{display:flex;align-items:center}.MT_Info li{flex:1;font-size:14px;padding:5px 5px 7px}.MT_Info li::before{content:"🎤";margin-left:7px}.MT_Info li:first-child::before{content:"📺"}.MT_Info li:last-child::before{content:"🏆"}.AY_Inner>div{flex:0 0 auto;width:33.33333333%}.Night,.Night body{--body_bg:#1c2733;--header_bg:#263545;--Gray2:#2b3b4d;--Gray3:#1c2733;--logo_color:#fff;--footer_border:#1c2733;--Gray1:#1c2733;--LightColor:#263545;--footer_bd:var(--LightColor);--cop_bd:#1c2733;--DarkColor:var(--Gray1);--LightColor2:var(--Gray1)}.albaflex{padding:12px 12px 0}@font-face{font-family:"NeoSansArabic";font-style:normal;font-weight:normal;font-display:swap;src:url("https://fkoora.com/wp-content/themes/AlbaYallaShoot/public/fonts/NeoSansArabic.woff2?v=3") format("woff2")} @media screen and (max-width:768px){:root{--font_type:Segoe UI}}.SnfoInner .cp-text{font-size: 13px;} .aspi_matchTabCon #aspi-events + #aspi-con ,.aspi_matchTabCon #aspi-plan + #aspi-con{ display: block !important; visibility: hidden; height: 0; overflow: hidden;} .aspi_matchTabCon #aspi-events + #aspi-con.is-active ,.aspi_matchTabCon #aspi-plan + #aspi-con.is-active{ visibility: visible !important; height: auto !important;}.aspi-block-header{margin-top: 20px;}</style>
+                <meta name="theme-color" content="#8224e3"><meta name="msapplication-navbutton-color" content="#8224e3"><meta name="apple-mobile-web-app-status-bar-style" content="#8224e3"><script>if (localStorage.getItem("mode")=="rdmode"){document.documentElement.classList.add("Night");} else{ document.documentElement.classList.remove("Night");}</script>        <link rel="icon" href="https://fkoora.com/wp-content/uploads/2026/09/cropped-koora-32x32.png" sizes="32x32">
+<link rel="icon" href="https://fkoora.com/wp-content/uploads/2026/09/cropped-koora-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://fkoora.com/wp-content/uploads/2026/09/cropped-koora-180x180.png">
+<meta name="msapplication-TileImage" content="https://fkoora.com/wp-content/uploads/2026/09/cropped-koora-270x270.png">
    </head>
    <body class="rtl home blog wp-theme-AlbaYallaShoot yalla-style-1 theme--AlbaYallaShoot">
    <header id="AYaHeader">
       <div class="HdrInner">
          <div class="container fx-cen gap-20">
-                        <h1 class="screen-reader">كورة لايف – kooralive – اهم مباريات اليوم بث مباشر koora live</h1>
+                        <h1 class="screen-reader">كورة لايف | koora live بث مباشر مباريات اليوم لايف kora live</h1>
                         <span class="hed-btn op" onclick="ToggleMenu()"><span class="liwte"><span class="line line-1"></span><span class="line line-2"></span><span class="line line-3"></span></span></span>
             <div class="AYaLogo textlogo" id="AYaLogo">
-                   <a href="https://koratv.info" title="كورة لايف - kooralive - اهم مباريات اليوم بث مباشر koora live">
-      <span class="SiteName">كورة لايف </span><span class="SiteUrl">kooralive.space</span>    </a>
+                   <a href="https://fkoora.com" title="كورة لايف | koora live بث مباشر مباريات اليوم لايف kora live">
+      <span class="SiteName">koora live </span><span class="SiteUrl"></span>    </a>
                 </div>
             <div class="AYaMainNav">
                <div class="CloseNave" onclick="ToggleMenu()"><span class="liwte"><span class="line line-1"></span><span class="line line-2"></span></span></div>
                <ul class="MainMenu"><li class="current-menu"><a title="كورة لايف" href="/">كورة لايف</a></li>
 <li class="current-menu"><a title="koora live" href="/">koora live</a></li>
 <li class="current-menu"><a title="kora live" href="/">kora live</a></li>
-<li class="current-menu"><a title="kooralive" href="/">kooralive</a></li>
 </ul>               <ul class="AYaSocial d-fx gap-5">
                   <li class="moon"><span class="hed-btn" onclick="skin_switcher()"><svg class="icon" width="20" height="20"><use class="mon" xlink:href="#i-moon"></use><use class="sun" href="#i-sun"></use></svg><span class="screen-reader">skin</span></span></li>               </ul>
             </div>
@@ -80,374 +74,351 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
    </header>
       <div id="SiteContent" class="container">
                   <div class="main-wrapp">
-        <div class="tmz-name"><span>بتوقيت القاهرة</span></div>
+        <div class="tmz-name"><span>بتوقيت الرياض</span></div>
 <div class="AY_Block AY-Fixture    ">
                 <div class="AYb_Head fx-wrap">
             <h2 class="aya-btn"><strong>جدول المباريات</strong></h2>
    
             <ul class="AY-Dtab d-fx gap-5">
-            <li class="yesterday"><a class="aya-btn  " href="https://koratv.info/matches-yesterday/" title="مباريات الأمس"><strong>مباريات الأمس</strong></a></li><li class="today"><a class="aya-btn  active" href="https://koratv.info/matches-today/" title="مباريات اليوم"><strong>مباريات اليوم</strong></a></li><li class="tomorrow"><a class="aya-btn  " href="https://koratv.info/matches-tomorrow/" title="مباريات الغد"><strong>مباريات الغد</strong></a></li>            </ul>
+            <li class="yesterday"><a class="aya-btn  " href="https://fkoora.com/matches-yesterday/" title="مباريات الأمس"><strong>مباريات الأمس</strong></a></li><li class="today"><a class="aya-btn  active" href="https://fkoora.com/matches-today/" title="مباريات اليوم"><strong>مباريات اليوم</strong></a></li><li class="tomorrow"><a class="aya-btn  " href="https://fkoora.com/matches-tomorrow/" title="مباريات الغد"><strong>مباريات الغد</strong></a></li>            </ul>
         </div>
                     <div id="ayala-" class="albaflex active">
             <div class="AY_Match live">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="جور ماهيا" data-src="https://koratv.info/wp-content/uploads/2026/09/10404.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="جور ماهيا" data-src="https://fkoora.com/wp-content/uploads/2026/09/10404.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://fkoora.com/wp-content/uploads/2026/09/10404.png" loading="lazy"></div>
             <div class="TM_Name">جور ماهيا</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">15:00</span>
+            <span class="MT_Time">03:00 PM</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
             <div class="MT_Stat">جارية الان</div>
-                            <div class="TourName">أفريقيا, دوري أبطال أفريقيا - تصفيات</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="بيراميدز" data-src="https://www.9koora.live/wp-content/uploads/2026/08/22143.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="بيراميدز" data-src="https://fkoora.com/wp-content/uploads/2026/09/22143.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://fkoora.com/wp-content/uploads/2026/09/22143.png" loading="lazy"></div>
             <div class="TM_Name">بيراميدز</div>
         </div>
     </div>
-        <a href="https://44.2koorashoot.fun/2025/04/1-on-time-sport-11.html" title="تفاصيل وموعد مباراة جور ماهيا و بيراميدز بتاريخ 2026-09-06 في دوري أفريقيا, دوري أبطال أفريقيا – تصفيات"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
+        <div class="MT_Info"><ul><li><span>غير معروف</span></li><li><span>غير معروف</span></li><li><span>أفريقيا, دوري أبطال أفريقيا - تصفيات</span></li></ul></div>
+        <a href="https://m.hdkooora.online/2026/09/s6.html" title="شاهد اليوم مباراة جور ماهيا و بيراميدز بث مباشر كورة لايف | koora live"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="إيفرتون" data-src="https://www.9koora.live/wp-content/uploads/2026/08/107.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="إيفرتون" data-src="https://fkoora.com/wp-content/uploads/2026/09/107.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://fkoora.com/wp-content/uploads/2026/09/107.png" loading="lazy"></div>
             <div class="TM_Name">إيفرتون</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">16:00</span>
+            <span class="MT_Time">04:00 PM</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
             <div class="MT_Stat">جارية الان</div>
-                            <div class="TourName">إنجلترا, الدوري الإنجليزي</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="مانشستر يونايتد" data-src="https://www.9koora.live/wp-content/uploads/2026/08/105.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="مانشستر يونايتد" data-src="https://fkoora.com/wp-content/uploads/2026/09/105.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://fkoora.com/wp-content/uploads/2026/09/105.png" loading="lazy"></div>
             <div class="TM_Name">مانشستر يونايتد</div>
         </div>
     </div>
-        <a href="https://44.2koorashoot.fun/2025/02/bein-sport-11111hd.html" title="تفاصيل وموعد مباراة إيفرتون و مانشستر يونايتد بتاريخ 2026-09-06 في دوري إنجلترا, الدوري الإنجليزي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
+        <div class="MT_Info"><ul><li><span>beIN SPORTS HD 1</span></li><li><span>غير معروف</span></li><li><span>إنجلترا, الدوري الإنجليزي</span></li></ul></div>
+        <a href="https://m.hdkooora.online/2026/09/s1.html" title="شاهد اليوم مباراة إيفرتون و مانشستر يونايتد بث مباشر كورة لايف | koora live"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="فروزينوني" data-src="https://www.9koora.live/wp-content/uploads/2026/08/254.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://www.9koora.live/wp-content/uploads/2026/08/254.png" loading="lazy"></div>
-            <div class="TM_Name">فروزينوني</div>
-        </div>
-        <div class="MT_Data">
-            <span class="MT_Time">16:00</span>
-            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">جارية الان</div>
-                            <div class="TourName">إيطاليا, الدوري الإيطالي</div>
-                    </div>
-        <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="فينيزيا" data-src="https://koorastars.store/wp-content/uploads/2026/08/308.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koorastars.store/wp-content/uploads/2026/08/308.png" loading="lazy"></div>
-            <div class="TM_Name">فينيزيا</div>
-        </div>
-    </div>
-        <a href="https://33.2koorashoot.fun/2026/05/bein-sport-premuim-3.html" title="تفاصيل وموعد مباراة فروزينوني و فينيزيا بتاريخ 2026-09-06 في دوري إيطاليا, الدوري الإيطالي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
-    <div class="AY_Inner">
-        <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="بارما" data-src="https://koorastars.store/wp-content/uploads/2026/08/241.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koorastars.store/wp-content/uploads/2026/08/241.png" loading="lazy"></div>
-            <div class="TM_Name">بارما</div>
-        </div>
-        <div class="MT_Data">
-            <span class="MT_Time">16:00</span>
-            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">جارية الان</div>
-                            <div class="TourName">إيطاليا, الدوري الإيطالي</div>
-                    </div>
-        <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="مونزا" data-src="https://www.9koora.live/wp-content/uploads/2026/08/293.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">مونزا</div>
-        </div>
-    </div>
-        <a href="https://44.2koorashoot.fun/2025/02/bein2hd2222.html" title="تفاصيل وموعد مباراة بارما و مونزا بتاريخ 2026-09-06 في دوري إيطاليا, الدوري الإيطالي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
-    <div class="AY_Inner">
-        <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="تروا" data-src="https://koratv.info/wp-content/uploads/2026/09/488.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koratv.info/wp-content/uploads/2026/09/488.png" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="تروا" data-src="https://fkoora.com/wp-content/uploads/2026/09/488.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://fkoora.com/wp-content/uploads/2026/09/488.png" loading="lazy"></div>
             <div class="TM_Name">تروا</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">16:00</span>
+            <span class="MT_Time">04:00 PM</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
             <div class="MT_Stat">جارية الان</div>
-                            <div class="TourName">فرنسا, الدوري الفرنسي</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="ستراسبورج" data-src="https://koratv.info/wp-content/uploads/2026/09/479.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koratv.info/wp-content/uploads/2026/09/479.png" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="ستراسبورج" data-src="https://fkoora.com/wp-content/uploads/2026/09/479.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://fkoora.com/wp-content/uploads/2026/09/479.png" loading="lazy"></div>
             <div class="TM_Name">ستراسبورج</div>
         </div>
     </div>
-        <a href="https://44.2koorashoot.fun/2025/11/bein-sport-premuim-44.html" title="تفاصيل وموعد مباراة تروا و ستراسبورج بتاريخ 2026-09-06 في دوري فرنسا, الدوري الفرنسي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+        <div class="MT_Info"><ul><li><span>beIN Sports 3 HD</span></li><li><span>غير معروف</span></li><li><span>فرنسا, الدوري الفرنسي</span></li></ul></div>
+        <a href="https://m.hdkooora.online/2026/09/s3.html" title="شاهد اليوم مباراة تروا و ستراسبورج بث مباشر كورة لايف | koora live"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="فالنسيا" data-src="https://www.9koora.live/wp-content/uploads/2026/08/139.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="هامبورج" data-src="https://fkoora.com/wp-content/uploads/2026/09/334.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://fkoora.com/wp-content/uploads/2026/09/334.png" loading="lazy"></div>
+            <div class="TM_Name">هامبورج</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">04:30 PM</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">جارية الان</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="ماينز 05" data-src="https://fkoora.com/wp-content/uploads/2026/09/352.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://fkoora.com/wp-content/uploads/2026/09/352.png" loading="lazy"></div>
+            <div class="TM_Name">ماينز 05</div>
+        </div>
+    </div>
+        <div class="MT_Info"><ul><li><span>MBC Action</span></li><li><span>غير معروف</span></li><li><span>ألمانيا, الدوري الألماني</span></li></ul></div>
+        <a href="/" title="شاهد اليوم مباراة هامبورج و ماينز 05 بث مباشر كورة لايف | koora live"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="فالنسيا" data-src="https://fkoora.com/wp-content/uploads/2026/09/139.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://fkoora.com/wp-content/uploads/2026/09/139.png" loading="lazy"></div>
             <div class="TM_Name">فالنسيا</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">17:15</span>
+            <span class="MT_Time">05:15 PM</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
             <div class="MT_Stat">لم تبدأ بعد</div>
-                            <div class="TourName">إسبانيا, الدوري الإسباني</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="برشلونة" data-src="https://www.9koora.live/wp-content/uploads/2026/08/132.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="برشلونة" data-src="https://fkoora.com/wp-content/uploads/2026/09/132.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://fkoora.com/wp-content/uploads/2026/09/132.png" loading="lazy"></div>
             <div class="TM_Name">برشلونة</div>
         </div>
     </div>
-        <a href="/" title="تفاصيل وموعد مباراة فالنسيا و برشلونة بتاريخ 2026-09-06 في دوري إسبانيا, الدوري الإسباني"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+        <div class="MT_Info"><ul><li><span>Bein Sports HD2</span></li><li><span>غير معروف</span></li><li><span>إسبانيا, الدوري الإسباني</span></li></ul></div>
+        <a href="/" title="شاهد اليوم مباراة فالنسيا و برشلونة بث مباشر كورة لايف | koora live"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="أنجيه" data-src="https://www.9koora.live/wp-content/uploads/2026/08/493.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="أنجيه" data-src="https://fkoora.com/wp-content/uploads/2026/09/493.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://fkoora.com/wp-content/uploads/2026/09/493.png" loading="lazy"></div>
             <div class="TM_Name">أنجيه</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">18:15</span>
+            <span class="MT_Time">06:15 PM</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
             <div class="MT_Stat">لم تبدأ بعد</div>
-                            <div class="TourName">فرنسا, الدوري الفرنسي</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="ستاد رين" data-src="https://www.9koora.live/wp-content/uploads/2026/08/477.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="ستاد رين" data-src="https://fkoora.com/wp-content/uploads/2026/09/477.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://fkoora.com/wp-content/uploads/2026/09/477.png" loading="lazy"></div>
             <div class="TM_Name">ستاد رين</div>
         </div>
     </div>
-        <a href="/" title="تفاصيل وموعد مباراة أنجيه و ستاد رين بتاريخ 2026-09-06 في دوري فرنسا, الدوري الفرنسي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+        <div class="MT_Info"><ul><li><span>beIN SPORTS HD 4</span></li><li><span>غير معروف</span></li><li><span>فرنسا, الدوري الفرنسي</span></li></ul></div>
+        <a href="/" title="شاهد اليوم مباراة أنجيه و ستاد رين بث مباشر كورة لايف | koora live"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="أرسنال" data-src="https://koorastars.store/wp-content/uploads/2026/08/104.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">أرسنال</div>
-        </div>
-        <div class="MT_Data">
-            <span class="MT_Time">18:30</span>
-            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">لم تبدأ بعد</div>
-                            <div class="TourName">إنجلترا, الدوري الإنجليزي</div>
-                    </div>
-        <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="تشيلسي" data-src="https://www.1kooralive.space/wp-content/uploads/2026/08/106.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">تشيلسي</div>
-        </div>
-    </div>
-        <a href="/" title="تفاصيل وموعد مباراة أرسنال و تشيلسي بتاريخ 2026-09-06 في دوري إنجلترا, الدوري الإنجليزي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
-    <div class="AY_Inner">
-        <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="جمعية نيجيليك" data-src="https://koratv.info/wp-content/uploads/2026/09/18938.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="جمعية نيجيليك" data-src="https://fkoora.com/wp-content/uploads/2026/09/18938.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://fkoora.com/wp-content/uploads/2026/09/18938.png" loading="lazy"></div>
             <div class="TM_Name">جمعية نيجيليك</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">18:30</span>
+            <span class="MT_Time">06:30 PM</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
             <div class="MT_Stat">لم تبدأ بعد</div>
-                            <div class="TourName">أفريقيا, دوري أبطال أفريقيا - تصفيات</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="مولودية الجزائر" data-src="https://koratv.info/wp-content/uploads/2026/09/8218.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="مولودية الجزائر" data-src="https://fkoora.com/wp-content/uploads/2026/09/8218.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://fkoora.com/wp-content/uploads/2026/09/8218.png" loading="lazy"></div>
             <div class="TM_Name">مولودية الجزائر</div>
         </div>
     </div>
-        <a href="/" title="تفاصيل وموعد مباراة جمعية نيجيليك و مولودية الجزائر بتاريخ 2026-09-06 في دوري أفريقيا, دوري أبطال أفريقيا – تصفيات"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+        <div class="MT_Info"><ul><li><span>غير معروف</span></li><li><span>غير معروف</span></li><li><span>أفريقيا, دوري أبطال أفريقيا - تصفيات</span></li></ul></div>
+        <a href="/" title="شاهد اليوم مباراة جمعية نيجيليك و مولودية الجزائر بث مباشر كورة لايف | koora live"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="بولونيا" data-src="https://www.kooora.today/wp-content/uploads/2026/08/245.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">بولونيا</div>
+            <div class="TM_Logo"><img alt="آينتراخت فرانكفورت" data-src="https://fkoora.com/wp-content/uploads/2026/09/337.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://fkoora.com/wp-content/uploads/2026/09/337.png" loading="lazy"></div>
+            <div class="TM_Name">آينتراخت فرانكفورت</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">19:00</span>
+            <span class="MT_Time">06:30 PM</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
             <div class="MT_Stat">لم تبدأ بعد</div>
-                            <div class="TourName">إيطاليا, الدوري الإيطالي</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="ساسولو" data-src="https://koratv.info/wp-content/uploads/2026/09/266.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">ساسولو</div>
+            <div class="TM_Logo"><img alt="أوغسبورغ" data-src="https://fkoora.com/wp-content/uploads/2026/09/358.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://fkoora.com/wp-content/uploads/2026/09/358.png" loading="lazy"></div>
+            <div class="TM_Name">أوغسبورغ</div>
         </div>
     </div>
-        <a href="/" title="تفاصيل وموعد مباراة بولونيا و ساسولو بتاريخ 2026-09-06 في دوري إيطاليا, الدوري الإيطالي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+        <div class="MT_Info"><ul><li><span>MBC Action</span></li><li><span>غير معروف</span></li><li><span>ألمانيا, الدوري الألماني</span></li></ul></div>
+        <a href="/" title="شاهد اليوم مباراة آينتراخت فرانكفورت و أوغسبورغ بث مباشر كورة لايف | koora live"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="مالقا" data-src="https://www.kooora.today/wp-content/uploads/2026/08/152.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="أرسنال" data-src="https://fkoora.com/wp-content/uploads/2026/09/104.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://fkoora.com/wp-content/uploads/2026/09/104.png" loading="lazy"></div>
+            <div class="TM_Name">أرسنال</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">06:30 PM</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="تشيلسي" data-src="https://fkoora.com/wp-content/uploads/2026/09/106.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://fkoora.com/wp-content/uploads/2026/09/106.png" loading="lazy"></div>
+            <div class="TM_Name">تشيلسي</div>
+        </div>
+    </div>
+        <div class="MT_Info"><ul><li><span>beIN SPORTS HD 1</span></li><li><span>غير معروف</span></li><li><span>إنجلترا, الدوري الإنجليزي</span></li></ul></div>
+        <a href="/" title="شاهد اليوم مباراة أرسنال و تشيلسي بث مباشر كورة لايف | koora live"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="النجم الرياضي بالمتلوي" data-src="https://fkoora.com/wp-content/uploads/2026/09/14068.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">النجم الرياضي بالمتلوي</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">06:30 PM</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="الأمل الرياضي بحمام سوسة" data-src="https://fkoora.com/wp-content/uploads/2026/09/8242.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">الأمل الرياضي بحمام سوسة</div>
+        </div>
+    </div>
+        <div class="MT_Info"><ul><li><span>غير معروف</span></li><li><span>غير معروف</span></li><li><span>تونس, الرابطة التونسية المحترفة الأولى</span></li></ul></div>
+        <a href="/" title="شاهد اليوم مباراة النجم الرياضي بالمتلوي و الأمل الرياضي بحمام سوسة بث مباشر كورة لايف | koora live"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="النجم الساحلي" data-src="https://fkoora.com/wp-content/uploads/2026/09/8241.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">النجم الساحلي</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">06:30 PM</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="الشبيبة الرياضية بالعمران" data-src="https://fkoora.com/wp-content/uploads/2026/09/72896.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">الشبيبة الرياضية بالعمران</div>
+        </div>
+    </div>
+        <div class="MT_Info"><ul><li><span>غير معروف</span></li><li><span>غير معروف</span></li><li><span>تونس, الرابطة التونسية المحترفة الأولى</span></li></ul></div>
+        <a href="/" title="شاهد اليوم مباراة النجم الساحلي و الشبيبة الرياضية بالعمران بث مباشر كورة لايف | koora live"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="الترجي" data-src="https://fkoora.com/wp-content/uploads/2026/09/8235.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">الترجي</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">06:30 PM</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="مستقبل المرسى" data-src="https://fkoora.com/wp-content/uploads/2026/09/8230.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">مستقبل المرسى</div>
+        </div>
+    </div>
+        <div class="MT_Info"><ul><li><span>غير معروف</span></li><li><span>غير معروف</span></li><li><span>تونس, الرابطة التونسية المحترفة الأولى</span></li></ul></div>
+        <a href="/" title="شاهد اليوم مباراة الترجي و مستقبل المرسى بث مباشر كورة لايف | koora live"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="مالقا" data-src="https://fkoora.com/wp-content/uploads/2026/09/152.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
             <div class="TM_Name">مالقا</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">19:30</span>
+            <span class="MT_Time">07:30 PM</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
             <div class="MT_Stat">لم تبدأ بعد</div>
-                            <div class="TourName">إسبانيا, الدوري الإسباني</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="ليفانتي" data-src="https://www.kooora.today/wp-content/uploads/2026/08/150.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="ليفانتي" data-src="https://fkoora.com/wp-content/uploads/2026/09/150.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
             <div class="TM_Name">ليفانتي</div>
         </div>
     </div>
-        <a href="/" title="تفاصيل وموعد مباراة مالقا و ليفانتي بتاريخ 2026-09-06 في دوري إسبانيا, الدوري الإسباني"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+        <div class="MT_Info"><ul><li><span>beIN Sports 3 HD</span></li><li><span>غير معروف</span></li><li><span>إسبانيا, الدوري الإسباني</span></li></ul></div>
+        <a href="/" title="شاهد اليوم مباراة مالقا و ليفانتي بث مباشر كورة لايف | koora live"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="ألافيس" data-src="https://koorastars.store/wp-content/uploads/2026/08/168.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="ألافيس" data-src="https://fkoora.com/wp-content/uploads/2026/09/168.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
             <div class="TM_Name">ألافيس</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">19:30</span>
+            <span class="MT_Time">07:30 PM</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
             <div class="MT_Stat">لم تبدأ بعد</div>
-                            <div class="TourName">إسبانيا, الدوري الإسباني</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="أوساسونا" data-src="https://www.kooora.today/wp-content/uploads/2026/08/143.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="أوساسونا" data-src="https://fkoora.com/wp-content/uploads/2026/09/143.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
             <div class="TM_Name">أوساسونا</div>
         </div>
     </div>
-        <a href="/" title="تفاصيل وموعد مباراة ألافيس و أوساسونا بتاريخ 2026-09-06 في دوري إسبانيا, الدوري الإسباني"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+        <div class="MT_Info"><ul><li><span>Bein Sports HD2</span></li><li><span>غير معروف</span></li><li><span>إسبانيا, الدوري الإسباني</span></li></ul></div>
+        <a href="/" title="شاهد اليوم مباراة ألافيس و أوساسونا بث مباشر كورة لايف | koora live"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="طرابزون سبور" data-src="https://www.9koora.live/wp-content/uploads/2026/08/950.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="طرابزون سبور" data-src="https://fkoora.com/wp-content/uploads/2026/09/950.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
             <div class="TM_Name">طرابزون سبور</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">20:00</span>
+            <span class="MT_Time">08:00 PM</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
             <div class="MT_Stat">لم تبدأ بعد</div>
-                            <div class="TourName">تركيا, الدوري التركي</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="غنتشلربيرليغي" data-src="https://koratv.info/wp-content/uploads/2026/09/955.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="غنتشلربيرليغي" data-src="https://fkoora.com/wp-content/uploads/2026/09/955.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
             <div class="TM_Name">غنتشلربيرليغي</div>
         </div>
     </div>
-        <a href="/" title="تفاصيل وموعد مباراة طرابزون سبور و غنتشلربيرليغي بتاريخ 2026-09-06 في دوري تركيا, الدوري التركي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+        <div class="MT_Info"><ul><li><span>beIN Sports 5 HD</span></li><li><span>غير معروف</span></li><li><span>تركيا, الدوري التركي</span></li></ul></div>
+        <a href="/" title="شاهد اليوم مباراة طرابزون سبور و غنتشلربيرليغي بث مباشر كورة لايف | koora live"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="أولمبيك مارسيليا" data-src="https://koorastars.store/wp-content/uploads/2026/08/469.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="أولمبيك مارسيليا" data-src="https://fkoora.com/wp-content/uploads/2026/09/469.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
             <div class="TM_Name">أولمبيك مارسيليا</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">21:45</span>
+            <span class="MT_Time">09:45 PM</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
             <div class="MT_Stat">لم تبدأ بعد</div>
-                            <div class="TourName">فرنسا, الدوري الفرنسي</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="باريس أف.سي." data-src="https://koorastars.store/wp-content/uploads/2026/08/6075.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="باريس أف.سي." data-src="https://fkoora.com/wp-content/uploads/2026/09/6075.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
             <div class="TM_Name">باريس أف.سي.</div>
         </div>
     </div>
-        <a href="/" title="تفاصيل وموعد مباراة أولمبيك مارسيليا و باريس أف.سي. بتاريخ 2026-09-06 في دوري فرنسا, الدوري الفرنسي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+        <div class="MT_Info"><ul><li><span>beIN SPORTS HD 4</span></li><li><span>غير معروف</span></li><li><span>فرنسا, الدوري الفرنسي</span></li></ul></div>
+        <a href="/" title="شاهد اليوم مباراة أولمبيك مارسيليا و باريس أف.سي. بث مباشر كورة لايف | koora live"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="يوفنتوس" data-src="https://www.1kooralive.space/wp-content/uploads/2026/08/226.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="يوفنتوس" data-src="https://fkoora.com/wp-content/uploads/2026/09/226.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
             <div class="TM_Name">يوفنتوس</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">21:45</span>
+            <span class="MT_Time">09:45 PM</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
             <div class="MT_Stat">لم تبدأ بعد</div>
-                            <div class="TourName">إيطاليا, الدوري الإيطالي</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="ميلان" data-src="https://www.9koora.live/wp-content/uploads/2026/08/227.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="ميلان" data-src="https://fkoora.com/wp-content/uploads/2026/09/227.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
             <div class="TM_Name">ميلان</div>
         </div>
     </div>
-        <a href="/" title="تفاصيل وموعد مباراة يوفنتوس و ميلان بتاريخ 2026-09-06 في دوري إيطاليا, الدوري الإيطالي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+        <div class="MT_Info"><ul><li><span>Starzplay</span></li><li><span>غير معروف</span></li><li><span>إيطاليا, الدوري الإيطالي</span></li></ul></div>
+        <a href="/" title="شاهد اليوم مباراة يوفنتوس و ميلان بث مباشر كورة لايف | koora live"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="إسبانيول" data-src="https://koorastars.store/wp-content/uploads/2026/08/136.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">إسبانيول</div>
-        </div>
-        <div class="MT_Data">
-            <span class="MT_Time">22:00</span>
-            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">لم تبدأ بعد</div>
-                            <div class="TourName">إسبانيا, الدوري الإسباني</div>
-                    </div>
-        <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="إشبيلية" data-src="https://www.9koora.live/wp-content/uploads/2026/08/135.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">إشبيلية</div>
-        </div>
-    </div>
-        <a href="/" title="تفاصيل وموعد مباراة إسبانيول و إشبيلية بتاريخ 2026-09-06 في دوري إسبانيا, الدوري الإسباني"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
-    <div class="AY_Inner">
-        <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="المغرب الفاسي" data-src="https://www.kora-live.news/wp-content/uploads/2026/06/8321.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="المغرب الفاسي" data-src="https://fkoora.com/wp-content/uploads/2026/09/8321.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
             <div class="TM_Name">المغرب الفاسي</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">22:00</span>
+            <span class="MT_Time">10:00 PM</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
             <div class="MT_Stat">لم تبدأ بعد</div>
-                            <div class="TourName">أفريقيا, دوري أبطال أفريقيا - تصفيات</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="رحيمو" data-src="https://koratv.info/wp-content/uploads/2026/09/56893.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="رحيمو" data-src="https://fkoora.com/wp-content/uploads/2026/09/56893.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
             <div class="TM_Name">رحيمو</div>
         </div>
     </div>
-        <a href="/" title="تفاصيل وموعد مباراة المغرب الفاسي و رحيمو بتاريخ 2026-09-06 في دوري أفريقيا, دوري أبطال أفريقيا – تصفيات"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match finished">
+        <div class="MT_Info"><ul><li><span>غير معروف</span></li><li><span>غير معروف</span></li><li><span>أفريقيا, دوري أبطال أفريقيا - تصفيات</span></li></ul></div>
+        <a href="/" title="شاهد اليوم مباراة المغرب الفاسي و رحيمو بث مباشر كورة لايف | koora live"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="انتر ميامي" data-src="https://koorastars.store/wp-content/uploads/2026/08/qbqMtgzKCYVxZMzcB4iQqQ_96x96.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">انتر ميامي</div>
+            <div class="TM_Logo"><img alt="إسبانيول" data-src="https://fkoora.com/wp-content/uploads/2026/09/136.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">إسبانيول</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">02:00</span>
+            <span class="MT_Time">10:00 PM</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">انتهت</div>
-                            <div class="TourName">غير معروف</div>
+            <div class="MT_Stat">لم تبدأ بعد</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="أتلانتا يونايتد" data-src="https://koratv.info/wp-content/uploads/2026/09/تنزيل.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">أتلانتا يونايتد</div>
+            <div class="TM_Logo"><img alt="إشبيلية" data-src="https://fkoora.com/wp-content/uploads/2026/09/135.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">إشبيلية</div>
         </div>
     </div>
-        <a href="https://13.koorashot.fun/2026/09/shahid3.html" title="تفاصيل وموعد مباراة إنتر ميامي و أتلانتا يونايتد بتاريخ 2026-09-06 في غير الدوري الأمريكي لكرة القدم"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div>        </div>
+        <div class="MT_Info"><ul><li><span>Bein Sports HD2</span></li><li><span>غير معروف</span></li><li><span>إسبانيا, الدوري الإسباني</span></li></ul></div>
+        <a href="/" title="شاهد اليوم مباراة إسبانيول و إشبيلية بث مباشر كورة لايف | koora live"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div>        </div>
         </div>
 <div class="AY_Block PS_1">
             <div class="AYb_Head">
-            <h2 class="aya-btn"><strong>آخر الأخبار</strong></h2>
+            <h2 class="aya-btn"><strong>كورة لايف | koora live</strong></h2>
                     </div>
         <div class="AYb_Inner">
         <div id="AlbaPosts">
-            <div class="AlbaGridPosts Nfeed AYaGrid" data-page="https://koratv.info/page/2/">
-                <div class="gr-item">
-	<a class="gr-inner" href="https://koratv.info/%d8%aa%d8%a7%d9%87-%d8%a5%d9%84%d9%89-%d8%a8%d8%a7%d9%8a%d8%b1%d9%86-%d8%ad%d9%8a%d9%86-%d9%8a%d9%8f%d8%ba%d9%84%d9%82-%d8%a7%d9%84%d8%a8%d8%a7%d8%a8-%d9%81%d9%8a-%d9%88%d8%ac%d9%87-%d8%a8%d8%b1/" title="تاه إلى بايرن… حين يُغلق الباب في وجه برشلونة">
-	<div class="gr-img hqy-lazy" data-src=""></div>
-				<div class="gr-info"><h3 class="gr-title">تاه إلى بايرن… حين يُغلق الباب في وجه برشلونة</h3></div>
-			</a>
-</div><div class="gr-item">
-	<a class="gr-inner" href="https://koratv.info/%d8%a8%d9%86-%d8%b5%d8%ba%d9%8a%d8%b1-%d9%88%d8%a3%d9%83%d9%84%d9%8a%d9%88%d8%b4-%d9%87%d9%84-%d9%8a%d8%a8%d8%af%d8%a3-%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9-%d9%85%d8%b4%d8%b1%d9%88%d8%b9/" title="بن صغير وأكليوش… هل يبدأ برشلونة مشروعه المغربي؟">
-	<div class="gr-img hqy-lazy" data-src=""></div>
-				<div class="gr-info"><h3 class="gr-title">بن صغير وأكليوش… هل يبدأ برشلونة مشروعه المغربي؟</h3></div>
-			</a>
-</div><div class="gr-item">
-	<a class="gr-inner" href="https://koratv.info/%d9%87%d9%88%d9%8a%d8%b3%d9%86-%d9%81%d9%8a-%d9%85%d9%87%d8%a8-%d8%a7%d9%84%d8%ae%d8%b7%d8%b1-%d8%a8%d9%8a%d9%86-%d9%85%d8%b7%d8%b1%d9%82%d8%a9-%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1/" title="هويسن في مهب الخطر… بين مطرقة مانشستر سيتي وسندان ريال مدريد">
-	<div class="gr-img hqy-lazy" data-src=""></div>
-				<div class="gr-info"><h3 class="gr-title">هويسن في مهب الخطر… بين مطرقة مانشستر سيتي وسندان ريال مدريد</h3></div>
-			</a>
-</div><div class="gr-item">
-	<a class="gr-inner" href="https://koratv.info/%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d9%84%d8%a7-%d9%8a%d8%b1%d8%ad%d9%85-%d8%ad%d9%8a%d9%86-%d9%8a%d9%83%d9%88%d9%86-%d8%a7%d9%84%d8%a8%d8%b7%d9%84-%d8%ac%d8%a7%d8%a6%d8%b9%d9%8b%d8%a7/" title="الاتحاد لا يرحم.. حين يكون البطل جائعًا بعد التتويج">
-	<div class="gr-img hqy-lazy" data-src=""></div>
-				<div class="gr-info"><h3 class="gr-title">الاتحاد لا يرحم.. حين يكون البطل جائعًا بعد التتويج</h3></div>
-			</a>
-</div><div class="gr-item">
-	<a class="gr-inner" href="https://koratv.info/%d9%81%d9%84%d9%8a%d9%83-%d8%a7%d9%84%d8%ac%d9%86%d8%b1%d8%a7%d9%84-%d8%a7%d9%84%d8%a3%d9%84%d9%85%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%b0%d9%8a-%d8%a3%d8%b9%d8%a7%d8%af-%d8%a8%d8%b1%d8%b4%d9%84%d9%88/" title="فليك… الجنرال الألماني الذي أعاد برشلونة إلى عرشه">
-	<div class="gr-img hqy-lazy" data-src=""></div>
-				<div class="gr-info"><h3 class="gr-title">فليك… الجنرال الألماني الذي أعاد برشلونة إلى عرشه</h3></div>
-			</a>
-</div><div class="gr-item">
-	<a class="gr-inner" href="https://koratv.info/%d8%ac%d9%84%d8%a7%d8%b3%d9%86%d8%b1-%d8%a7%d9%84%d9%85%d9%87%d9%86%d8%af%d8%b3-%d8%a7%d9%84%d9%87%d8%a7%d8%af%d8%a6-%d8%a7%d9%84%d8%b0%d9%8a-%d9%82%d8%a7%d8%af-%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d8%a7/" title="جلاسنر.. المهندس الهادئ الذي قاد كريستال بالاس من ظلام القاع إلى ضوء المجد">
-	<div class="gr-img hqy-lazy" data-src=""></div>
-				<div class="gr-info"><h3 class="gr-title">جلاسنر.. المهندس الهادئ الذي قاد كريستال بالاس من ظلام القاع إلى ضوء المجد</h3></div>
-			</a>
-</div><div class="gr-item">
-	<a class="gr-inner" href="https://koratv.info/%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d8%a7%d9%84-%d8%a8%d8%a7%d9%84%d8%a7%d8%b3-%d9%8a%d9%8f%d8%b3%d9%82%d8%b7-%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1-%d8%b3%d9%8a%d8%aa%d9%8a-%d9%88%d9%8a%d9%85%d8%a8/" title="كريستال بالاس يُسقط مانشستر سيتي.. ويمبلي يشهد معجزة إيزي وهندرسون">
-	<div class="gr-img hqy-lazy" data-src=""></div>
-				<div class="gr-info"><h3 class="gr-title">كريستال بالاس يُسقط مانشستر سيتي.. ويمبلي يشهد معجزة إيزي وهندرسون</h3></div>
-			</a>
-</div><div class="gr-item">
-	<a class="gr-inner" href="https://koratv.info/%d9%84%d8%a7%d9%85%d9%8a%d9%86-%d9%8a%d8%a7%d9%85%d8%a7%d9%84-%d8%a7%d9%84%d8%b7%d9%81%d9%84-%d8%a7%d9%84%d8%b0%d9%8a-%d8%ad%d9%85%d9%84-%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9-%d8%b9%d9%84%d9%89/" title="لامين يامال.. الطفل الذي حمل برشلونة على كتفيه">
-	<div class="gr-img hqy-lazy" data-src=""></div>
-				<div class="gr-info"><h3 class="gr-title">لامين يامال.. الطفل الذي حمل برشلونة على كتفيه</h3></div>
-			</a>
-</div>            </div>
+            <div class="AlbaGridPosts Nfeed AYaGrid" data-page="https://fkoora.com/page/2/">
+                            </div>
         </div>
     </div>
-    <div class="AlbaMorBtn"><a href="#" rel="nofollow" id="LoadMOreNews" class="LoadMOreNews" title="عرض المزيد">عرض المزيد</a></div></div></div>
+    </div></div>
  
 </div><!-- SiteContent-->  
 <footer id="AYaFooter">
@@ -460,9 +431,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <div class="SnfoInner">
          <div class="container d-fx gap-5">
             <div class="grow-1">
-               <ul class="fx-wrap"><li class="current-menu"><a title="كورة لايف بث مباشر" href="/">كورة لايف بث مباشر</a></li>
+               <ul class="fx-wrap"><li class="current-menu"><a title="kora live" href="/">kora live</a></li>
 </ul>            </div>
-            <div class="footer_creared"><a id="albacp" href="https://albaadani.com" target="_blank" rel="nofollow noopener">Designed by | albaadani</a></div>         </div>
+            <span class="cp-text">koora live</span>         </div>
       </div>
    </div>
 </footer>
@@ -474,11 +445,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <script type="speculationrules">
 {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/AlbaYallaShoot/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
 </script>
-        <script>!function(){function t(e){var o=n[e];return"object"==typeof o?o:(o.exports||(o.exports={},o.exports=o.call(o.exports,t,o.exports,o)||o.exports),o.exports)}function e(t,e){n[t]=e}var n={};e("./defaults.js",function(t,e,n){n.exports={root:document,container:!1,elements:".hqy-lazy",success:!1,error:!1,offset:2,separator:",",loadingClass:"hqy-loading",successClass:"hqy-loaded",errorClass:"hqy-error",breakpoints:!1,loadInvisible:!1,validateDelay:25,saveViewportOffsetDelay:50,srcset:"data-srcset",src:"data-src"}}),e("./dom.js",function(t,e,n){var o=t("./utils.js"),i=e.setAttr=function(t,e,n){t.setAttribute(e,n)},s=e.getAttr=function(t,e){return t.getAttribute(e)},r=(e.removeAttr=function(t,e){t.removeAttribute(e)},{}),a=e.hasClass=function(t,e){return r[e]||(r[e]=new RegExp("(\\s|^)"+e+"(\\s|$)")),r[e].test(s(t,"class")||"")&&r[e]};e.addClass=function(t,e){a(t,e)||i(t,"class",o.trim(s(t,"class")||"")+" "+e)},e.removeClass=function(t,e){var n;(n=a(t,e))&&i(t,"class",(s(t,"class")||"").replace(n," "))},e.toElements=function(t){if(o.isString(t))return e.querySelectorAll(t);if(t&&t.length){for(var n=[],i=t.length;i--;n.unshift(t[i]));return n}return t?[t]:[]},e.querySelectorAll=function(t,e){if(document.querySelectorAll)e=document.querySelectorAll(t);else{var n=document,o=n.styleSheets[0]||n.createStyleSheet();o.addRule(t,"f:b");for(var i=n.all,s=0,r=[],a=i.length;s<a;s++)i[s].currentStyle.f&&r.push(i[s]);o.removeRule(0),e=r}return e},e.contains=function(t,e,n){if(t==e)return!0;if(!e||!e.nodeType||1!=e.nodeType)return!1;if(t.contains)return t.contains(e);if(t.compareDocumentPosition)return!!(16&t.compareDocumentPosition(e));for(var o=e.parentNode;o&&o!=n;){if(o==t)return!0;o=o.parentNode}return!1},e.equal=function(t,e){return t.nodeName.toLowerCase()===e},e.bindEvent=function(t,e,n){t.attachEvent?t.attachEvent&&t.attachEvent("on"+e,n):t.addEventListener(e,n,{capture:!1,passive:!0})},e.unbindEvent=function(t,e,n){t.detachEvent?t.detachEvent&&t.detachEvent("on"+e,n):t.removeEventListener(e,n,{capture:!1,passive:!0})}}),e("./index.js",function(t,e,n){function o(t){this.init(t)}var i=t("./utils.js"),s=t("./defaults.js"),r=t("./dom.js"),a=t("./loadElement.js");n.exports=o;var l=(window.devicePixelRatio||window.screen.deviceXDPI/window.screen.logicalXDPI)>1,c=function(t,e){t.bottom=(window.innerHeight||document.documentElement.clientHeight)+e,t.right=(window.innerWidth||document.documentElement.clientWidth)+e};i.assign(o.prototype,a,{init:function(t){t=t||{},this.options={};for(var e in s)this.options[e]=t[e]||s[e];this.initContext(),this.render()},initContext:function(){var t=this.options,e=this.context={attrSrc:"src",attrSrcset:"srcset",source:t.src,elements:[],container:r.toElements(t.container)[0]||!1,destroyed:!0,isRetina:l,viewport:{top:0-t.offset,left:0-t.offset},validateT:i.throttle(function(){this.validate()},t.validateDelay,this),saveViewportOffsetT:i.throttle(function(){c(e.viewport,t.offset)},t.validateDelay,this)};c(e.viewport,t.offset),i.each(t.breakpoints,function(t){if(t.width>=window.screen.width)return e.source=t.src,!1})},render:function(){var t=this.options,e=this.context;e.elements=r.toElements(t.elements),e.destroyed&&(e.destroyed=!1,e.container&&r.bindEvent(e.container,"scroll",e.validateT),r.bindEvent(window,"resize",e.saveViewportOffsetT),r.bindEvent(window,"resize",e.validateT),r.bindEvent(window,"scroll",e.validateT)),this.validate()},destroy:function(){this.options;var t=this.context;t.container&&r.unbindEvent(t.container,"scroll",t.validateT),r.unbindEvent(window,"scroll",t.validateT),r.unbindEvent(window,"resize",t.validateT),r.unbindEvent(window,"resize",t.saveViewportOffsetT),t.elements=[],t.destroyed=!0},validate:function(){var t=this.options,e=this.context,n=e.elements,o=n.length;i.each(n,function(n){if(!(r.hasClass(n,e.loadingClass)||r.hasClass(n,t.successClass)||r.hasClass(n,t.errorClass)))return this.elementInView(n)?(this.loadElement(n),void o--):void 0;o--},this),o<=0&&this.destroy()},elementInView:function(t){var e=this.options,n=this.context,o=n.viewport,s=n.container,a=t.getBoundingClientRect();if(r.container&&r.contains(s,t)){var l=s.getBoundingClientRect();if(inView(l,o)){var c=l.top-e.offset,d=l.right+e.offset,u=l.bottom+e.offset,f=l.left-e.offset,h={top:c>o.top?c:o.top,right:d<o.right?d:o.right,bottom:u<o.bottom?u:o.bottom,left:f>o.left?f:o.left};return i.inView(a,h)}return!1}return i.inView(a,o)},load:function(t,e){this.context.elements=r.toElements(t),i.each(t,function(t){this.loadElement(element,e)},this)}})}),e("./loadElement.js",function(t,e,n){function o(t,e,n,o){var r=this,a=s.equal(t,"img"),l=e.split(n.separator),c=l[o.isRetina&&l.length>1?1:0],d=s.getAttr(t,n.srcset),u=t.parentNode,f=u&&s.equal(u,"picture");if(!a&&!i.isUndefined(t.src))return t.src=c,void this.loadElementSuccess(t);var h=new Image,v=function(){r.loadElementError(t,"invalid"),s.unbindEvent(h,"error",v),s.unbindEvent(h,"load",m)},m=function(){a?f||r.handleSrcsetElement(t,c,d):t.style.backgroundImage='url("'+c+'")',r.loadElementSuccess(t),s.unbindEvent(h,"error",v),s.unbindEvent(h,"load",m)};f&&(h=t,i.each(u.getElementsByTagName("source"),function(t){this.handleSourceElement(t,o.attrSrcset,n.srcset)},this)),s.addClass(t,n.loadingClass),s.bindEvent(h,"error",v),s.bindEvent(h,"load",m),this.handleSrcsetElement(h,c,d)}var i=t("./utils.js"),s=t("./dom.js");n.exports={handleSourceElement:function(t,e,n){var o=s.getAttr(t,n);o&&s.setAttr(t,e,o)},handleSrcsetElement:function(t,e,n){n&&s.setAttr(t,this.context.attrSrcset,n),t.src=e},loadElementSuccess:function(t){var e=this.options;s.addClass(t,e.successClass),s.removeClass(t,e.loadingClass),e.success&&e.success(t)},loadElementError:function(t,e){var n=this.options;n.error&&n.error(t,e),s.addClass(t,n.errorClass),s.removeClass(t,n.loadingClass)},loadElement:function(t,e){var n=this.options,r=this.context;if(e||n.loadInvisible||t.offsetWidth>0&&t.offsetHeight>0){var a=s.getAttr(t,r.source)||s.getAttr(t,n.src);a?o.call(this,t,a,n,r):(s.addClass(t,n.loadingClass),s.equal(t,"video")?(i.each(t.getElementsByTagName("source"),function(t){this.handleSourceElement(t,r.attrSrc,n.src)},this),t.load(),this.loadElementSuccess(t)):this.loadElementError(t,"missing"))}}}}),e("./utils.js",function(t,e,n){var o=e.hasOwnProperty=Object.prototype.hasOwnProperty,i=e.toString=Object.prototype.toString,s=e.each=function(t,e,n){if(t&&e)for(var o=t.length,i=0;i<o&&!1!==e.call(n,t[i],i);i++);};e.trim=function(t){return t.replace(/^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g,"")},e.assign=function(t){for(var e=1;e<arguments.length;e++){var n=arguments[e];if(null!=n)for(var i in n)o.call(n,i)&&(t[i]=n[i])}return t},e.isUndefined=function(t){return void 0===t},s(["Arguments","Function","String","Number","Date","RegExp","Error"],function(t){e["is"+t]=function(e){return i.call(e)==="[object "+t+"]"}}),e.throttle=function(t,e,n){var o=0;return function(){var i=+new Date;i-o<e||(o=i,t.apply(n,arguments))}},e.inView=function(t,e){return t.right>=e.left&&t.bottom>=e.top&&t.left<=e.right&&t.top<=e.bottom}}),"function"==typeof define&&define.amd?define(t("./index.js")):"object"==typeof exports?module.exports=t("./index.js"):window.HqyLazyload=t("./index.js")}();var AlbaLoadLazy = function() {var hqyLazy = new HqyLazyload({elements: document.querySelectorAll("[data-src]")})};AlbaLoadLazy();</script><script>function skin_switcher(){localStorage.setItem("mode","rdmode"===localStorage.getItem("mode")?"light":"rdmode"),"rdmode"===localStorage.getItem("mode")?document.documentElement.classList.add("Night"):document.documentElement.classList.remove("Night")}function ToggleMenu(){document.documentElement.classList.toggle("OpenMenu")}</script><script>const getOffsetTop=e=>{const t=e.offsetTop;return e.offsetParent?t+getOffsetTop(e.offsetParent):t};function AlbaLoadMorPostScroall(){var e=!0,t=!0,o=document.querySelector(".Nfeed"),n=o?o.getAttribute("data-page"):"",a=document.querySelector(".AlbaMorBtn"),r=document.querySelector("#AlbaPosts"),s=(document.querySelector(".AYb_Inner"),document.querySelector("#LoadMOreNews"));s&&s.addEventListener("click",(function(o){o.preventDefault(),e&&function(){if(t&&e&&"undefined"!==n){s.innerHTML='<div class="spinner"><svg><use xlink:href="#spinner"></use></svg></div>',t=!1;var o=new XMLHttpRequest;o.open("POST",n),o.onload=function(){if("404"==this.response)e=!1;else{var o=(new DOMParser).parseFromString(this.response,"text/html").documentElement.querySelector(".Nfeed");n=o.getAttribute("data-page"),r.appendChild(o),"undefined"!=typeof AlbaLoadLazy&&AlbaLoadLazy(),""===n&&(e=!1),t=!0}0!=e?s.innerHTML='عرض المزيد':(s.remove(),a.innerHTML='<span class="LoadMOreNews pagination-disabled">لايوجد المزيد من المقالات</span>')},o.send()}}(),AlbaLoadLazy()}))}window,AlbaLoadMorPostScroall();</script>        <script type="text/javascript">const AlbaYalla_0x2e8e4b=AlbaYalla_0x4069;(function(_0x4ab08f,_0x1db523){const _0x240942=AlbaYalla_0x4069,_0x483498=_0x4ab08f();while(!![]){try{const _0x162425=-parseInt(_0x240942(0x6a,'cUZM'))/0x1*(parseInt(_0x240942(0x81,'oIjD'))/0x2)+-parseInt(_0x240942(0x66,'C!F1'))/0x3*(-parseInt(_0x240942(0x7e,'6A6*'))/0x4)+parseInt(_0x240942(0x83,'8@qt'))/0x5*(parseInt(_0x240942(0x75,'Xrw('))/0x6)+-parseInt(_0x240942(0x76,'5m0Q'))/0x7+-parseInt(_0x240942(0x7c,'Eryt'))/0x8+-parseInt(_0x240942(0x78,'15lX'))/0x9+parseInt(_0x240942(0x85,'P%VW'))/0xa;if(_0x162425===_0x1db523)break;else _0x483498['push'](_0x483498['shift']());}catch(_0x3fc438){_0x483498['push'](_0x483498['shift']());}}}(AlbaYalla_0x38c9,0x682c2));function AlbaYalla_0x38c9(){const _0x82ce2c=['WQ/cRSkBW63cImo1WP3cIx3cJmogbvu','W4FdOuldKSkNWPiwgIu','W6PNW50FW4PBiG','WPipW4VdG8owWRhcL8kOW7rmW4CmtW','W73cHCoWrLxcTg4+wCkSW5z/','cXxcTWykAColW4/dSf7dR2G4hmoLW6S','W77cJcjFdSk2z0LNWOFdSq','WRRcK8oVW5L4W77cVCoVW4S','rNKDWOLqwCk+WPddO8opWRFdPq','WO0nW6q8m0xcKSkeqSokA8oMsG','W5hcUYz6hSkhrCow','W7CcW5DuFfhcMSoBaSoHwuu+DWe','uxeScWnp','W5rkWQL0DeJcJ8ofySoKFCoGzHFcN2P+WOmfEXy','dCk8w8kvW7WtAvpdLCkKW7m','WRtcQmkuWRZdKCkJWO3cMulcHSkTC3PRWQ8Tia/dQ8kLFuCtW4rGA8kupXCiW6SeBCkGW4BdHIZcQSoaqdHFWOmkdw98gW','WQH2W7CCW75HhSoeW40PDSkCWQy','jMpdH8kCt8kwW4eQWQddJsKX','bIvAW7WtgSkeWR/dK8oDWPhdJW','c8kCxxxdUmkv','sCopctpcQmofWPyuW6BdHY7dTmkk','umorfcNcSmouWOrKWRFcU13cIG','W4TjWPBcKa','BSkIWRaJvdNdLSkLsSkDWOrOW5JcOHFdUY3dJhJdVSorW7JcQ8o4pmoCaNpcPayPb3ayWP9vW7RcJ1pcI2qTmCk0WRjpk8oFW4fEfWRdOrtcOmoHWRFcT8kZuXRdR1uwmaW','W59QW7GVCsrqW5tcRSoQnGep','WPNdVfK+WPOVWQddMCopoxa','W5BdQfhcQ8oUlvXtW7CeumkIyq','W7JcJ8o1rLpcT3ejqSkDW4PL','W45xWP4ojCoXWR0','yG/cIeZdSCkSWP/cL8k2','ASkNzdT1WQDkWOFdIKjmWOpcKmk+W7ZcL8oNW4FdKY9vW4f5mve','oCo7WR7dUSoAC0us','WQtcIINcSe7dVCkVWPjdWRldQCkY'];AlbaYalla_0x38c9=function(){return _0x82ce2c;};return AlbaYalla_0x38c9();}const AlbaYalla_0x49061b=(function(){let _0xde0895=!![];return function(_0x372b5e,_0x57ced3){const _0x232e0e=_0xde0895?function(){if(_0x57ced3){const _0x1d587c=_0x57ced3['apply'](_0x372b5e,arguments);return _0x57ced3=null,_0x1d587c;}}:function(){};return _0xde0895=![],_0x232e0e;};}()),AlbaYalla_0x47d57d=AlbaYalla_0x49061b(this,function(){const _0x194d3d=AlbaYalla_0x4069;return AlbaYalla_0x47d57d['toString']()['search'](_0x194d3d(0x79,'15lX'))['toString']()[_0x194d3d(0x7d,'KJi4')](AlbaYalla_0x47d57d)[_0x194d3d(0x77,'15lX')](_0x194d3d(0x84,'A(UF'));});function AlbaYalla_0x4069(_0xf84cff,_0x30179c){const _0x398fb6=AlbaYalla_0x38c9();return AlbaYalla_0x4069=function(_0x47d57d,_0x49061b){_0x47d57d=_0x47d57d-0x66;let _0x38c949=_0x398fb6[_0x47d57d];if(AlbaYalla_0x4069['SIHGmf']===undefined){var _0x4069e7=function(_0x4445bb){const _0x4e8317='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0xde0895='',_0x372b5e='',_0x57ced3=_0xde0895+_0x4069e7;for(let _0x232e0e=0x0,_0x1d587c,_0x6144f3,_0x24a7b3=0x0;_0x6144f3=_0x4445bb['charAt'](_0x24a7b3++);~_0x6144f3&&(_0x1d587c=_0x232e0e%0x4?_0x1d587c*0x40+_0x6144f3:_0x6144f3,_0x232e0e++%0x4)?_0xde0895+=_0x57ced3['charCodeAt'](_0x24a7b3+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x1d587c>>(-0x2*_0x232e0e&0x6)):_0x232e0e:0x0){_0x6144f3=_0x4e8317['indexOf'](_0x6144f3);}for(let _0x2d9716=0x0,_0x229f96=_0xde0895['length'];_0x2d9716<_0x229f96;_0x2d9716++){_0x372b5e+='%'+('00'+_0xde0895['charCodeAt'](_0x2d9716)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x372b5e);};const _0x53c333=function(_0x722bb5,_0x447027){let _0x3b8a70=[],_0x2c8c45=0x0,_0x25ebf9,_0x256b13='';_0x722bb5=_0x4069e7(_0x722bb5);let _0x3066c0;for(_0x3066c0=0x0;_0x3066c0<0x100;_0x3066c0++){_0x3b8a70[_0x3066c0]=_0x3066c0;}for(_0x3066c0=0x0;_0x3066c0<0x100;_0x3066c0++){_0x2c8c45=(_0x2c8c45+_0x3b8a70[_0x3066c0]+_0x447027['charCodeAt'](_0x3066c0%_0x447027['length']))%0x100,_0x25ebf9=_0x3b8a70[_0x3066c0],_0x3b8a70[_0x3066c0]=_0x3b8a70[_0x2c8c45],_0x3b8a70[_0x2c8c45]=_0x25ebf9;}_0x3066c0=0x0,_0x2c8c45=0x0;for(let _0x1019d3=0x0;_0x1019d3<_0x722bb5['length'];_0x1019d3++){_0x3066c0=(_0x3066c0+0x1)%0x100,_0x2c8c45=(_0x2c8c45+_0x3b8a70[_0x3066c0])%0x100,_0x25ebf9=_0x3b8a70[_0x3066c0],_0x3b8a70[_0x3066c0]=_0x3b8a70[_0x2c8c45],_0x3b8a70[_0x2c8c45]=_0x25ebf9,_0x256b13+=String['fromCharCode'](_0x722bb5['charCodeAt'](_0x1019d3)^_0x3b8a70[(_0x3b8a70[_0x3066c0]+_0x3b8a70[_0x2c8c45])%0x100]);}return _0x256b13;};AlbaYalla_0x4069['DRrbIC']=_0x53c333,_0xf84cff=arguments,AlbaYalla_0x4069['SIHGmf']=!![];}const _0x34fc51=_0x398fb6[0x0],_0xcb157b=_0x47d57d+_0x34fc51,_0x3ee1dc=_0xf84cff[_0xcb157b];if(!_0x3ee1dc){if(AlbaYalla_0x4069['ghqyqk']===undefined){const _0x50a391=function(_0x2f7b50){this['JqBuMH']=_0x2f7b50,this['TTXNQr']=[0x1,0x0,0x0],this['ixWcVO']=function(){return'newState';},this['aWZUhv']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['POnPgK']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x50a391['prototype']['qiQGof']=function(){const _0x5d0deb=new RegExp(this['aWZUhv']+this['POnPgK']),_0x35f268=_0x5d0deb['test'](this['ixWcVO']['toString']())?--this['TTXNQr'][0x1]:--this['TTXNQr'][0x0];return this['OGBuwG'](_0x35f268);},_0x50a391['prototype']['OGBuwG']=function(_0x22b0d2){if(!Boolean(~_0x22b0d2))return _0x22b0d2;return this['Ceracn'](this['JqBuMH']);},_0x50a391['prototype']['Ceracn']=function(_0x3fd2b3){for(let _0xcf3eb9=0x0,_0x1235e5=this['TTXNQr']['length'];_0xcf3eb9<_0x1235e5;_0xcf3eb9++){this['TTXNQr']['push'](Math['round'](Math['random']())),_0x1235e5=this['TTXNQr']['length'];}return _0x3fd2b3(this['TTXNQr'][0x0]);},new _0x50a391(AlbaYalla_0x4069)['qiQGof'](),AlbaYalla_0x4069['ghqyqk']=!![];}_0x38c949=AlbaYalla_0x4069['DRrbIC'](_0x38c949,_0x49061b),_0xf84cff[_0xcb157b]=_0x38c949;}else _0x38c949=_0x3ee1dc;return _0x38c949;},AlbaYalla_0x4069(_0xf84cff,_0x30179c);}AlbaYalla_0x47d57d(),window[AlbaYalla_0x2e8e4b(0x69,'Sy4n')](AlbaYalla_0x2e8e4b(0x70,'BDy]'),function(){const _0x373a49=AlbaYalla_0x2e8e4b;let _0x6144f3=window[_0x373a49(0x80,'g3#q')],_0x24a7b3=_0x373a49(0x71,'!cPq');if(_0x6144f3>0xfa){let _0x2d9716=document[_0x373a49(0x74,'C!F1')](_0x373a49(0x82,'hXfw'));_0x2d9716==null&&(document[_0x373a49(0x6f,'zf9M')]['innerHTML']=_0x373a49(0x7b,'Ua!c')+_0x24a7b3+_0x373a49(0x73,'P%VW'));;_0x2d9716[_0x373a49(0x6c,'5m0Q')](_0x373a49(0x7a,'CrLT'),_0x24a7b3),_0x2d9716[_0x373a49(0x6b,'acK]')]='Designed\x20by\x20|\x20albaadani';}});</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;d48469b92cd54e9d90e201049abeba36&quot;,&quot;r&quot;:1,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
-
-
-
-
+        <script>!function(){function t(e){var o=n[e];return"object"==typeof o?o:(o.exports||(o.exports={},o.exports=o.call(o.exports,t,o.exports,o)||o.exports),o.exports)}function e(t,e){n[t]=e}var n={};e("./defaults.js",function(t,e,n){n.exports={root:document,container:!1,elements:".hqy-lazy",success:!1,error:!1,offset:2,separator:",",loadingClass:"hqy-loading",successClass:"hqy-loaded",errorClass:"hqy-error",breakpoints:!1,loadInvisible:!1,validateDelay:25,saveViewportOffsetDelay:50,srcset:"data-srcset",src:"data-src"}}),e("./dom.js",function(t,e,n){var o=t("./utils.js"),i=e.setAttr=function(t,e,n){t.setAttribute(e,n)},s=e.getAttr=function(t,e){return t.getAttribute(e)},r=(e.removeAttr=function(t,e){t.removeAttribute(e)},{}),a=e.hasClass=function(t,e){return r[e]||(r[e]=new RegExp("(\\s|^)"+e+"(\\s|$)")),r[e].test(s(t,"class")||"")&&r[e]};e.addClass=function(t,e){a(t,e)||i(t,"class",o.trim(s(t,"class")||"")+" "+e)},e.removeClass=function(t,e){var n;(n=a(t,e))&&i(t,"class",(s(t,"class")||"").replace(n," "))},e.toElements=function(t){if(o.isString(t))return e.querySelectorAll(t);if(t&&t.length){for(var n=[],i=t.length;i--;n.unshift(t[i]));return n}return t?[t]:[]},e.querySelectorAll=function(t,e){if(document.querySelectorAll)e=document.querySelectorAll(t);else{var n=document,o=n.styleSheets[0]||n.createStyleSheet();o.addRule(t,"f:b");for(var i=n.all,s=0,r=[],a=i.length;s<a;s++)i[s].currentStyle.f&&r.push(i[s]);o.removeRule(0),e=r}return e},e.contains=function(t,e,n){if(t==e)return!0;if(!e||!e.nodeType||1!=e.nodeType)return!1;if(t.contains)return t.contains(e);if(t.compareDocumentPosition)return!!(16&t.compareDocumentPosition(e));for(var o=e.parentNode;o&&o!=n;){if(o==t)return!0;o=o.parentNode}return!1},e.equal=function(t,e){return t.nodeName.toLowerCase()===e},e.bindEvent=function(t,e,n){t.attachEvent?t.attachEvent&&t.attachEvent("on"+e,n):t.addEventListener(e,n,{capture:!1,passive:!0})},e.unbindEvent=function(t,e,n){t.detachEvent?t.detachEvent&&t.detachEvent("on"+e,n):t.removeEventListener(e,n,{capture:!1,passive:!0})}}),e("./index.js",function(t,e,n){function o(t){this.init(t)}var i=t("./utils.js"),s=t("./defaults.js"),r=t("./dom.js"),a=t("./loadElement.js");n.exports=o;var l=(window.devicePixelRatio||window.screen.deviceXDPI/window.screen.logicalXDPI)>1,c=function(t,e){t.bottom=(window.innerHeight||document.documentElement.clientHeight)+e,t.right=(window.innerWidth||document.documentElement.clientWidth)+e};i.assign(o.prototype,a,{init:function(t){t=t||{},this.options={};for(var e in s)this.options[e]=t[e]||s[e];this.initContext(),this.render()},initContext:function(){var t=this.options,e=this.context={attrSrc:"src",attrSrcset:"srcset",source:t.src,elements:[],container:r.toElements(t.container)[0]||!1,destroyed:!0,isRetina:l,viewport:{top:0-t.offset,left:0-t.offset},validateT:i.throttle(function(){this.validate()},t.validateDelay,this),saveViewportOffsetT:i.throttle(function(){c(e.viewport,t.offset)},t.validateDelay,this)};c(e.viewport,t.offset),i.each(t.breakpoints,function(t){if(t.width>=window.screen.width)return e.source=t.src,!1})},render:function(){var t=this.options,e=this.context;e.elements=r.toElements(t.elements),e.destroyed&&(e.destroyed=!1,e.container&&r.bindEvent(e.container,"scroll",e.validateT),r.bindEvent(window,"resize",e.saveViewportOffsetT),r.bindEvent(window,"resize",e.validateT),r.bindEvent(window,"scroll",e.validateT)),this.validate()},destroy:function(){this.options;var t=this.context;t.container&&r.unbindEvent(t.container,"scroll",t.validateT),r.unbindEvent(window,"scroll",t.validateT),r.unbindEvent(window,"resize",t.validateT),r.unbindEvent(window,"resize",t.saveViewportOffsetT),t.elements=[],t.destroyed=!0},validate:function(){var t=this.options,e=this.context,n=e.elements,o=n.length;i.each(n,function(n){if(!(r.hasClass(n,e.loadingClass)||r.hasClass(n,t.successClass)||r.hasClass(n,t.errorClass)))return this.elementInView(n)?(this.loadElement(n),void o--):void 0;o--},this),o<=0&&this.destroy()},elementInView:function(t){var e=this.options,n=this.context,o=n.viewport,s=n.container,a=t.getBoundingClientRect();if(r.container&&r.contains(s,t)){var l=s.getBoundingClientRect();if(inView(l,o)){var c=l.top-e.offset,d=l.right+e.offset,u=l.bottom+e.offset,f=l.left-e.offset,h={top:c>o.top?c:o.top,right:d<o.right?d:o.right,bottom:u<o.bottom?u:o.bottom,left:f>o.left?f:o.left};return i.inView(a,h)}return!1}return i.inView(a,o)},load:function(t,e){this.context.elements=r.toElements(t),i.each(t,function(t){this.loadElement(element,e)},this)}})}),e("./loadElement.js",function(t,e,n){function o(t,e,n,o){var r=this,a=s.equal(t,"img"),l=e.split(n.separator),c=l[o.isRetina&&l.length>1?1:0],d=s.getAttr(t,n.srcset),u=t.parentNode,f=u&&s.equal(u,"picture");if(!a&&!i.isUndefined(t.src))return t.src=c,void this.loadElementSuccess(t);var h=new Image,v=function(){r.loadElementError(t,"invalid"),s.unbindEvent(h,"error",v),s.unbindEvent(h,"load",m)},m=function(){a?f||r.handleSrcsetElement(t,c,d):t.style.backgroundImage='url("'+c+'")',r.loadElementSuccess(t),s.unbindEvent(h,"error",v),s.unbindEvent(h,"load",m)};f&&(h=t,i.each(u.getElementsByTagName("source"),function(t){this.handleSourceElement(t,o.attrSrcset,n.srcset)},this)),s.addClass(t,n.loadingClass),s.bindEvent(h,"error",v),s.bindEvent(h,"load",m),this.handleSrcsetElement(h,c,d)}var i=t("./utils.js"),s=t("./dom.js");n.exports={handleSourceElement:function(t,e,n){var o=s.getAttr(t,n);o&&s.setAttr(t,e,o)},handleSrcsetElement:function(t,e,n){n&&s.setAttr(t,this.context.attrSrcset,n),t.src=e},loadElementSuccess:function(t){var e=this.options;s.addClass(t,e.successClass),s.removeClass(t,e.loadingClass),e.success&&e.success(t)},loadElementError:function(t,e){var n=this.options;n.error&&n.error(t,e),s.addClass(t,n.errorClass),s.removeClass(t,n.loadingClass)},loadElement:function(t,e){var n=this.options,r=this.context;if(e||n.loadInvisible||t.offsetWidth>0&&t.offsetHeight>0){var a=s.getAttr(t,r.source)||s.getAttr(t,n.src);a?o.call(this,t,a,n,r):(s.addClass(t,n.loadingClass),s.equal(t,"video")?(i.each(t.getElementsByTagName("source"),function(t){this.handleSourceElement(t,r.attrSrc,n.src)},this),t.load(),this.loadElementSuccess(t)):this.loadElementError(t,"missing"))}}}}),e("./utils.js",function(t,e,n){var o=e.hasOwnProperty=Object.prototype.hasOwnProperty,i=e.toString=Object.prototype.toString,s=e.each=function(t,e,n){if(t&&e)for(var o=t.length,i=0;i<o&&!1!==e.call(n,t[i],i);i++);};e.trim=function(t){return t.replace(/^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g,"")},e.assign=function(t){for(var e=1;e<arguments.length;e++){var n=arguments[e];if(null!=n)for(var i in n)o.call(n,i)&&(t[i]=n[i])}return t},e.isUndefined=function(t){return void 0===t},s(["Arguments","Function","String","Number","Date","RegExp","Error"],function(t){e["is"+t]=function(e){return i.call(e)==="[object "+t+"]"}}),e.throttle=function(t,e,n){var o=0;return function(){var i=+new Date;i-o<e||(o=i,t.apply(n,arguments))}},e.inView=function(t,e){return t.right>=e.left&&t.bottom>=e.top&&t.left<=e.right&&t.top<=e.bottom}}),"function"==typeof define&&define.amd?define(t("./index.js")):"object"==typeof exports?module.exports=t("./index.js"):window.HqyLazyload=t("./index.js")}();var AlbaLoadLazy = function() {var hqyLazy = new HqyLazyload({elements: document.querySelectorAll("[data-src]")})};AlbaLoadLazy();</script><script>function skin_switcher(){localStorage.setItem("mode","rdmode"===localStorage.getItem("mode")?"light":"rdmode"),"rdmode"===localStorage.getItem("mode")?document.documentElement.classList.add("Night"):document.documentElement.classList.remove("Night")}function ToggleMenu(){document.documentElement.classList.toggle("OpenMenu")}</script><script>const getOffsetTop=e=>{const t=e.offsetTop;return e.offsetParent?t+getOffsetTop(e.offsetParent):t};function AlbaLoadMorPostScroall(){var e=!0,t=!0,o=document.querySelector(".Nfeed"),n=o?o.getAttribute("data-page"):"",a=document.querySelector(".AlbaMorBtn"),r=document.querySelector("#AlbaPosts"),s=(document.querySelector(".AYb_Inner"),document.querySelector("#LoadMOreNews"));s&&s.addEventListener("click",(function(o){o.preventDefault(),e&&function(){if(t&&e&&"undefined"!==n){s.innerHTML='<div class="spinner"><svg><use xlink:href="#spinner"></use></svg></div>',t=!1;var o=new XMLHttpRequest;o.open("POST",n),o.onload=function(){if("404"==this.response)e=!1;else{var o=(new DOMParser).parseFromString(this.response,"text/html").documentElement.querySelector(".Nfeed");n=o.getAttribute("data-page"),r.appendChild(o),"undefined"!=typeof AlbaLoadLazy&&AlbaLoadLazy(),""===n&&(e=!1),t=!0}0!=e?s.innerHTML='عرض المزيد':(s.remove(),a.innerHTML='<span class="LoadMOreNews pagination-disabled">لايوجد المزيد من المقالات</span>')},o.send()}}(),AlbaLoadLazy()}))}window,AlbaLoadMorPostScroall();</script>        <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;77bd5ae2e9934fa0a8aa3a006b28cbd7&quot;,&quot;r&quot;:1,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
 
 </body></html>
 	 
