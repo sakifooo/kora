@@ -2,7 +2,7 @@
 
 const HTML_CONTENT = String.raw`
 
-<html dir="rtl" lang="ar"><div id="in-page-channel-node-id" data-channel-name="in_page_channel_T_Bzup"></div><head><style>body {transition: opacity ease-in 0.2s; } 
+<html dir="rtl" lang="ar"><div id="in-page-channel-node-id" data-channel-name="in_page_channel_rFaeug"></div><head><style>body {transition: opacity ease-in 0.2s; } 
 body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; } 
 </style>
       <meta charset="UTF-8">
@@ -60,7 +60,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                         <span class="hed-btn op" onclick="ToggleMenu()"><span class="liwte"><span class="line line-1"></span><span class="line line-2"></span><span class="line line-3"></span></span></span>
             <div class="AYaLogo textlogo" id="AYaLogo">
                    <a href="https://mobikora.live" title="كورة لايف | koora live | كوره لايف مباريات اليوم جوال kora live">
-      <span class="SiteName">كورة لايف</span><span class="SiteUrl">5koora.live</span>    </a>
+      <span class="SiteName">كورة لايف</span><span class="SiteUrl">KOORALV.COM</span>    </a>
                 </div>
             <div class="AYaMainNav">
                <div class="CloseNave" onclick="ToggleMenu()"><span class="liwte"><span class="line line-1"></span><span class="line line-2"></span></span></div>
@@ -88,106 +88,21 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
             <div class="AY_Match live">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="الاتفاق" data-src="https://www.5koora.live/wp-content/uploads/2026/08/8943.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://www.5koora.live/wp-content/uploads/2026/08/8943.png" loading="lazy"></div>
-            <div class="TM_Name">الاتفاق</div>
+            <div class="TM_Logo"><img alt="الاتحاد" data-src="https://koora22.live/wp-content/uploads/2026/08/8593.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koora22.live/wp-content/uploads/2026/08/8593.png" loading="lazy"></div>
+            <div class="TM_Name">الاتحاد</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">18:30</span>
+            <span class="MT_Time">21:00</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
             <div class="MT_Stat">جارية الان</div>
                             <div class="TourName">السعودية, الدوري السعودي</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="الفيصلي" data-src="https://www.5koora.live/wp-content/uploads/2026/08/8949.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://www.5koora.live/wp-content/uploads/2026/08/8949.png" loading="lazy"></div>
-            <div class="TM_Name">الفيصلي</div>
+            <div class="TM_Logo"><img alt="الفيحاء" data-src="https://www.5koora.live/wp-content/uploads/2026/08/20733.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://www.5koora.live/wp-content/uploads/2026/08/20733.png" loading="lazy"></div>
+            <div class="TM_Name">الفيحاء</div>
         </div>
     </div>
-        <a href="https://33.3koorashot.online/2026/05/ssc-sport-1.html" title="تفاصيل وموعد مباراة الاتفاق و الفيصلي بتاريخ 2026-09-08 في دوري السعودية, الدوري السعودي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match comming-soon">
-    <div class="AY_Inner">
-        <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="الحزم" data-src="https://kooorachat.live/wp-content/uploads/2026/08/14895.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">الحزم</div>
-        </div>
-        <div class="MT_Data">
-            <span class="MT_Time">18:55</span>
-            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">بعد قليل</div>
-                            <div class="TourName">السعودية, الدوري السعودي</div>
-                    </div>
-        <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="التعاون" data-src="https://koora22.live/wp-content/uploads/2026/08/8941.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koora22.live/wp-content/uploads/2026/08/8941.png" loading="lazy"></div>
-            <div class="TM_Name">التعاون</div>
-        </div>
-    </div>
-        <a href="https://33.3koorashot.online/2026/05/ssc-sport-2.html" title="تفاصيل وموعد مباراة الحزم و التعاون بتاريخ 2026-09-08 في دوري السعودية, الدوري السعودي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
-    <div class="AY_Inner">
-        <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="كلوب بروج" data-src="https://mobikora.live/wp-content/uploads/2026/09/1169.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://mobikora.live/wp-content/uploads/2026/09/1169.png" loading="lazy"></div>
-            <div class="TM_Name">كلوب بروج</div>
-        </div>
-        <div class="MT_Data">
-            <span class="MT_Time">19:45</span>
-            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">لم تبدأ بعد</div>
-                            <div class="TourName">أوروبا, دوري أبطال اوروبا</div>
-                    </div>
-        <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="أستون فيلا" data-src="https://www.5koora.live/wp-content/uploads/2026/08/109.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://www.5koora.live/wp-content/uploads/2026/08/109.png" loading="lazy"></div>
-            <div class="TM_Name">أستون فيلا</div>
-        </div>
-    </div>
-        <a href="/" title="تفاصيل وموعد مباراة كلوب بروج و أستون فيلا بتاريخ 2026-09-08 في دوري أوروبا, دوري أبطال اوروبا"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
-    <div class="AY_Inner">
-        <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="أيك أثينا" data-src="https://egykora.online/wp-content/uploads/2026/08/1024.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://egykora.online/wp-content/uploads/2026/08/1024.png" loading="lazy"></div>
-            <div class="TM_Name">أيك أثينا</div>
-        </div>
-        <div class="MT_Data">
-            <span class="MT_Time">19:45</span>
-            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">لم تبدأ بعد</div>
-                            <div class="TourName">أوروبا, دوري أبطال اوروبا</div>
-                    </div>
-        <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="لاسك لينز" data-src="https://koora22.live/wp-content/uploads/2026/08/1743.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koora22.live/wp-content/uploads/2026/08/1743.png" loading="lazy"></div>
-            <div class="TM_Name">لاسك لينز</div>
-        </div>
-    </div>
-        <a href="/" title="تفاصيل وموعد مباراة أيك أثينا و لاسك لينز بتاريخ 2026-09-08 في دوري أوروبا, دوري أبطال اوروبا"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
-    <div class="AY_Inner">
-        <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="الزمالك" data-src="https://livekoora4.live/wp-content/uploads/2026/08/8201.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://livekoora4.live/wp-content/uploads/2026/08/8201.png" loading="lazy"></div>
-            <div class="TM_Name">الزمالك</div>
-        </div>
-        <div class="MT_Data">
-            <span class="MT_Time">20:00</span>
-            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">لم تبدأ بعد</div>
-                            <div class="TourName">مصر, الدوري المصري</div>
-                    </div>
-        <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="ابو قير للاسمدة" data-src="https://egykora.online/wp-content/uploads/2026/08/19480.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://egykora.online/wp-content/uploads/2026/08/19480.png" loading="lazy"></div>
-            <div class="TM_Name">ابو قير للاسمدة</div>
-        </div>
-    </div>
-        <a href="/" title="تفاصيل وموعد مباراة الزمالك و ابو قير للاسمدة بتاريخ 2026-09-08 في دوري مصر, الدوري المصري"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
-    <div class="AY_Inner">
-        <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="سموحة" data-src="https://okoora.live/wp-content/uploads/2026/09/8309.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://okoora.live/wp-content/uploads/2026/09/8309.png" loading="lazy"></div>
-            <div class="TM_Name">سموحة</div>
-        </div>
-        <div class="MT_Data">
-            <span class="MT_Time">20:00</span>
-            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">لم تبدأ بعد</div>
-                            <div class="TourName">مصر, الدوري المصري</div>
-                    </div>
-        <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="سيراميكا كليوباترا" data-src="https://mobikora.live/wp-content/uploads/2026/09/50882.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://mobikora.live/wp-content/uploads/2026/09/50882.png" loading="lazy"></div>
-            <div class="TM_Name">سيراميكا كليوباترا</div>
-        </div>
-    </div>
-        <a href="/" title="تفاصيل وموعد مباراة سموحة و سيراميكا كليوباترا بتاريخ 2026-09-08 في دوري مصر, الدوري المصري"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+        <a href="https://33.3koorashot.online/2026/05/ssc-sport-2.html" title="تفاصيل وموعد مباراة الاتحاد و الفيحاء بتاريخ 2026-09-08 في دوري السعودية, الدوري السعودي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
             <div class="TM_Logo"><img alt="القادسية" data-src="https://koora22.live/wp-content/uploads/2026/08/8947.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koora22.live/wp-content/uploads/2026/08/8947.png" loading="lazy"></div>
@@ -196,7 +111,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         <div class="MT_Data">
             <span class="MT_Time">21:00</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">لم تبدأ بعد</div>
+            <div class="MT_Stat">جارية الان</div>
                             <div class="TourName">السعودية, الدوري السعودي</div>
                     </div>
         <div class="MT_Team TM2">
@@ -204,92 +119,109 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
             <div class="TM_Name">الأهلي</div>
         </div>
     </div>
-        <a href="/" title="تفاصيل وموعد مباراة القادسية و الأهلي بتاريخ 2026-09-08 في دوري السعودية, الدوري السعودي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+        <a href="https://33.3koorashot.online/2026/05/ssc-sport-1.html" title="تفاصيل وموعد مباراة القادسية و الأهلي بتاريخ 2026-09-08 في دوري السعودية, الدوري السعودي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="الاتحاد" data-src="https://koora22.live/wp-content/uploads/2026/08/8593.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">الاتحاد</div>
-        </div>
-        <div class="MT_Data">
-            <span class="MT_Time">21:00</span>
-            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">لم تبدأ بعد</div>
-                            <div class="TourName">السعودية, الدوري السعودي</div>
-                    </div>
-        <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="الفيحاء" data-src="https://www.5koora.live/wp-content/uploads/2026/08/20733.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">الفيحاء</div>
-        </div>
-    </div>
-        <a href="/" title="تفاصيل وموعد مباراة الاتحاد و الفيحاء بتاريخ 2026-09-08 في دوري السعودية, الدوري السعودي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
-    <div class="AY_Inner">
-        <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="كريستال بالاس" data-src="https://yallakoora2.online/wp-content/uploads/2026/08/10-1.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">كريستال بالاس</div>
-        </div>
-        <div class="MT_Data">
-            <span class="MT_Time">21:45</span>
-            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">لم تبدأ بعد</div>
-                            <div class="TourName">إنجلترا, كأس الكاراباو - الدور 3</div>
-                    </div>
-        <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="ميدلزبره" data-src="https://mobikora.live/wp-content/uploads/2026/09/115.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">ميدلزبره</div>
-        </div>
-    </div>
-        <a href="/" title="تفاصيل وموعد مباراة كريستال بالاس و ميدلزبره بتاريخ 2026-09-08 في دوري إنجلترا, كأس الكاراباو – الدور 3"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
-    <div class="AY_Inner">
-        <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="بورنموث" data-src="https://kora-live-plus.online/wp-content/uploads/2026/08/50.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="بورنموث" data-src="https://kora-live-plus.online/wp-content/uploads/2026/08/50.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://kora-live-plus.online/wp-content/uploads/2026/08/50.png" loading="lazy"></div>
             <div class="TM_Name">بورنموث</div>
         </div>
         <div class="MT_Data">
             <span class="MT_Time">21:45</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">لم تبدأ بعد</div>
+            <div class="MT_Stat">جارية الان</div>
                             <div class="TourName">إنجلترا, كأس الكاراباو - الدور 3</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="لينكولن" data-src="https://mobikora.live/wp-content/uploads/2026/09/67.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="لينكولن" data-src="https://mobikora.live/wp-content/uploads/2026/09/67.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://mobikora.live/wp-content/uploads/2026/09/67.png" loading="lazy"></div>
             <div class="TM_Name">لينكولن</div>
         </div>
     </div>
-        <a href="/" title="تفاصيل وموعد مباراة بورنموث و لينكولن بتاريخ 2026-09-08 في دوري إنجلترا, كأس الكاراباو – الدور 3"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+        <a href="https://33.3koorashot.online/2026/09/bein-sport-6.html" title="تفاصيل وموعد مباراة بورنموث و لينكولن بتاريخ 2026-09-08 في دوري إنجلترا, كأس الكاراباو – الدور 3"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="ميلوال" data-src="https://www.5koora.live/wp-content/uploads/2026/08/45.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="كريستال بالاس" data-src="https://yallakoora2.online/wp-content/uploads/2026/08/10-1.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://yallakoora2.online/wp-content/uploads/2026/08/10-1.png" loading="lazy"></div>
+            <div class="TM_Name">كريستال بالاس</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">21:45</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">جارية الان</div>
+                            <div class="TourName">إنجلترا, كأس الكاراباو - الدور 3</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="ميدلزبره" data-src="https://mobikora.live/wp-content/uploads/2026/09/115.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://mobikora.live/wp-content/uploads/2026/09/115.png" loading="lazy"></div>
+            <div class="TM_Name">ميدلزبره</div>
+        </div>
+    </div>
+        <a href="https://33.3koorashot.online/2026/09/bein-sport-7.html" title="تفاصيل وموعد مباراة كريستال بالاس و ميدلزبره بتاريخ 2026-09-08 في دوري إنجلترا, كأس الكاراباو – الدور 3"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="ليل" data-src="https://kora-live-plus.online/wp-content/uploads/2026/08/478.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://kora-live-plus.online/wp-content/uploads/2026/08/478.png" loading="lazy"></div>
+            <div class="TM_Name">ليل</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">22:00</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">جارية الان</div>
+                            <div class="TourName">أوروبا, دوري أبطال اوروبا</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="ريال بيتيس" data-src="https://livekoora4.live/wp-content/uploads/2026/08/146.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://livekoora4.live/wp-content/uploads/2026/08/146.png" loading="lazy"></div>
+            <div class="TM_Name">ريال بيتيس</div>
+        </div>
+    </div>
+        <a href="https://11.3koorashot.online/2026/09/bein-sport-2.html" title="تفاصيل وموعد مباراة ليل و ريال بيتيس بتاريخ 2026-09-08 في دوري أوروبا, دوري أبطال اوروبا"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="ريال مدريد" data-src="https://www.5koora.live/wp-content/uploads/2026/08/131.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://www.5koora.live/wp-content/uploads/2026/08/131.png" loading="lazy"></div>
+            <div class="TM_Name">ريال مدريد</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">22:00</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">جارية الان</div>
+                            <div class="TourName">أوروبا, دوري أبطال اوروبا</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="إنتر ميلان" data-src="https://yallakoora2.online/wp-content/uploads/2026/08/224.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://yallakoora2.online/wp-content/uploads/2026/08/224.png" loading="lazy"></div>
+            <div class="TM_Name">إنتر ميلان</div>
+        </div>
+    </div>
+        <a href="https://11.3koorashot.online/2026/09/bein-sport-1.html" title="تفاصيل وموعد مباراة ريال مدريد و إنتر ميلان بتاريخ 2026-09-08 في دوري أوروبا, دوري أبطال اوروبا"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="ميلوال" data-src="https://www.5koora.live/wp-content/uploads/2026/08/45.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://www.5koora.live/wp-content/uploads/2026/08/45.png" loading="lazy"></div>
             <div class="TM_Name">ميلوال</div>
         </div>
         <div class="MT_Data">
             <span class="MT_Time">22:00</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">لم تبدأ بعد</div>
+            <div class="MT_Stat">جارية الان</div>
                             <div class="TourName">إنجلترا, كأس الكاراباو - الدور 3</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="نيوكاسل يونايتد" data-src="https://www.5koora.live/wp-content/uploads/2026/08/116.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="نيوكاسل يونايتد" data-src="https://www.5koora.live/wp-content/uploads/2026/08/116.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://www.5koora.live/wp-content/uploads/2026/08/116.png" loading="lazy"></div>
             <div class="TM_Name">نيوكاسل يونايتد</div>
         </div>
     </div>
-        <a href="/" title="تفاصيل وموعد مباراة ميلوال و نيوكاسل يونايتد بتاريخ 2026-09-08 في دوري إنجلترا, كأس الكاراباو – الدور 3"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+        <a href="https://22.3koorashot.online/2026/09/bein-sport-5.html" title="تفاصيل وموعد مباراة ميلوال و نيوكاسل يونايتد بتاريخ 2026-09-08 في دوري إنجلترا, كأس الكاراباو – الدور 3"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="بورتو" data-src="https://mobikora.live/wp-content/uploads/2026/09/887.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="بورتو" data-src="https://mobikora.live/wp-content/uploads/2026/09/887.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://mobikora.live/wp-content/uploads/2026/09/887.png" loading="lazy"></div>
             <div class="TM_Name">بورتو</div>
         </div>
         <div class="MT_Data">
             <span class="MT_Time">22:00</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">لم تبدأ بعد</div>
+            <div class="MT_Stat">جارية الان</div>
                             <div class="TourName">أوروبا, دوري أبطال اوروبا</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="مانشستر سيتي" data-src="https://koora22.live/wp-content/uploads/2026/08/110.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Logo"><img alt="مانشستر سيتي" data-src="https://koora22.live/wp-content/uploads/2026/08/110.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koora22.live/wp-content/uploads/2026/08/110.png" loading="lazy"></div>
             <div class="TM_Name">مانشستر سيتي</div>
         </div>
     </div>
-        <a href="/" title="تفاصيل وموعد مباراة بورتو و مانشستر سيتي بتاريخ 2026-09-08 في دوري أوروبا, دوري أبطال اوروبا"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+        <a href="https://11.3koorashot.online/2026/09/bein-sport-3.html" title="تفاصيل وموعد مباراة بورتو و مانشستر سيتي بتاريخ 2026-09-08 في دوري أوروبا, دوري أبطال اوروبا"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
             <div class="TM_Logo"><img alt="بوروسيا دورتموند" data-src="https://yallakoora2.online/wp-content/uploads/2026/08/341.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
@@ -298,7 +230,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         <div class="MT_Data">
             <span class="MT_Time">22:00</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">لم تبدأ بعد</div>
+            <div class="MT_Stat">جارية الان</div>
                             <div class="TourName">أوروبا, دوري أبطال اوروبا</div>
                     </div>
         <div class="MT_Team TM2">
@@ -306,41 +238,109 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
             <div class="TM_Name">فياريال</div>
         </div>
     </div>
-        <a href="/" title="تفاصيل وموعد مباراة بوروسيا دورتموند و فياريال بتاريخ 2026-09-08 في دوري أوروبا, دوري أبطال اوروبا"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+        <a href="https://11.3koorashot.online/2026/09/bein-sport-4.html" title="تفاصيل وموعد مباراة بوروسيا دورتموند و فياريال بتاريخ 2026-09-08 في دوري أوروبا, دوري أبطال اوروبا"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match finished">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="ليل" data-src="https://kora-live-plus.online/wp-content/uploads/2026/08/478.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">ليل</div>
+            <div class="TM_Logo"><img alt="الاتفاق" data-src="https://www.5koora.live/wp-content/uploads/2026/08/8943.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">الاتفاق</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">22:00</span>
+            <span class="MT_Time">18:30</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">لم تبدأ بعد</div>
+            <div class="MT_Stat">انتهت</div>
+                            <div class="TourName">السعودية, الدوري السعودي</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="الفيصلي" data-src="https://www.5koora.live/wp-content/uploads/2026/08/8949.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">الفيصلي</div>
+        </div>
+    </div>
+        <a href="https://33.3koorashot.online/2026/05/ssc-sport-1.html" title="تفاصيل وموعد مباراة الاتفاق و الفيصلي بتاريخ 2026-09-08 في دوري السعودية, الدوري السعودي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match finished">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="الحزم" data-src="https://kooorachat.live/wp-content/uploads/2026/08/14895.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">الحزم</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">18:55</span>
+            <span class="MT_Result"><span class="RS-goals">1</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">انتهت</div>
+                            <div class="TourName">السعودية, الدوري السعودي</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="التعاون" data-src="https://koora22.live/wp-content/uploads/2026/08/8941.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">التعاون</div>
+        </div>
+    </div>
+        <a href="https://33.3koorashot.online/2026/05/ssc-sport-2.html" title="تفاصيل وموعد مباراة الحزم و التعاون بتاريخ 2026-09-08 في دوري السعودية, الدوري السعودي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match finished">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="كلوب بروج" data-src="https://mobikora.live/wp-content/uploads/2026/09/1169.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">كلوب بروج</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">19:45</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">انتهت</div>
                             <div class="TourName">أوروبا, دوري أبطال اوروبا</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="ريال بيتيس" data-src="https://livekoora4.live/wp-content/uploads/2026/08/146.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">ريال بيتيس</div>
+            <div class="TM_Logo"><img alt="أستون فيلا" data-src="https://www.5koora.live/wp-content/uploads/2026/08/109.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">أستون فيلا</div>
         </div>
     </div>
-        <a href="/" title="تفاصيل وموعد مباراة ليل و ريال بيتيس بتاريخ 2026-09-08 في دوري أوروبا, دوري أبطال اوروبا"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+        <a href="https://33.3koorashot.online/2026/09/bein-sport-1.html" title="تفاصيل وموعد مباراة كلوب بروج و أستون فيلا بتاريخ 2026-09-08 في دوري أوروبا, دوري أبطال اوروبا"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match finished">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="ريال مدريد" data-src="https://www.5koora.live/wp-content/uploads/2026/08/131.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">ريال مدريد</div>
+            <div class="TM_Logo"><img alt="أيك أثينا" data-src="https://egykora.online/wp-content/uploads/2026/08/1024.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">أيك أثينا</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">22:00</span>
+            <span class="MT_Time">19:45</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">لم تبدأ بعد</div>
+            <div class="MT_Stat">انتهت</div>
                             <div class="TourName">أوروبا, دوري أبطال اوروبا</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="إنتر ميلان" data-src="https://yallakoora2.online/wp-content/uploads/2026/08/224.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">إنتر ميلان</div>
+            <div class="TM_Logo"><img alt="لاسك لينز" data-src="https://koora22.live/wp-content/uploads/2026/08/1743.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">لاسك لينز</div>
         </div>
     </div>
-        <a href="/" title="تفاصيل وموعد مباراة ريال مدريد و إنتر ميلان بتاريخ 2026-09-08 في دوري أوروبا, دوري أبطال اوروبا"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div>        </div>
+        <a href="https://33.3koorashot.online/2026/09/bein-sport-2.html" title="تفاصيل وموعد مباراة أيك أثينا و لاسك لينز بتاريخ 2026-09-08 في دوري أوروبا, دوري أبطال اوروبا"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match finished">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="الزمالك" data-src="https://livekoora4.live/wp-content/uploads/2026/08/8201.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">الزمالك</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">20:00</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">انتهت</div>
+                            <div class="TourName">مصر, الدوري المصري</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="ابو قير للاسمدة" data-src="https://egykora.online/wp-content/uploads/2026/08/19480.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">ابو قير للاسمدة</div>
+        </div>
+    </div>
+        <a href="https://33.3koorashot.online/2026/09/on-time-1.html" title="تفاصيل وموعد مباراة الزمالك و ابو قير للاسمدة بتاريخ 2026-09-08 في دوري مصر, الدوري المصري"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match finished">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="سموحة" data-src="https://okoora.live/wp-content/uploads/2026/09/8309.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">سموحة</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">20:00</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">انتهت</div>
+                            <div class="TourName">مصر, الدوري المصري</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="سيراميكا كليوباترا" data-src="https://mobikora.live/wp-content/uploads/2026/09/50882.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">سيراميكا كليوباترا</div>
+        </div>
+    </div>
+        <a href="https://33.3koorashot.online/2026/09/on-time-2.html" title="تفاصيل وموعد مباراة سموحة و سيراميكا كليوباترا بتاريخ 2026-09-08 في دوري مصر, الدوري المصري"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div>        </div>
         </div>
 <div class="AY_Block PS_1">
             <div class="AYb_Head">
