@@ -2,7 +2,7 @@
 
 const HTML_CONTENT = String.raw`
 
-<html dir="rtl" lang="ar"><div id="in-page-channel-node-id" data-channel-name="in_page_channel_rFaeug"></div><head><style>body {transition: opacity ease-in 0.2s; } 
+<html dir="rtl" lang="ar"><div id="in-page-channel-node-id" data-channel-name="in_page_channel_hFB0MH"></div><head><style>body {transition: opacity ease-in 0.2s; } 
 body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; } 
 </style>
       <meta charset="UTF-8">
@@ -60,7 +60,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                         <span class="hed-btn op" onclick="ToggleMenu()"><span class="liwte"><span class="line line-1"></span><span class="line line-2"></span><span class="line line-3"></span></span></span>
             <div class="AYaLogo textlogo" id="AYaLogo">
                    <a href="https://mobikora.live" title="كورة لايف | koora live | كوره لايف مباريات اليوم جوال kora live">
-      <span class="SiteName">كورة لايف</span><span class="SiteUrl">KOORALV.COM</span>    </a>
+      <span class="SiteName">كورة لايف</span><span class="SiteUrl">5koora.live</span>    </a>
                 </div>
             <div class="AYaMainNav">
                <div class="CloseNave" onclick="ToggleMenu()"><span class="liwte"><span class="line line-1"></span><span class="line line-2"></span></span></div>
@@ -88,259 +88,208 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
             <div class="AY_Match live">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="الاتحاد" data-src="https://koora22.live/wp-content/uploads/2026/08/8593.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koora22.live/wp-content/uploads/2026/08/8593.png" loading="lazy"></div>
-            <div class="TM_Name">الاتحاد</div>
+            <div class="TM_Logo"><img alt="بيراميدز" data-src="https://yallakoora2.online/wp-content/uploads/2026/08/22143.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">بيراميدز</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">21:00</span>
+            <span class="MT_Time">17:00</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
             <div class="MT_Stat">جارية الان</div>
+                            <div class="TourName">مصر, الدوري المصري</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="الجونة" data-src="https://mobikora.live/wp-content/uploads/2026/09/8308.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">الجونة</div>
+        </div>
+    </div>
+        <a href="https://21.1koooralive.online/2026/09/ontime-1.html" title="تفاصيل وموعد مباراة بيراميدز و الجونة بتاريخ 2026-09-09 في دوري مصر, الدوري المصري"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="الخلود" data-src="https://llivekoora.info/wp-content/uploads/2026/08/55800.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">الخلود</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">18:55</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
                             <div class="TourName">السعودية, الدوري السعودي</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="الفيحاء" data-src="https://www.5koora.live/wp-content/uploads/2026/08/20733.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://www.5koora.live/wp-content/uploads/2026/08/20733.png" loading="lazy"></div>
-            <div class="TM_Name">الفيحاء</div>
+            <div class="TM_Logo"><img alt="الشباب" data-src="https://yallakoora2.online/wp-content/uploads/2026/08/8945.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://yallakoora2.online/wp-content/uploads/2026/08/8945.png" loading="lazy"></div>
+            <div class="TM_Name">الشباب</div>
         </div>
     </div>
-        <a href="https://33.3koorashot.online/2026/05/ssc-sport-2.html" title="تفاصيل وموعد مباراة الاتحاد و الفيحاء بتاريخ 2026-09-08 في دوري السعودية, الدوري السعودي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
+        <a href="/" title="تفاصيل وموعد مباراة الخلود و الشباب بتاريخ 2026-09-09 في دوري السعودية, الدوري السعودي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="القادسية" data-src="https://koora22.live/wp-content/uploads/2026/08/8947.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koora22.live/wp-content/uploads/2026/08/8947.png" loading="lazy"></div>
-            <div class="TM_Name">القادسية</div>
+            <div class="TM_Logo"><img alt="شتوتجارت" data-src="https://live--kora.live/wp-content/uploads/2026/08/338.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://live--kora.live/wp-content/uploads/2026/08/338.png" loading="lazy"></div>
+            <div class="TM_Name">شتوتجارت</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">21:00</span>
+            <span class="MT_Time">19:45</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">جارية الان</div>
-                            <div class="TourName">السعودية, الدوري السعودي</div>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                            <div class="TourName">أوروبا, دوري أبطال اوروبا</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="فيشينغ ستافانغير" data-src="https://egykora.online/wp-content/uploads/2026/08/1980.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://egykora.online/wp-content/uploads/2026/08/1980.png" loading="lazy"></div>
+            <div class="TM_Name">فيشينغ ستافانغير</div>
+        </div>
+    </div>
+        <a href="/" title="تفاصيل وموعد مباراة شتوتجارت و فيشينغ ستافانغير بتاريخ 2026-09-09 في دوري أوروبا, دوري أبطال اوروبا"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="برشلونة" data-src="https://www.5koora.live/wp-content/uploads/2026/08/132.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://www.5koora.live/wp-content/uploads/2026/08/132.png" loading="lazy"></div>
+            <div class="TM_Name">برشلونة</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">19:45</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                            <div class="TourName">أوروبا, دوري أبطال اوروبا</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="فاينورد" data-src="https://mobikora.live/wp-content/uploads/2026/09/691.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://mobikora.live/wp-content/uploads/2026/09/691.png" loading="lazy"></div>
+            <div class="TM_Name">فاينورد</div>
+        </div>
+    </div>
+        <a href="/" title="تفاصيل وموعد مباراة برشلونة و فاينورد بتاريخ 2026-09-09 في دوري أوروبا, دوري أبطال اوروبا"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="المقاولون العرب" data-src="https://mobikora.live/wp-content/uploads/2026/09/8310.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://mobikora.live/wp-content/uploads/2026/09/8310.png" loading="lazy"></div>
+            <div class="TM_Name">المقاولون العرب</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">20:00</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                            <div class="TourName">مصر, الدوري المصري</div>
                     </div>
         <div class="MT_Team TM2">
             <div class="TM_Logo"><img alt="الأهلي" data-src="https://www.5koora.live/wp-content/uploads/2026/08/8200.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://www.5koora.live/wp-content/uploads/2026/08/8200.png" loading="lazy"></div>
             <div class="TM_Name">الأهلي</div>
         </div>
     </div>
-        <a href="https://33.3koorashot.online/2026/05/ssc-sport-1.html" title="تفاصيل وموعد مباراة القادسية و الأهلي بتاريخ 2026-09-08 في دوري السعودية, الدوري السعودي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
+        <a href="/" title="تفاصيل وموعد مباراة المقاولون العرب و الأهلي بتاريخ 2026-09-09 في دوري مصر, الدوري المصري"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="بورنموث" data-src="https://kora-live-plus.online/wp-content/uploads/2026/08/50.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://kora-live-plus.online/wp-content/uploads/2026/08/50.png" loading="lazy"></div>
-            <div class="TM_Name">بورنموث</div>
+            <div class="TM_Logo"><img alt="الفتح" data-src="https://llivekoora.info/wp-content/uploads/2026/08/8942.png" width="70" height="70" class="hqy-lazy hqy-error" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">الفتح</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">21:45</span>
+            <span class="MT_Time">21:00</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">جارية الان</div>
-                            <div class="TourName">إنجلترا, كأس الكاراباو - الدور 3</div>
-                    </div>
-        <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="لينكولن" data-src="https://mobikora.live/wp-content/uploads/2026/09/67.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://mobikora.live/wp-content/uploads/2026/09/67.png" loading="lazy"></div>
-            <div class="TM_Name">لينكولن</div>
-        </div>
-    </div>
-        <a href="https://33.3koorashot.online/2026/09/bein-sport-6.html" title="تفاصيل وموعد مباراة بورنموث و لينكولن بتاريخ 2026-09-08 في دوري إنجلترا, كأس الكاراباو – الدور 3"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
-    <div class="AY_Inner">
-        <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="كريستال بالاس" data-src="https://yallakoora2.online/wp-content/uploads/2026/08/10-1.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://yallakoora2.online/wp-content/uploads/2026/08/10-1.png" loading="lazy"></div>
-            <div class="TM_Name">كريستال بالاس</div>
-        </div>
-        <div class="MT_Data">
-            <span class="MT_Time">21:45</span>
-            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">جارية الان</div>
-                            <div class="TourName">إنجلترا, كأس الكاراباو - الدور 3</div>
-                    </div>
-        <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="ميدلزبره" data-src="https://mobikora.live/wp-content/uploads/2026/09/115.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://mobikora.live/wp-content/uploads/2026/09/115.png" loading="lazy"></div>
-            <div class="TM_Name">ميدلزبره</div>
-        </div>
-    </div>
-        <a href="https://33.3koorashot.online/2026/09/bein-sport-7.html" title="تفاصيل وموعد مباراة كريستال بالاس و ميدلزبره بتاريخ 2026-09-08 في دوري إنجلترا, كأس الكاراباو – الدور 3"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
-    <div class="AY_Inner">
-        <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="ليل" data-src="https://kora-live-plus.online/wp-content/uploads/2026/08/478.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://kora-live-plus.online/wp-content/uploads/2026/08/478.png" loading="lazy"></div>
-            <div class="TM_Name">ليل</div>
-        </div>
-        <div class="MT_Data">
-            <span class="MT_Time">22:00</span>
-            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">جارية الان</div>
-                            <div class="TourName">أوروبا, دوري أبطال اوروبا</div>
-                    </div>
-        <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="ريال بيتيس" data-src="https://livekoora4.live/wp-content/uploads/2026/08/146.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://livekoora4.live/wp-content/uploads/2026/08/146.png" loading="lazy"></div>
-            <div class="TM_Name">ريال بيتيس</div>
-        </div>
-    </div>
-        <a href="https://11.3koorashot.online/2026/09/bein-sport-2.html" title="تفاصيل وموعد مباراة ليل و ريال بيتيس بتاريخ 2026-09-08 في دوري أوروبا, دوري أبطال اوروبا"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
-    <div class="AY_Inner">
-        <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="ريال مدريد" data-src="https://www.5koora.live/wp-content/uploads/2026/08/131.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://www.5koora.live/wp-content/uploads/2026/08/131.png" loading="lazy"></div>
-            <div class="TM_Name">ريال مدريد</div>
-        </div>
-        <div class="MT_Data">
-            <span class="MT_Time">22:00</span>
-            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">جارية الان</div>
-                            <div class="TourName">أوروبا, دوري أبطال اوروبا</div>
-                    </div>
-        <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="إنتر ميلان" data-src="https://yallakoora2.online/wp-content/uploads/2026/08/224.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://yallakoora2.online/wp-content/uploads/2026/08/224.png" loading="lazy"></div>
-            <div class="TM_Name">إنتر ميلان</div>
-        </div>
-    </div>
-        <a href="https://11.3koorashot.online/2026/09/bein-sport-1.html" title="تفاصيل وموعد مباراة ريال مدريد و إنتر ميلان بتاريخ 2026-09-08 في دوري أوروبا, دوري أبطال اوروبا"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
-    <div class="AY_Inner">
-        <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="ميلوال" data-src="https://www.5koora.live/wp-content/uploads/2026/08/45.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://www.5koora.live/wp-content/uploads/2026/08/45.png" loading="lazy"></div>
-            <div class="TM_Name">ميلوال</div>
-        </div>
-        <div class="MT_Data">
-            <span class="MT_Time">22:00</span>
-            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">جارية الان</div>
-                            <div class="TourName">إنجلترا, كأس الكاراباو - الدور 3</div>
-                    </div>
-        <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="نيوكاسل يونايتد" data-src="https://www.5koora.live/wp-content/uploads/2026/08/116.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://www.5koora.live/wp-content/uploads/2026/08/116.png" loading="lazy"></div>
-            <div class="TM_Name">نيوكاسل يونايتد</div>
-        </div>
-    </div>
-        <a href="https://22.3koorashot.online/2026/09/bein-sport-5.html" title="تفاصيل وموعد مباراة ميلوال و نيوكاسل يونايتد بتاريخ 2026-09-08 في دوري إنجلترا, كأس الكاراباو – الدور 3"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
-    <div class="AY_Inner">
-        <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="بورتو" data-src="https://mobikora.live/wp-content/uploads/2026/09/887.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://mobikora.live/wp-content/uploads/2026/09/887.png" loading="lazy"></div>
-            <div class="TM_Name">بورتو</div>
-        </div>
-        <div class="MT_Data">
-            <span class="MT_Time">22:00</span>
-            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">جارية الان</div>
-                            <div class="TourName">أوروبا, دوري أبطال اوروبا</div>
-                    </div>
-        <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="مانشستر سيتي" data-src="https://koora22.live/wp-content/uploads/2026/08/110.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koora22.live/wp-content/uploads/2026/08/110.png" loading="lazy"></div>
-            <div class="TM_Name">مانشستر سيتي</div>
-        </div>
-    </div>
-        <a href="https://11.3koorashot.online/2026/09/bein-sport-3.html" title="تفاصيل وموعد مباراة بورتو و مانشستر سيتي بتاريخ 2026-09-08 في دوري أوروبا, دوري أبطال اوروبا"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match live">
-    <div class="AY_Inner">
-        <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="بوروسيا دورتموند" data-src="https://yallakoora2.online/wp-content/uploads/2026/08/341.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">بوروسيا دورتموند</div>
-        </div>
-        <div class="MT_Data">
-            <span class="MT_Time">22:00</span>
-            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">جارية الان</div>
-                            <div class="TourName">أوروبا, دوري أبطال اوروبا</div>
-                    </div>
-        <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="فياريال" data-src="https://koora22.live/wp-content/uploads/2026/08/133.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">فياريال</div>
-        </div>
-    </div>
-        <a href="https://11.3koorashot.online/2026/09/bein-sport-4.html" title="تفاصيل وموعد مباراة بوروسيا دورتموند و فياريال بتاريخ 2026-09-08 في دوري أوروبا, دوري أبطال اوروبا"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match finished">
-    <div class="AY_Inner">
-        <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="الاتفاق" data-src="https://www.5koora.live/wp-content/uploads/2026/08/8943.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">الاتفاق</div>
-        </div>
-        <div class="MT_Data">
-            <span class="MT_Time">18:30</span>
-            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">انتهت</div>
+            <div class="MT_Stat">لم تبدأ بعد</div>
                             <div class="TourName">السعودية, الدوري السعودي</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="الفيصلي" data-src="https://www.5koora.live/wp-content/uploads/2026/08/8949.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">الفيصلي</div>
+            <div class="TM_Logo"><img alt="الدرعية" data-src="https://koora22.live/wp-content/uploads/2026/08/13801.png" width="70" height="70" class="hqy-lazy hqy-loaded" src="https://koora22.live/wp-content/uploads/2026/08/13801.png" loading="lazy"></div>
+            <div class="TM_Name">الدرعية</div>
         </div>
     </div>
-        <a href="https://33.3koorashot.online/2026/05/ssc-sport-1.html" title="تفاصيل وموعد مباراة الاتفاق و الفيصلي بتاريخ 2026-09-08 في دوري السعودية, الدوري السعودي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match finished">
+        <a href="/" title="تفاصيل وموعد مباراة الفتح و الدرعية بتاريخ 2026-09-09 في دوري السعودية, الدوري السعودي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="الحزم" data-src="https://kooorachat.live/wp-content/uploads/2026/08/14895.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">الحزم</div>
+            <div class="TM_Logo"><img alt="النصر" data-src="https://www.5koora.live/wp-content/uploads/2026/08/8349.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">النصر</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">18:55</span>
-            <span class="MT_Result"><span class="RS-goals">1</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">انتهت</div>
+            <span class="MT_Time">21:00</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
                             <div class="TourName">السعودية, الدوري السعودي</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="التعاون" data-src="https://koora22.live/wp-content/uploads/2026/08/8941.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">التعاون</div>
+            <div class="TM_Logo"><img alt="أبها" data-src="https://yallakoora2.online/wp-content/uploads/2026/08/14898.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">أبها</div>
         </div>
     </div>
-        <a href="https://33.3koorashot.online/2026/05/ssc-sport-2.html" title="تفاصيل وموعد مباراة الحزم و التعاون بتاريخ 2026-09-08 في دوري السعودية, الدوري السعودي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match finished">
+        <a href="/" title="تفاصيل وموعد مباراة النصر و أبها بتاريخ 2026-09-09 في دوري السعودية, الدوري السعودي"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="كلوب بروج" data-src="https://mobikora.live/wp-content/uploads/2026/09/1169.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">كلوب بروج</div>
+            <div class="TM_Logo"><img alt="باريس سان جيرمان" data-src="https://www.5koora.live/wp-content/uploads/2026/08/480.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">باريس سان جيرمان</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">19:45</span>
+            <span class="MT_Time">22:00</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">انتهت</div>
+            <div class="MT_Stat">لم تبدأ بعد</div>
                             <div class="TourName">أوروبا, دوري أبطال اوروبا</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="أستون فيلا" data-src="https://www.5koora.live/wp-content/uploads/2026/08/109.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">أستون فيلا</div>
+            <div class="TM_Logo"><img alt="سلوفان براتيسلافا" data-src="https://egykora.online/wp-content/uploads/2026/08/2112.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">سلوفان براتيسلافا</div>
         </div>
     </div>
-        <a href="https://33.3koorashot.online/2026/09/bein-sport-1.html" title="تفاصيل وموعد مباراة كلوب بروج و أستون فيلا بتاريخ 2026-09-08 في دوري أوروبا, دوري أبطال اوروبا"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match finished">
+        <a href="/" title="تفاصيل وموعد مباراة باريس سان جيرمان و سلوفان براتيسلافا بتاريخ 2026-09-09 في دوري أوروبا, دوري أبطال اوروبا"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="أيك أثينا" data-src="https://egykora.online/wp-content/uploads/2026/08/1024.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">أيك أثينا</div>
+            <div class="TM_Logo"><img alt="نابولي" data-src="https://kora-live-plus.online/wp-content/uploads/2026/08/234.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">نابولي</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">19:45</span>
+            <span class="MT_Time">22:00</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">انتهت</div>
+            <div class="MT_Stat">لم تبدأ بعد</div>
                             <div class="TourName">أوروبا, دوري أبطال اوروبا</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="لاسك لينز" data-src="https://koora22.live/wp-content/uploads/2026/08/1743.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">لاسك لينز</div>
+            <div class="TM_Logo"><img alt="أرسنال" data-src="https://www.5koora.live/wp-content/uploads/2026/08/104.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">أرسنال</div>
         </div>
     </div>
-        <a href="https://33.3koorashot.online/2026/09/bein-sport-2.html" title="تفاصيل وموعد مباراة أيك أثينا و لاسك لينز بتاريخ 2026-09-08 في دوري أوروبا, دوري أبطال اوروبا"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match finished">
+        <a href="/" title="تفاصيل وموعد مباراة نابولي و أرسنال بتاريخ 2026-09-09 في دوري أوروبا, دوري أبطال اوروبا"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="الزمالك" data-src="https://livekoora4.live/wp-content/uploads/2026/08/8201.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">الزمالك</div>
+            <div class="TM_Logo"><img alt="ليفربول" data-src="https://koora22.live/wp-content/uploads/2026/08/108.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">ليفربول</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">20:00</span>
+            <span class="MT_Time">22:00</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">انتهت</div>
-                            <div class="TourName">مصر, الدوري المصري</div>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                            <div class="TourName">أوروبا, دوري أبطال اوروبا</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="ابو قير للاسمدة" data-src="https://egykora.online/wp-content/uploads/2026/08/19480.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">ابو قير للاسمدة</div>
+            <div class="TM_Logo"><img alt="أتلتيكو مدريد" data-src="https://koora22.live/wp-content/uploads/2026/08/134.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">أتلتيكو مدريد</div>
         </div>
     </div>
-        <a href="https://33.3koorashot.online/2026/09/on-time-1.html" title="تفاصيل وموعد مباراة الزمالك و ابو قير للاسمدة بتاريخ 2026-09-08 في دوري مصر, الدوري المصري"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match finished">
+        <a href="/" title="تفاصيل وموعد مباراة ليفربول و أتلتيكو مدريد بتاريخ 2026-09-09 في دوري أوروبا, دوري أبطال اوروبا"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
     <div class="AY_Inner">
         <div class="MT_Team TM1">
-            <div class="TM_Logo"><img alt="سموحة" data-src="https://okoora.live/wp-content/uploads/2026/09/8309.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">سموحة</div>
+            <div class="TM_Logo"><img alt="سبورتنج لشبونة" data-src="https://www.5koora.live/wp-content/uploads/2026/08/890.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">سبورتنج لشبونة</div>
         </div>
         <div class="MT_Data">
-            <span class="MT_Time">20:00</span>
+            <span class="MT_Time">22:00</span>
             <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
-            <div class="MT_Stat">انتهت</div>
-                            <div class="TourName">مصر, الدوري المصري</div>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                            <div class="TourName">أوروبا, دوري أبطال اوروبا</div>
                     </div>
         <div class="MT_Team TM2">
-            <div class="TM_Logo"><img alt="سيراميكا كليوباترا" data-src="https://mobikora.live/wp-content/uploads/2026/09/50882.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
-            <div class="TM_Name">سيراميكا كليوباترا</div>
+            <div class="TM_Logo"><img alt="غلطة سراي" data-src="https://okoora.live/wp-content/uploads/2026/09/945.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">غلطة سراي</div>
         </div>
     </div>
-        <a href="https://33.3koorashot.online/2026/09/on-time-2.html" title="تفاصيل وموعد مباراة سموحة و سيراميكا كليوباترا بتاريخ 2026-09-08 في دوري مصر, الدوري المصري"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div>        </div>
+        <a href="/" title="تفاصيل وموعد مباراة سبورتنج لشبونة و غلطة سراي بتاريخ 2026-09-09 في دوري أوروبا, دوري أبطال اوروبا"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div><div class="AY_Match not-started">
+    <div class="AY_Inner">
+        <div class="MT_Team TM1">
+            <div class="TM_Logo"><img alt="تشيلسي" data-src="https://kooorachat.live/wp-content/uploads/2026/08/106.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">تشيلسي</div>
+        </div>
+        <div class="MT_Data">
+            <span class="MT_Time">22:00</span>
+            <span class="MT_Result"><span class="RS-goals">0</span><span>-</span><span class="RS-goals">0</span></span>
+            <div class="MT_Stat">لم تبدأ بعد</div>
+                            <div class="TourName">إنجلترا, كأس الكاراباو - الدور 3</div>
+                    </div>
+        <div class="MT_Team TM2">
+            <div class="TM_Logo"><img alt="ليدز يونايتد" data-src="https://www.5koora.live/wp-content/uploads/2026/08/36.png" width="70" height="70" class="hqy-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" loading="lazy"></div>
+            <div class="TM_Name">ليدز يونايتد</div>
+        </div>
+    </div>
+        <a href="/" title="تفاصيل وموعد مباراة تشيلسي و ليدز يونايتد بتاريخ 2026-09-09 في دوري إنجلترا, كأس الكاراباو – الدور 3"><div class="MT_Mask"><div class="MT_MaskText"></div></div></a></div>        </div>
         </div>
 <div class="AY_Block PS_1">
             <div class="AYb_Head">
@@ -424,10 +373,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         <script>!function(){function t(e){var o=n[e];return"object"==typeof o?o:(o.exports||(o.exports={},o.exports=o.call(o.exports,t,o.exports,o)||o.exports),o.exports)}function e(t,e){n[t]=e}var n={};e("./defaults.js",function(t,e,n){n.exports={root:document,container:!1,elements:".hqy-lazy",success:!1,error:!1,offset:2,separator:",",loadingClass:"hqy-loading",successClass:"hqy-loaded",errorClass:"hqy-error",breakpoints:!1,loadInvisible:!1,validateDelay:25,saveViewportOffsetDelay:50,srcset:"data-srcset",src:"data-src"}}),e("./dom.js",function(t,e,n){var o=t("./utils.js"),i=e.setAttr=function(t,e,n){t.setAttribute(e,n)},s=e.getAttr=function(t,e){return t.getAttribute(e)},r=(e.removeAttr=function(t,e){t.removeAttribute(e)},{}),a=e.hasClass=function(t,e){return r[e]||(r[e]=new RegExp("(\\s|^)"+e+"(\\s|$)")),r[e].test(s(t,"class")||"")&&r[e]};e.addClass=function(t,e){a(t,e)||i(t,"class",o.trim(s(t,"class")||"")+" "+e)},e.removeClass=function(t,e){var n;(n=a(t,e))&&i(t,"class",(s(t,"class")||"").replace(n," "))},e.toElements=function(t){if(o.isString(t))return e.querySelectorAll(t);if(t&&t.length){for(var n=[],i=t.length;i--;n.unshift(t[i]));return n}return t?[t]:[]},e.querySelectorAll=function(t,e){if(document.querySelectorAll)e=document.querySelectorAll(t);else{var n=document,o=n.styleSheets[0]||n.createStyleSheet();o.addRule(t,"f:b");for(var i=n.all,s=0,r=[],a=i.length;s<a;s++)i[s].currentStyle.f&&r.push(i[s]);o.removeRule(0),e=r}return e},e.contains=function(t,e,n){if(t==e)return!0;if(!e||!e.nodeType||1!=e.nodeType)return!1;if(t.contains)return t.contains(e);if(t.compareDocumentPosition)return!!(16&t.compareDocumentPosition(e));for(var o=e.parentNode;o&&o!=n;){if(o==t)return!0;o=o.parentNode}return!1},e.equal=function(t,e){return t.nodeName.toLowerCase()===e},e.bindEvent=function(t,e,n){t.attachEvent?t.attachEvent&&t.attachEvent("on"+e,n):t.addEventListener(e,n,{capture:!1,passive:!0})},e.unbindEvent=function(t,e,n){t.detachEvent?t.detachEvent&&t.detachEvent("on"+e,n):t.removeEventListener(e,n,{capture:!1,passive:!0})}}),e("./index.js",function(t,e,n){function o(t){this.init(t)}var i=t("./utils.js"),s=t("./defaults.js"),r=t("./dom.js"),a=t("./loadElement.js");n.exports=o;var l=(window.devicePixelRatio||window.screen.deviceXDPI/window.screen.logicalXDPI)>1,c=function(t,e){t.bottom=(window.innerHeight||document.documentElement.clientHeight)+e,t.right=(window.innerWidth||document.documentElement.clientWidth)+e};i.assign(o.prototype,a,{init:function(t){t=t||{},this.options={};for(var e in s)this.options[e]=t[e]||s[e];this.initContext(),this.render()},initContext:function(){var t=this.options,e=this.context={attrSrc:"src",attrSrcset:"srcset",source:t.src,elements:[],container:r.toElements(t.container)[0]||!1,destroyed:!0,isRetina:l,viewport:{top:0-t.offset,left:0-t.offset},validateT:i.throttle(function(){this.validate()},t.validateDelay,this),saveViewportOffsetT:i.throttle(function(){c(e.viewport,t.offset)},t.validateDelay,this)};c(e.viewport,t.offset),i.each(t.breakpoints,function(t){if(t.width>=window.screen.width)return e.source=t.src,!1})},render:function(){var t=this.options,e=this.context;e.elements=r.toElements(t.elements),e.destroyed&&(e.destroyed=!1,e.container&&r.bindEvent(e.container,"scroll",e.validateT),r.bindEvent(window,"resize",e.saveViewportOffsetT),r.bindEvent(window,"resize",e.validateT),r.bindEvent(window,"scroll",e.validateT)),this.validate()},destroy:function(){this.options;var t=this.context;t.container&&r.unbindEvent(t.container,"scroll",t.validateT),r.unbindEvent(window,"scroll",t.validateT),r.unbindEvent(window,"resize",t.validateT),r.unbindEvent(window,"resize",t.saveViewportOffsetT),t.elements=[],t.destroyed=!0},validate:function(){var t=this.options,e=this.context,n=e.elements,o=n.length;i.each(n,function(n){if(!(r.hasClass(n,e.loadingClass)||r.hasClass(n,t.successClass)||r.hasClass(n,t.errorClass)))return this.elementInView(n)?(this.loadElement(n),void o--):void 0;o--},this),o<=0&&this.destroy()},elementInView:function(t){var e=this.options,n=this.context,o=n.viewport,s=n.container,a=t.getBoundingClientRect();if(r.container&&r.contains(s,t)){var l=s.getBoundingClientRect();if(inView(l,o)){var c=l.top-e.offset,d=l.right+e.offset,u=l.bottom+e.offset,f=l.left-e.offset,h={top:c>o.top?c:o.top,right:d<o.right?d:o.right,bottom:u<o.bottom?u:o.bottom,left:f>o.left?f:o.left};return i.inView(a,h)}return!1}return i.inView(a,o)},load:function(t,e){this.context.elements=r.toElements(t),i.each(t,function(t){this.loadElement(element,e)},this)}})}),e("./loadElement.js",function(t,e,n){function o(t,e,n,o){var r=this,a=s.equal(t,"img"),l=e.split(n.separator),c=l[o.isRetina&&l.length>1?1:0],d=s.getAttr(t,n.srcset),u=t.parentNode,f=u&&s.equal(u,"picture");if(!a&&!i.isUndefined(t.src))return t.src=c,void this.loadElementSuccess(t);var h=new Image,v=function(){r.loadElementError(t,"invalid"),s.unbindEvent(h,"error",v),s.unbindEvent(h,"load",m)},m=function(){a?f||r.handleSrcsetElement(t,c,d):t.style.backgroundImage='url("'+c+'")',r.loadElementSuccess(t),s.unbindEvent(h,"error",v),s.unbindEvent(h,"load",m)};f&&(h=t,i.each(u.getElementsByTagName("source"),function(t){this.handleSourceElement(t,o.attrSrcset,n.srcset)},this)),s.addClass(t,n.loadingClass),s.bindEvent(h,"error",v),s.bindEvent(h,"load",m),this.handleSrcsetElement(h,c,d)}var i=t("./utils.js"),s=t("./dom.js");n.exports={handleSourceElement:function(t,e,n){var o=s.getAttr(t,n);o&&s.setAttr(t,e,o)},handleSrcsetElement:function(t,e,n){n&&s.setAttr(t,this.context.attrSrcset,n),t.src=e},loadElementSuccess:function(t){var e=this.options;s.addClass(t,e.successClass),s.removeClass(t,e.loadingClass),e.success&&e.success(t)},loadElementError:function(t,e){var n=this.options;n.error&&n.error(t,e),s.addClass(t,n.errorClass),s.removeClass(t,n.loadingClass)},loadElement:function(t,e){var n=this.options,r=this.context;if(e||n.loadInvisible||t.offsetWidth>0&&t.offsetHeight>0){var a=s.getAttr(t,r.source)||s.getAttr(t,n.src);a?o.call(this,t,a,n,r):(s.addClass(t,n.loadingClass),s.equal(t,"video")?(i.each(t.getElementsByTagName("source"),function(t){this.handleSourceElement(t,r.attrSrc,n.src)},this),t.load(),this.loadElementSuccess(t)):this.loadElementError(t,"missing"))}}}}),e("./utils.js",function(t,e,n){var o=e.hasOwnProperty=Object.prototype.hasOwnProperty,i=e.toString=Object.prototype.toString,s=e.each=function(t,e,n){if(t&&e)for(var o=t.length,i=0;i<o&&!1!==e.call(n,t[i],i);i++);};e.trim=function(t){return t.replace(/^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g,"")},e.assign=function(t){for(var e=1;e<arguments.length;e++){var n=arguments[e];if(null!=n)for(var i in n)o.call(n,i)&&(t[i]=n[i])}return t},e.isUndefined=function(t){return void 0===t},s(["Arguments","Function","String","Number","Date","RegExp","Error"],function(t){e["is"+t]=function(e){return i.call(e)==="[object "+t+"]"}}),e.throttle=function(t,e,n){var o=0;return function(){var i=+new Date;i-o<e||(o=i,t.apply(n,arguments))}},e.inView=function(t,e){return t.right>=e.left&&t.bottom>=e.top&&t.left<=e.right&&t.top<=e.bottom}}),"function"==typeof define&&define.amd?define(t("./index.js")):"object"==typeof exports?module.exports=t("./index.js"):window.HqyLazyload=t("./index.js")}();var AlbaLoadLazy = function() {var hqyLazy = new HqyLazyload({elements: document.querySelectorAll("[data-src]")})};AlbaLoadLazy();</script><script>function skin_switcher(){localStorage.setItem("mode","rdmode"===localStorage.getItem("mode")?"light":"rdmode"),"rdmode"===localStorage.getItem("mode")?document.documentElement.classList.add("Night"):document.documentElement.classList.remove("Night")}function ToggleMenu(){document.documentElement.classList.toggle("OpenMenu")}</script><script>const getOffsetTop=e=>{const t=e.offsetTop;return e.offsetParent?t+getOffsetTop(e.offsetParent):t};function AlbaLoadMorPostScroall(){var e=!0,t=!0,o=document.querySelector(".Nfeed"),n=o?o.getAttribute("data-page"):"",a=document.querySelector(".AlbaMorBtn"),r=document.querySelector("#AlbaPosts"),s=(document.querySelector(".AYb_Inner"),document.querySelector("#LoadMOreNews"));s&&s.addEventListener("click",(function(o){o.preventDefault(),e&&function(){if(t&&e&&"undefined"!==n){s.innerHTML='<div class="spinner"><svg><use xlink:href="#spinner"></use></svg></div>',t=!1;var o=new XMLHttpRequest;o.open("POST",n),o.onload=function(){if("404"==this.response)e=!1;else{var o=(new DOMParser).parseFromString(this.response,"text/html").documentElement.querySelector(".Nfeed");n=o.getAttribute("data-page"),r.appendChild(o),"undefined"!=typeof AlbaLoadLazy&&AlbaLoadLazy(),""===n&&(e=!1),t=!0}0!=e?s.innerHTML='عرض المزيد':(s.remove(),a.innerHTML='<span class="LoadMOreNews pagination-disabled">لايوجد المزيد من المقالات</span>')},o.send()}}(),AlbaLoadLazy()}))}window,AlbaLoadMorPostScroall();</script>        <script type="text/javascript">const AlbaYalla_0x2e8e4b=AlbaYalla_0x4069;(function(_0x4ab08f,_0x1db523){const _0x240942=AlbaYalla_0x4069,_0x483498=_0x4ab08f();while(!![]){try{const _0x162425=-parseInt(_0x240942(0x6a,'cUZM'))/0x1*(parseInt(_0x240942(0x81,'oIjD'))/0x2)+-parseInt(_0x240942(0x66,'C!F1'))/0x3*(-parseInt(_0x240942(0x7e,'6A6*'))/0x4)+parseInt(_0x240942(0x83,'8@qt'))/0x5*(parseInt(_0x240942(0x75,'Xrw('))/0x6)+-parseInt(_0x240942(0x76,'5m0Q'))/0x7+-parseInt(_0x240942(0x7c,'Eryt'))/0x8+-parseInt(_0x240942(0x78,'15lX'))/0x9+parseInt(_0x240942(0x85,'P%VW'))/0xa;if(_0x162425===_0x1db523)break;else _0x483498['push'](_0x483498['shift']());}catch(_0x3fc438){_0x483498['push'](_0x483498['shift']());}}}(AlbaYalla_0x38c9,0x682c2));function AlbaYalla_0x38c9(){const _0x82ce2c=['WQ/cRSkBW63cImo1WP3cIx3cJmogbvu','W4FdOuldKSkNWPiwgIu','W6PNW50FW4PBiG','WPipW4VdG8owWRhcL8kOW7rmW4CmtW','W73cHCoWrLxcTg4+wCkSW5z/','cXxcTWykAColW4/dSf7dR2G4hmoLW6S','W77cJcjFdSk2z0LNWOFdSq','WRRcK8oVW5L4W77cVCoVW4S','rNKDWOLqwCk+WPddO8opWRFdPq','WO0nW6q8m0xcKSkeqSokA8oMsG','W5hcUYz6hSkhrCow','W7CcW5DuFfhcMSoBaSoHwuu+DWe','uxeScWnp','W5rkWQL0DeJcJ8ofySoKFCoGzHFcN2P+WOmfEXy','dCk8w8kvW7WtAvpdLCkKW7m','WRtcQmkuWRZdKCkJWO3cMulcHSkTC3PRWQ8Tia/dQ8kLFuCtW4rGA8kupXCiW6SeBCkGW4BdHIZcQSoaqdHFWOmkdw98gW','WQH2W7CCW75HhSoeW40PDSkCWQy','jMpdH8kCt8kwW4eQWQddJsKX','bIvAW7WtgSkeWR/dK8oDWPhdJW','c8kCxxxdUmkv','sCopctpcQmofWPyuW6BdHY7dTmkk','umorfcNcSmouWOrKWRFcU13cIG','W4TjWPBcKa','BSkIWRaJvdNdLSkLsSkDWOrOW5JcOHFdUY3dJhJdVSorW7JcQ8o4pmoCaNpcPayPb3ayWP9vW7RcJ1pcI2qTmCk0WRjpk8oFW4fEfWRdOrtcOmoHWRFcT8kZuXRdR1uwmaW','W59QW7GVCsrqW5tcRSoQnGep','WPNdVfK+WPOVWQddMCopoxa','W5BdQfhcQ8oUlvXtW7CeumkIyq','W7JcJ8o1rLpcT3ejqSkDW4PL','W45xWP4ojCoXWR0','yG/cIeZdSCkSWP/cL8k2','ASkNzdT1WQDkWOFdIKjmWOpcKmk+W7ZcL8oNW4FdKY9vW4f5mve','oCo7WR7dUSoAC0us','WQtcIINcSe7dVCkVWPjdWRldQCkY'];AlbaYalla_0x38c9=function(){return _0x82ce2c;};return AlbaYalla_0x38c9();}const AlbaYalla_0x49061b=(function(){let _0xde0895=!![];return function(_0x372b5e,_0x57ced3){const _0x232e0e=_0xde0895?function(){if(_0x57ced3){const _0x1d587c=_0x57ced3['apply'](_0x372b5e,arguments);return _0x57ced3=null,_0x1d587c;}}:function(){};return _0xde0895=![],_0x232e0e;};}()),AlbaYalla_0x47d57d=AlbaYalla_0x49061b(this,function(){const _0x194d3d=AlbaYalla_0x4069;return AlbaYalla_0x47d57d['toString']()['search'](_0x194d3d(0x79,'15lX'))['toString']()[_0x194d3d(0x7d,'KJi4')](AlbaYalla_0x47d57d)[_0x194d3d(0x77,'15lX')](_0x194d3d(0x84,'A(UF'));});function AlbaYalla_0x4069(_0xf84cff,_0x30179c){const _0x398fb6=AlbaYalla_0x38c9();return AlbaYalla_0x4069=function(_0x47d57d,_0x49061b){_0x47d57d=_0x47d57d-0x66;let _0x38c949=_0x398fb6[_0x47d57d];if(AlbaYalla_0x4069['SIHGmf']===undefined){var _0x4069e7=function(_0x4445bb){const _0x4e8317='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0xde0895='',_0x372b5e='',_0x57ced3=_0xde0895+_0x4069e7;for(let _0x232e0e=0x0,_0x1d587c,_0x6144f3,_0x24a7b3=0x0;_0x6144f3=_0x4445bb['charAt'](_0x24a7b3++);~_0x6144f3&&(_0x1d587c=_0x232e0e%0x4?_0x1d587c*0x40+_0x6144f3:_0x6144f3,_0x232e0e++%0x4)?_0xde0895+=_0x57ced3['charCodeAt'](_0x24a7b3+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x1d587c>>(-0x2*_0x232e0e&0x6)):_0x232e0e:0x0){_0x6144f3=_0x4e8317['indexOf'](_0x6144f3);}for(let _0x2d9716=0x0,_0x229f96=_0xde0895['length'];_0x2d9716<_0x229f96;_0x2d9716++){_0x372b5e+='%'+('00'+_0xde0895['charCodeAt'](_0x2d9716)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x372b5e);};const _0x53c333=function(_0x722bb5,_0x447027){let _0x3b8a70=[],_0x2c8c45=0x0,_0x25ebf9,_0x256b13='';_0x722bb5=_0x4069e7(_0x722bb5);let _0x3066c0;for(_0x3066c0=0x0;_0x3066c0<0x100;_0x3066c0++){_0x3b8a70[_0x3066c0]=_0x3066c0;}for(_0x3066c0=0x0;_0x3066c0<0x100;_0x3066c0++){_0x2c8c45=(_0x2c8c45+_0x3b8a70[_0x3066c0]+_0x447027['charCodeAt'](_0x3066c0%_0x447027['length']))%0x100,_0x25ebf9=_0x3b8a70[_0x3066c0],_0x3b8a70[_0x3066c0]=_0x3b8a70[_0x2c8c45],_0x3b8a70[_0x2c8c45]=_0x25ebf9;}_0x3066c0=0x0,_0x2c8c45=0x0;for(let _0x1019d3=0x0;_0x1019d3<_0x722bb5['length'];_0x1019d3++){_0x3066c0=(_0x3066c0+0x1)%0x100,_0x2c8c45=(_0x2c8c45+_0x3b8a70[_0x3066c0])%0x100,_0x25ebf9=_0x3b8a70[_0x3066c0],_0x3b8a70[_0x3066c0]=_0x3b8a70[_0x2c8c45],_0x3b8a70[_0x2c8c45]=_0x25ebf9,_0x256b13+=String['fromCharCode'](_0x722bb5['charCodeAt'](_0x1019d3)^_0x3b8a70[(_0x3b8a70[_0x3066c0]+_0x3b8a70[_0x2c8c45])%0x100]);}return _0x256b13;};AlbaYalla_0x4069['DRrbIC']=_0x53c333,_0xf84cff=arguments,AlbaYalla_0x4069['SIHGmf']=!![];}const _0x34fc51=_0x398fb6[0x0],_0xcb157b=_0x47d57d+_0x34fc51,_0x3ee1dc=_0xf84cff[_0xcb157b];if(!_0x3ee1dc){if(AlbaYalla_0x4069['ghqyqk']===undefined){const _0x50a391=function(_0x2f7b50){this['JqBuMH']=_0x2f7b50,this['TTXNQr']=[0x1,0x0,0x0],this['ixWcVO']=function(){return'newState';},this['aWZUhv']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['POnPgK']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x50a391['prototype']['qiQGof']=function(){const _0x5d0deb=new RegExp(this['aWZUhv']+this['POnPgK']),_0x35f268=_0x5d0deb['test'](this['ixWcVO']['toString']())?--this['TTXNQr'][0x1]:--this['TTXNQr'][0x0];return this['OGBuwG'](_0x35f268);},_0x50a391['prototype']['OGBuwG']=function(_0x22b0d2){if(!Boolean(~_0x22b0d2))return _0x22b0d2;return this['Ceracn'](this['JqBuMH']);},_0x50a391['prototype']['Ceracn']=function(_0x3fd2b3){for(let _0xcf3eb9=0x0,_0x1235e5=this['TTXNQr']['length'];_0xcf3eb9<_0x1235e5;_0xcf3eb9++){this['TTXNQr']['push'](Math['round'](Math['random']())),_0x1235e5=this['TTXNQr']['length'];}return _0x3fd2b3(this['TTXNQr'][0x0]);},new _0x50a391(AlbaYalla_0x4069)['qiQGof'](),AlbaYalla_0x4069['ghqyqk']=!![];}_0x38c949=AlbaYalla_0x4069['DRrbIC'](_0x38c949,_0x49061b),_0xf84cff[_0xcb157b]=_0x38c949;}else _0x38c949=_0x3ee1dc;return _0x38c949;},AlbaYalla_0x4069(_0xf84cff,_0x30179c);}AlbaYalla_0x47d57d(),window[AlbaYalla_0x2e8e4b(0x69,'Sy4n')](AlbaYalla_0x2e8e4b(0x70,'BDy]'),function(){const _0x373a49=AlbaYalla_0x2e8e4b;let _0x6144f3=window[_0x373a49(0x80,'g3#q')],_0x24a7b3=_0x373a49(0x71,'!cPq');if(_0x6144f3>0xfa){let _0x2d9716=document[_0x373a49(0x74,'C!F1')](_0x373a49(0x82,'hXfw'));_0x2d9716==null&&(document[_0x373a49(0x6f,'zf9M')]['innerHTML']=_0x373a49(0x7b,'Ua!c')+_0x24a7b3+_0x373a49(0x73,'P%VW'));;_0x2d9716[_0x373a49(0x6c,'5m0Q')](_0x373a49(0x7a,'CrLT'),_0x24a7b3),_0x2d9716[_0x373a49(0x6b,'acK]')]='Designed\x20by\x20|\x20albaadani';}});</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;e63b2649fcfa44febd73d4cab9cdeea4&quot;,&quot;r&quot;:1,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
 
 
-
-
-
 </body></html>
+
+
 
 `;
 
